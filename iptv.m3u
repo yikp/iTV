@@ -331,35 +331,35 @@ http://10.10.1.77:7777/rtp/239.93.0.91:2101
 http://10.10.1.77:7777/rtp/239.93.1.165:5140
 #EXTINF:-1,tvg-id="百姓健康" tvg-name="百姓健康" tvg-logo="https://epg.112114.xyz/logo/百姓健康.png" group-title="其他",百姓健康
 http://10.10.1.77:7777/rtp/239.93.42.35:5140
-#EXTINF:-1,tvg-id="爱怀旧高清" tvg-name="爱怀旧高清" tvg-logo="https://epg.112114.xyz/logo/爱怀旧.png" group-title="其他",爱怀旧高清
+#EXTINF:-1,tvg-id="爱怀旧高清" tvg-name="爱怀旧高清" tvg-logo="https://epg.112114.xyz/logo/爱怀旧.png" group-title="影视",爱怀旧高清
 http://10.10.1.77:7777/rtp/239.93.42.21:5140
-#EXTINF:-1,tvg-id="爱喜剧高清" tvg-name="爱喜剧高清" tvg-logo="https://epg.112114.xyz/logo/爱喜剧.png" group-title="其他",爱喜剧高清
+#EXTINF:-1,tvg-id="爱喜剧高清" tvg-name="爱喜剧高清" tvg-logo="https://epg.112114.xyz/logo/爱喜剧.png" group-title="影视",爱喜剧高清
 http://10.10.1.77:7777/rtp/239.93.42.9:5140
-#EXTINF:-1,tvg-id="爱奇谈高清" tvg-name="爱奇谈高清" tvg-logo="https://epg.112114.xyz/logo/爱奇谈.png" group-title="其他",爱奇谈高清
+#EXTINF:-1,tvg-id="爱奇谈高清" tvg-name="爱奇谈高清" tvg-logo="https://epg.112114.xyz/logo/爱奇谈.png" group-title="影视",爱奇谈高清
 http://10.10.1.77:7777/rtp/239.93.42.22:5140
-#EXTINF:-1,tvg-id="爱科幻高清" tvg-name="爱科幻高清" tvg-logo="https://epg.112114.xyz/logo/爱科幻.png" group-title="其他",爱科幻高清
+#EXTINF:-1,tvg-id="爱科幻高清" tvg-name="爱科幻高清" tvg-logo="https://epg.112114.xyz/logo/爱科幻.png" group-title="影视",爱科幻高清
 http://10.10.1.77:7777/rtp/239.93.42.10:5140
-#EXTINF:-1,tvg-id="爱院线高清" tvg-name="爱院线高清" tvg-logo="https://epg.112114.xyz/logo/爱院线.png" group-title="其他",爱院线高清
+#EXTINF:-1,tvg-id="爱院线高清" tvg-name="爱院线高清" tvg-logo="https://epg.112114.xyz/logo/爱院线.png" group-title="影视",爱院线高清
 http://10.10.1.77:7777/rtp/239.93.42.11:5140
-#EXTINF:-1,tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png" group-title="其他",都市剧场
+#EXTINF:-1,tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png" group-title="影视",都市剧场
 http://10.10.1.77:7777/rtp/239.93.42.30:5140
-#EXTINF:-1,tvg-id="爱谍战高清" tvg-name="爱谍战高清" tvg-logo="https://epg.112114.xyz/logo/爱谍战.png" group-title="其他",爱谍战高清
+#EXTINF:-1,tvg-id="爱谍战高清" tvg-name="爱谍战高清" tvg-logo="https://epg.112114.xyz/logo/爱谍战.png" group-title="影视",爱谍战高清
 http://10.10.1.77:7777/rtp/239.93.42.14:5140
-#EXTINF:-1,tvg-id="爱经典高清" tvg-name="爱经典高清" tvg-logo="https://epg.112114.xyz/logo/爱经典.png" group-title="其他",爱经典高清
+#EXTINF:-1,tvg-id="爱经典高清" tvg-name="爱经典高清" tvg-logo="https://epg.112114.xyz/logo/爱经典.png" group-title="影视",爱经典高清
 http://10.10.1.77:7777/rtp/239.93.42.13:5140
-#EXTINF:-1,tvg-id="爱悬疑高清" tvg-name="爱悬疑高清" tvg-logo="https://epg.112114.xyz/logo/爱悬疑.png" group-title="其他",爱悬疑高清
+#EXTINF:-1,tvg-id="爱悬疑高清" tvg-name="爱悬疑高清" tvg-logo="https://epg.112114.xyz/logo/爱悬疑.png" group-title="影视",爱悬疑高清
 http://10.10.1.77:7777/rtp/239.93.42.12:5140
-#EXTINF:-1,tvg-id="爱青春高清" tvg-name="爱青春高清" tvg-logo="https://epg.112114.xyz/logo/爱青春.png" group-title="其他",爱青春高清
+#EXTINF:-1,tvg-id="爱青春高清" tvg-name="爱青春高清" tvg-logo="https://epg.112114.xyz/logo/爱青春.png" group-title="影视",爱青春高清
 http://10.10.1.77:7777/rtp/239.93.42.16:5140
-#EXTINF:-1,tvg-id="爱都市高清" tvg-name="爱都市高清" tvg-logo="https://epg.112114.xyz/logo/爱都市.png" group-title="其他",爱都市高清
+#EXTINF:-1,tvg-id="爱都市高清" tvg-name="爱都市高清" tvg-logo="https://epg.112114.xyz/logo/爱都市.png" group-title="影视",爱都市高清
 http://10.10.1.77:7777/rtp/239.93.42.15:5140
-#EXTINF:-1,tvg-id="少儿天地" tvg-name="少儿天地" tvg-logo="https://epg.112114.xyz/logo/少儿天地.png" group-title="其他",少儿天地
+#EXTINF:-1,tvg-id="少儿天地" tvg-name="少儿天地" tvg-logo="https://epg.112114.xyz/logo/少儿天地.png" group-title="卡通",少儿天地
 http://10.10.1.77:7777/rtp/239.93.42.34:5140
-#EXTINF:-1,tvg-id="爱幼教高清" tvg-name="爱幼教高清" tvg-logo="https://epg.112114.xyz/logo/爱幼教.png" group-title="其他",爱幼教高清
+#EXTINF:-1,tvg-id="爱幼教高清" tvg-name="爱幼教高清" tvg-logo="https://epg.112114.xyz/logo/爱幼教.png" group-title="卡通",爱幼教高清
 http://10.10.1.77:7777/rtp/239.93.42.17:5140
-#EXTINF:-1,tvg-id="爱玩具高清" tvg-name="爱玩具高清" tvg-logo="https://epg.112114.xyz/logo/爱玩具.png" group-title="其他",爱玩具高清
+#EXTINF:-1,tvg-id="爱玩具高清" tvg-name="爱玩具高清" tvg-logo="https://epg.112114.xyz/logo/爱玩具.png" group-title="卡通",爱玩具高清
 http://10.10.1.77:7777/rtp/239.93.42.18:5140
-#EXTINF:-1,tvg-id="爱动漫高清" tvg-name="爱动漫高清" tvg-logo="https://epg.112114.xyz/logo/爱动漫.png" group-title="其他",爱动漫高清
+#EXTINF:-1,tvg-id="爱动漫高清" tvg-name="爱动漫高清" tvg-logo="https://epg.112114.xyz/logo/爱动漫.png" group-title="卡通",爱动漫高清
 http://10.10.1.77:7777/rtp/239.93.42.23:5140
 #EXTINF:-1,tvg-id="求索频道高清" tvg-name="求索频道高清" tvg-logo="https://epg.112114.xyz/logo/求索频道.png" group-title="其他",求索频道高清
 http://10.10.1.77:7777/rtp/239.93.42.24:5140

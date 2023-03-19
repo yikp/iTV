@@ -40,7 +40,7 @@ http://10.10.1.77:7777/rtp/239.93.42.54:5140
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV-17高清
 http://10.10.1.77:7777/rtp/239.93.0.92:5140
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV-4K超清
-https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
+http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1,tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://epg.112114.xyz/logo/CGTN英语.png" group-title="央视",CGTN英语
 http://10.10.1.77:7777/rtp/239.93.0.104:5140
 #EXTINF:-1,tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://epg.112114.xyz/logo/CGTN西语.png" group-title="央视",CGTN西语
@@ -49,6 +49,10 @@ http://10.10.1.77:7777/rtp/239.93.42.49:5140
 http://10.10.1.77:7777/rtp/239.93.42.50:5140
 #EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="4K",爱上4K
 http://10.10.1.77:7777/rtp/239.93.0.97:5140
+#EXTINF:-1,tvg-id="北京IPTV" tvg-name="北京IPTV" tvg-logo="https://epg.112114.xyz/logo/北京IPTV.png" group-title="4K",北京IPTV-4K
+http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
+#EXTINF:-1,tvg-id="欢笑剧场4k" tvg-name="欢笑剧场4k" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场4k.png" group-title="4K",欢笑剧场4k
+http://hls.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="亲子趣学4K" tvg-name="亲子趣学4K" tvg-logo="https://epg.112114.xyz/logo/亲子趣学4K.png" group-title="4K",亲子趣学4K
 http://10.10.1.77:7777/rtp/239.93.1.191:5140
 #EXTINF:-1,tvg-id="津津悦读4K" tvg-name="津津悦读4K" tvg-logo="https://epg.112114.xyz/logo/津津悦读4K.png" group-title="4K",津津悦读4K

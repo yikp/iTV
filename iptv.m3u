@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1高清
-http://10.10.1.77:7777/rtp/239.93.0.184:5140
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1杜比
 http://10.10.1.77:7777/rtp/239.93.0.69:5140
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2高清
@@ -11,8 +9,6 @@ http://10.10.1.77:7777/rtp/239.93.1.11:2223
 http://10.10.1.77:7777/rtp/239.93.1.105:5140
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5高清
 http://10.10.1.77:7777/rtp/239.93.42.37:5140
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5高清
-http://10.10.1.77:7777/rtp/239.93.1.12:2224
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+高清
 http://10.10.1.77:7777/rtp/239.93.1.36:8004
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV-6高清
@@ -65,6 +61,8 @@ http://10.10.1.77:7777/rtp/239.93.42.33:5140
 http://10.10.1.77:7777/rtp/239.93.1.156:5140
 #EXTINF:-1,tvg-id="4K乐享超清" tvg-name="4K乐享超清" tvg-logo="https://epg.112114.xyz/logo/4K乐享.png" group-title="4K",4K乐享超清
 http://10.10.1.77:7777/rtp/239.93.0.43:5140
+#EXTINF:-1,tvg-id="brtv" tvg-name="brtv" tvg-logo="https://epg.112114.xyz/logo/brtv.png" group-title="4K",BRTV-8K
+http://downlive.brtvcloud.com/8k1010/tebieniu.m3u8
 #EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视高清
 http://10.10.1.77:7777/rtp/239.93.0.20:1235
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视高清
@@ -195,12 +193,6 @@ http://10.10.1.77:7777/rtp/239.93.0.157:2194
 http://r.jdshipin.com/62WM7
 #EXTINF:-1,tvg-id="华丽台" tvg-name="华丽台" tvg-logo="https://epg.112114.xyz/logo/华丽台.png" group-title="港澳台",华丽台
 http://r.jdshipin.com/thuYX
-#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港澳台",无线新闻
-https://pull-l3-cny.douyincdn.com/live/stream-112175tvb1202212212.m3u8
-#EXTINF:-1,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="港澳台",J2
-http://r.jdshipin.com/ndGgS
-#EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="港澳台",VIUTV
-http://r.jdshipin.com/vSJvl
 #EXTINF:-1,tvg-id="星空精选高清" tvg-name="星空精选高清" tvg-logo="https://epg.112114.xyz/logo/星空精选.png" group-title="影视",星空精选高清
 http://10.10.1.77:7777/rtp/239.93.1.171:5140
 #EXTINF:-1,tvg-id="HD看电影" tvg-name="HD看电影" tvg-logo="https://epg.112114.xyz/logo/HD看电影.png" group-title="影视",HD看电影
@@ -275,6 +267,14 @@ http://10.10.1.77:7777/rtp/239.93.42.71:5140
 http://10.10.1.77:7777/rtp/239.93.42.72:5140
 #EXTINF:-1,tvg-id="热门综艺高清" tvg-name="热门综艺高清" tvg-logo="https://epg.112114.xyz/logo/热门综艺.png" group-title="其他",热门综艺高清
 http://10.10.1.77:7777/rtp/239.93.0.151:5140
+#EXTINF:-1,tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://epg.112114.xyz/logo/湖南经视.png" group-title="地方",湖南经视
+rtmp://fm-live-rtmp.fm-tv-live.mangguonews.com/fm-tv-live/hnjs
+#EXTINF:-1,tvg-id="EZTV1" tvg-name="EZTV1" tvg-logo="https://epg.112114.xyz/logo/EZTV1.png" group-title="地方",EZTV1
+http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
+#EXTINF:-1,tvg-id="EZTV2" tvg-name="EZTV2" tvg-logo="https://epg.112114.xyz/logo/EZTV2.png" group-title="地方",EZTV2
+http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
+#EXTINF:-1,tvg-id="EZTV6" tvg-name="EZTV6" tvg-logo="https://epg.112114.xyz/logo/EZTV6.png" group-title="地方",EZTV6
+http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
 #EXTINF:-1,tvg-id="音乐现场高清" tvg-name="音乐现场高清" tvg-logo="https://epg.112114.xyz/logo/音乐现场.png" group-title="其他",音乐现场高清
 http://10.10.1.77:7777/rtp/239.93.0.198:9044
 #EXTINF:-1,tvg-id="收视导视高清" tvg-name="收视导视高清" tvg-logo="https://epg.112114.xyz/logo/收视导视.png" group-title="其他",收视导视高清

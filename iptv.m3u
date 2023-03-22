@@ -45,7 +45,7 @@ http://10.10.1.77:7777/rtp/239.93.42.49:5140
 http://10.10.1.77:7777/rtp/239.93.42.50:5140
 #EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="4K",爱上4K
 http://10.10.1.77:7777/rtp/239.93.0.97:5140
-#EXTINF:-1,tvg-id="北京IPTV" tvg-name="北京IPTV" tvg-logo="https://epg.112114.xyz/logo/北京IPTV.png" group-title="4K",北京IPTV-4K
+#EXTINF:-1,tvg-id="北京IPTV" tvg-name="北京IPTV" tvg-logo="https://epg.112114.xyz/logo/北京IPTV.png" group-title="4K",北京BRTV-4K
 http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 #EXTINF:-1,tvg-id="欢笑剧场4k" tvg-name="欢笑剧场4k" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场4k.png" group-title="4K",欢笑剧场4k
 http://hls.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
@@ -61,7 +61,7 @@ http://10.10.1.77:7777/rtp/239.93.42.33:5140
 http://10.10.1.77:7777/rtp/239.93.1.156:5140
 #EXTINF:-1,tvg-id="4K乐享超清" tvg-name="4K乐享超清" tvg-logo="https://epg.112114.xyz/logo/4K乐享.png" group-title="4K",4K乐享超清
 http://10.10.1.77:7777/rtp/239.93.0.43:5140
-#EXTINF:-1,tvg-id="brtv" tvg-name="brtv" tvg-logo="https://epg.112114.xyz/logo/brtv.png" group-title="4K",BRTV-8K
+#EXTINF:-1,tvg-id="北京BRTV" tvg-name="北京BRTV" tvg-logo="https://epg.112114.xyz/logo/北京BRTV.png" group-title="4K",北京BRTV-8K
 http://downlive.brtvcloud.com/8k1010/tebieniu.m3u8
 #EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视高清
 http://10.10.1.77:7777/rtp/239.93.0.20:1235

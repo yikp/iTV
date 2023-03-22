@@ -268,7 +268,11 @@ http://10.10.1.77:7777/rtp/239.93.42.72:5140
 #EXTINF:-1,tvg-id="热门综艺高清" tvg-name="热门综艺高清" tvg-logo="https://epg.112114.xyz/logo/热门综艺.png" group-title="其他",热门综艺高清
 http://10.10.1.77:7777/rtp/239.93.0.151:5140
 #EXTINF:-1,tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://epg.112114.xyz/logo/湖南经视.png" group-title="地方",湖南经视
-rtmp://fm-live-rtmp.fm-tv-live.mangguonews.com/fm-tv-live/hnjs
+http://fm-live-rtmp.fm-tv-live.mangguonews.com/fm-tv-live/hnjs.m3u8
+#EXTINF:-1,tvg-id="湖南爱晚" tvg-name="湖南爱晚" tvg-logo="https://epg.112114.xyz/logo/湖南爱晚.png" group-title="地方",湖南爱晚
+http://fm-live-rtmp.fm-tv-live.mangguonews.com/fm-tv-live/hngg.m3u8
+#EXTINF:-1,tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="https://epg.112114.xyz/logo/湖南都市.png" group-title="地方",湖南都市
+http://fm-live-rtmp.fm-tv-live.mangguonews.com/fm-tv-live/hnds.m3u8
 #EXTINF:-1,tvg-id="EZTV1" tvg-name="EZTV1" tvg-logo="https://epg.112114.xyz/logo/EZTV1.png" group-title="地方",EZTV1
 http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 #EXTINF:-1,tvg-id="EZTV2" tvg-name="EZTV2" tvg-logo="https://epg.112114.xyz/logo/EZTV2.png" group-title="地方",EZTV2

@@ -60,7 +60,7 @@ http://10.10.1.77:7777/rtp/239.93.1.156:5140
 #EXTINF:-1,tvg-id="4K乐享超清" tvg-name="4K乐享超清" tvg-logo="https://epg.112114.xyz/logo/4K乐享.png" group-title="4K8K",4K乐享超清
 http://10.10.1.77:7777/rtp/239.93.0.43:5140
 #EXTINF:-1,tvg-id="北京BRTV" tvg-name="北京BRTV" tvg-logo="https://epg.112114.xyz/logo/北京BRTV.png" group-title="4K8K",北京BRTV-8K
-http://downlive.brtvcloud.com/8k1010/tebieniu.m3u8
+https://downlive.brtvcloud.com/8119k/definition119.m3u8
 #EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视高清
 http://10.10.1.77:7777/rtp/239.93.0.20:1235
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视高清
@@ -326,9 +326,7 @@ http://gslbserv.itv.cmvideo.cn:80/5000000002000023636/index.m3u8?channel-id=best
 #EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="NEWTV",SiTV动漫秀场
 http://gslbserv.itv.cmvideo.cn:80/5000000011000031113/index.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png" group-title="NEWTV",SiTV都市剧场
-http://gslbserv.itv.cmvideo.cn:80/5000000002000004412/index.m3u8?channel-id=bestzb&Contentid=5000000002000004412&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png" group-title="NEWTV",SiTV都市剧场
-http://gslbserv.itv.cmvideo.cn:80/5000000011000031111/index.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=3
+http://10.10.1.77:7777/rtp/239.93.42.30:5140
 #EXTINF:-1,tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-logo="https://epg.112114.xyz/logo/SITV法治天地.png" group-title="NEWTV",SiTV法治天地
 http://gslbserv.itv.cmvideo.cn:80/9001547084732463424/index.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="SITV欢笑剧场" tvg-name="SITV欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/SITV欢笑剧场.png" group-title="4K8K",SiTV欢笑剧场-4K
@@ -375,16 +373,26 @@ http://gslbserv.itv.cmvideo.cn:80/2000000003000000034/index.m3u8?channel-id=hnbb
 http://gslbserv.itv.cmvideo.cn:80/1000000006000035339/index.m3u8?channel-id=ystenlive&Contentid=1000000006000035339&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="青海黄南综合" tvg-name="青海黄南综合" tvg-logo="https://epg.112114.xyz/logo/青海黄南综合.png" group-title="地方",青海黄南综合
 http://gslbserv.itv.cmvideo.cn:80/1000000006000027378/index.m3u8?channel-id=ystenlive&Contentid=1000000006000027378&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱电竞" tvg-name="爱电竞" tvg-logo="https://epg.112114.xyz/logo/爱电竞.png" group-title="其他",爱电竞
-http://gslbserv.itv.cmvideo.cn:80/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱谍战" tvg-name="爱谍战" tvg-logo="https://epg.112114.xyz/logo/爱谍战.png" group-title="其他",爱谍战
-http://gslbserv.itv.cmvideo.cn:80/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱动漫" tvg-name="爱动漫" tvg-logo="https://epg.112114.xyz/logo/爱动漫.png" group-title="其他",爱动漫
-http://gslbserv.itv.cmvideo.cn:80/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱都市" tvg-name="爱都市" tvg-logo="https://epg.112114.xyz/logo/爱都市.png" group-title="其他",爱都市
-http://gslbserv.itv.cmvideo.cn:80/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱怀旧" tvg-name="爱怀旧" tvg-logo="https://epg.112114.xyz/logo/爱怀旧.png" group-title="其他",爱怀旧
-http://gslbserv.itv.cmvideo.cn:80/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="爱怀旧高清" tvg-name="爱怀旧高清" tvg-logo="https://epg.112114.xyz/logo/爱怀旧.png" group-title="影视",爱怀旧高清
+http://10.10.1.77:7777/rtp/239.93.42.21:5140
+#EXTINF:-1,tvg-id="爱喜剧高清" tvg-name="爱喜剧高清" tvg-logo="https://epg.112114.xyz/logo/爱喜剧.png" group-title="影视",爱喜剧高清
+http://10.10.1.77:7777/rtp/239.93.42.9:5140
+#EXTINF:-1,tvg-id="爱奇谈高清" tvg-name="爱奇谈高清" tvg-logo="https://epg.112114.xyz/logo/爱奇谈.png" group-title="影视",爱奇谈高清
+http://10.10.1.77:7777/rtp/239.93.42.22:5140
+#EXTINF:-1,tvg-id="爱科幻高清" tvg-name="爱科幻高清" tvg-logo="https://epg.112114.xyz/logo/爱科幻.png" group-title="影视",爱科幻高清
+http://10.10.1.77:7777/rtp/239.93.42.10:5140
+#EXTINF:-1,tvg-id="爱院线高清" tvg-name="爱院线高清" tvg-logo="https://epg.112114.xyz/logo/爱院线.png" group-title="影视",爱院线高清
+http://10.10.1.77:7777/rtp/239.93.42.11:5140
+#EXTINF:-1,tvg-id="爱谍战高清" tvg-name="爱谍战高清" tvg-logo="https://epg.112114.xyz/logo/爱谍战.png" group-title="影视",爱谍战高清
+http://10.10.1.77:7777/rtp/239.93.42.14:5140
+#EXTINF:-1,tvg-id="爱经典高清" tvg-name="爱经典高清" tvg-logo="https://epg.112114.xyz/logo/爱经典.png" group-title="影视",爱经典高清
+http://10.10.1.77:7777/rtp/239.93.42.13:5140
+#EXTINF:-1,tvg-id="爱悬疑高清" tvg-name="爱悬疑高清" tvg-logo="https://epg.112114.xyz/logo/爱悬疑.png" group-title="影视",爱悬疑高清
+http://10.10.1.77:7777/rtp/239.93.42.12:5140
+#EXTINF:-1,tvg-id="爱青春高清" tvg-name="爱青春高清" tvg-logo="https://epg.112114.xyz/logo/爱青春.png" group-title="影视",爱青春高清
+http://10.10.1.77:7777/rtp/239.93.42.16:5140
+#EXTINF:-1,tvg-id="爱都市高清" tvg-name="爱都市高清" tvg-logo="https://epg.112114.xyz/logo/爱都市.png" group-title="影视",爱都市高清
+http://10.10.1.77:7777/rtp/239.93.42.15:5140
 #EXTINF:-1,tvg-id="爱极限" tvg-name="爱极限" tvg-logo="https://epg.112114.xyz/logo/爱极限.png" group-title="其他",爱极限
 http://gslbserv.itv.cmvideo.cn:80/6000000006000170630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000170630&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="爱家庭" tvg-name="爱家庭" tvg-logo="https://epg.112114.xyz/logo/爱家庭.png" group-title="其他",爱家庭
@@ -393,10 +401,6 @@ http://gslbserv.itv.cmvideo.cn:80/6000000006000090630/index.m3u8?channel-id=wasu
 http://gslbserv.itv.cmvideo.cn:80/6000000006000110630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000110630&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="爱解密" tvg-name="爱解密" tvg-logo="https://epg.112114.xyz/logo/爱解密.png" group-title="其他",爱解密
 http://gslbserv.itv.cmvideo.cn:80/6000000006000200630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000200630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱经典" tvg-name="爱经典" tvg-logo="https://epg.112114.xyz/logo/爱经典.png" group-title="其他",爱经典
-http://gslbserv.itv.cmvideo.cn:80/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱科幻" tvg-name="爱科幻" tvg-logo="https://epg.112114.xyz/logo/爱科幻.png" group-title="其他",爱科幻
-http://gslbserv.itv.cmvideo.cn:80/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="爱科学" tvg-name="爱科学" tvg-logo="https://epg.112114.xyz/logo/爱科学.png" group-title="其他",爱科学
 http://gslbserv.itv.cmvideo.cn:80/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="爱浪漫" tvg-name="爱浪漫" tvg-logo="https://epg.112114.xyz/logo/爱浪漫.png" group-title="其他",爱浪漫
@@ -409,32 +413,14 @@ http://gslbserv.itv.cmvideo.cn:80/6000000006000190630/index.m3u8?channel-id=wasu
 http://gslbserv.itv.cmvideo.cn:80/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="爱美食" tvg-name="爱美食" tvg-logo="https://epg.112114.xyz/logo/爱美食.png" group-title="其他",爱美食
 http://gslbserv.itv.cmvideo.cn:80/6000000006000120630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000120630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱奇谈" tvg-name="爱奇谈" tvg-logo="https://epg.112114.xyz/logo/爱奇谈.png" group-title="其他",爱奇谈
-http://gslbserv.itv.cmvideo.cn:80/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱青春" tvg-name="爱青春" tvg-logo="https://epg.112114.xyz/logo/爱青春.png" group-title="其他",爱青春
-http://gslbserv.itv.cmvideo.cn:80/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱赛车" tvg-name="爱赛车" tvg-logo="https://epg.112114.xyz/logo/爱赛车.png" group-title="其他",爱赛车
-http://gslbserv.itv.cmvideo.cn:80/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="爱时尚" tvg-name="爱时尚" tvg-logo="https://epg.112114.xyz/logo/爱时尚.png" group-title="其他",爱时尚
 http://gslbserv.itv.cmvideo.cn:80/6000000006000140630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000140630&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="爱世界" tvg-name="爱世界" tvg-logo="https://epg.112114.xyz/logo/爱世界.png" group-title="其他",爱世界
 http://gslbserv.itv.cmvideo.cn:80/6000000006000210630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000210630&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="爱探索" tvg-name="爱探索" tvg-logo="https://epg.112114.xyz/logo/爱探索.png" group-title="其他",爱探索
 http://gslbserv.itv.cmvideo.cn:80/6000000006000300630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000300630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱体育" tvg-name="爱体育" tvg-logo="https://epg.112114.xyz/logo/爱体育.png" group-title="其他",爱体育
-http://gslbserv.itv.cmvideo.cn:80/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱玩具" tvg-name="爱玩具" tvg-logo="https://epg.112114.xyz/logo/爱玩具.png" group-title="其他",爱玩具
-http://gslbserv.itv.cmvideo.cn:80/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱喜剧" tvg-name="爱喜剧" tvg-logo="https://epg.112114.xyz/logo/爱喜剧.png" group-title="其他",爱喜剧
-http://gslbserv.itv.cmvideo.cn:80/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱悬疑" tvg-name="爱悬疑" tvg-logo="https://epg.112114.xyz/logo/爱悬疑.png" group-title="其他",爱悬疑
-http://gslbserv.itv.cmvideo.cn:80/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱幼教" tvg-name="爱幼教" tvg-logo="https://epg.112114.xyz/logo/爱幼教.png" group-title="其他",爱幼教
-http://gslbserv.itv.cmvideo.cn:80/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="爱娱乐" tvg-name="爱娱乐" tvg-logo="https://epg.112114.xyz/logo/爱娱乐.png" group-title="其他",爱娱乐
 http://gslbserv.itv.cmvideo.cn:80/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱院线" tvg-name="爱院线" tvg-logo="https://epg.112114.xyz/logo/爱院线.png" group-title="其他",爱院线
-http://gslbserv.itv.cmvideo.cn:80/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="哒啵电竞" tvg-name="哒啵电竞" tvg-logo="https://epg.112114.xyz/logo/哒啵电竞.png" group-title="其他",哒啵电竞
 http://gslbserv.itv.cmvideo.cn:80/1000000006000032327/index.m3u8?channel-id=ystenlive&Contentid=1000000006000032327&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://epg.112114.xyz/logo/哒啵赛事.png" group-title="其他",哒啵赛事
@@ -504,19 +490,19 @@ http://fm-live-rtmp.fm-tv-live.mangguonews.com/fm-tv-live/hngg.m3u8
 #EXTINF:-1,tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="https://epg.112114.xyz/logo/湖南都市.png" group-title="地方",湖南都市
 http://fm-live-rtmp.fm-tv-live.mangguonews.com/fm-tv-live/hnds.m3u8
 #EXTINF:-1,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://epg.112114.xyz/logo/北京文艺.png" group-title="地方",北京文艺
-http://downlive.brtvcloud.com/ws1004/tebieku.m3u8
+http://downlive.brtvcloud.com/w113y/literature113.m3u8
 #EXTINF:-1,tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://epg.112114.xyz/logo/北京生活.png" group-title="地方",北京生活
-http://downlive.brtvcloud.com/ws1002/tebiemei.m3u8
+http://downlive.brtvcloud.com/s118h/life118.m3u8
 #EXTINF:-1,tvg-id="北京卡酷" tvg-name="北京卡酷" tvg-logo="https://epg.112114.xyz/logo/北京卡酷.png" group-title="地方",北京卡酷
-http://downlive.brtvcloud.com/ws1003/tebiehao.m3u8
+http://downlive.brtvcloud.com/k111k/tebiehao.m3u8
 #EXTINF:-1,tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://epg.112114.xyz/logo/北京新闻.png" group-title="地方",北京新闻
-http://downlive.brtvcloud.com/xw1008/tebiekuai.m3u8
+http://downlive.brtvcloud.com/x117w/news117.m3u8
 #EXTINF:-1,tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://epg.112114.xyz/logo/北京财经.png" group-title="地方",北京财经
-http://downlive.brtvcloud.com/cj1007/tebiesha.m3u8
+http://downlive.brtvcloud.com/c116j/finance116.m3u8
 #EXTINF:-1,tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://epg.112114.xyz/logo/北京影视.png" group-title="地方",北京影视
-http://downlive.brtvcloud.com/ys1003/tebiezan.m3u8
+http://downlive.brtvcloud.com/y112s/Movies112.m3u8
 #EXTINF:-1,tvg-id="北京科教" tvg-name="北京科教" tvg-logo="https://epg.112114.xyz/logo/北京科教.png" group-title="地方",北京科教
-http://downlive.brtvcloud.com/kj1006/tebiezhen.m3u8
+http://downlive.brtvcloud.com/k115j/science115.m3u8
 #EXTINF:-1,tvg-id="EZTV1" tvg-name="EZTV1" tvg-logo="https://epg.112114.xyz/logo/EZTV1.png" group-title="地方",EZTV1
 http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 #EXTINF:-1,tvg-id="EZTV2" tvg-name="EZTV2" tvg-logo="https://epg.112114.xyz/logo/EZTV2.png" group-title="地方",EZTV2
@@ -581,28 +567,6 @@ http://10.10.1.77:7777/rtp/239.93.0.91:2101
 http://10.10.1.77:7777/rtp/239.93.1.165:5140
 #EXTINF:-1,tvg-id="百姓健康" tvg-name="百姓健康" tvg-logo="https://epg.112114.xyz/logo/百姓健康.png" group-title="其他",百姓健康
 http://10.10.1.77:7777/rtp/239.93.42.35:5140
-#EXTINF:-1,tvg-id="爱怀旧高清" tvg-name="爱怀旧高清" tvg-logo="https://epg.112114.xyz/logo/爱怀旧.png" group-title="影视",爱怀旧高清
-http://10.10.1.77:7777/rtp/239.93.42.21:5140
-#EXTINF:-1,tvg-id="爱喜剧高清" tvg-name="爱喜剧高清" tvg-logo="https://epg.112114.xyz/logo/爱喜剧.png" group-title="影视",爱喜剧高清
-http://10.10.1.77:7777/rtp/239.93.42.9:5140
-#EXTINF:-1,tvg-id="爱奇谈高清" tvg-name="爱奇谈高清" tvg-logo="https://epg.112114.xyz/logo/爱奇谈.png" group-title="影视",爱奇谈高清
-http://10.10.1.77:7777/rtp/239.93.42.22:5140
-#EXTINF:-1,tvg-id="爱科幻高清" tvg-name="爱科幻高清" tvg-logo="https://epg.112114.xyz/logo/爱科幻.png" group-title="影视",爱科幻高清
-http://10.10.1.77:7777/rtp/239.93.42.10:5140
-#EXTINF:-1,tvg-id="爱院线高清" tvg-name="爱院线高清" tvg-logo="https://epg.112114.xyz/logo/爱院线.png" group-title="影视",爱院线高清
-http://10.10.1.77:7777/rtp/239.93.42.11:5140
-#EXTINF:-1,tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png" group-title="影视",都市剧场
-http://10.10.1.77:7777/rtp/239.93.42.30:5140
-#EXTINF:-1,tvg-id="爱谍战高清" tvg-name="爱谍战高清" tvg-logo="https://epg.112114.xyz/logo/爱谍战.png" group-title="影视",爱谍战高清
-http://10.10.1.77:7777/rtp/239.93.42.14:5140
-#EXTINF:-1,tvg-id="爱经典高清" tvg-name="爱经典高清" tvg-logo="https://epg.112114.xyz/logo/爱经典.png" group-title="影视",爱经典高清
-http://10.10.1.77:7777/rtp/239.93.42.13:5140
-#EXTINF:-1,tvg-id="爱悬疑高清" tvg-name="爱悬疑高清" tvg-logo="https://epg.112114.xyz/logo/爱悬疑.png" group-title="影视",爱悬疑高清
-http://10.10.1.77:7777/rtp/239.93.42.12:5140
-#EXTINF:-1,tvg-id="爱青春高清" tvg-name="爱青春高清" tvg-logo="https://epg.112114.xyz/logo/爱青春.png" group-title="影视",爱青春高清
-http://10.10.1.77:7777/rtp/239.93.42.16:5140
-#EXTINF:-1,tvg-id="爱都市高清" tvg-name="爱都市高清" tvg-logo="https://epg.112114.xyz/logo/爱都市.png" group-title="影视",爱都市高清
-http://10.10.1.77:7777/rtp/239.93.42.15:5140
 #EXTINF:-1,tvg-id="少儿天地" tvg-name="少儿天地" tvg-logo="https://epg.112114.xyz/logo/少儿天地.png" group-title="卡通",少儿天地
 http://10.10.1.77:7777/rtp/239.93.42.34:5140
 #EXTINF:-1,tvg-id="爱幼教高清" tvg-name="爱幼教高清" tvg-logo="https://epg.112114.xyz/logo/爱幼教.png" group-title="卡通",爱幼教高清

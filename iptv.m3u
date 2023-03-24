@@ -219,6 +219,14 @@ http://10.10.1.77:7777/rtp/239.93.0.157:2194
 http://10.10.1.88:8888/gudou.php?id=1350_4500
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台
 http://10.10.1.88:8888/gudou.php?id=1351_4500
+#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港澳台",无线新闻
+http://10.10.1.88:8888/tvb.php?id=0&hq
+#EXTINF:-1,tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/无线财经.png" group-title="港澳台",无线财经
+http://10.10.1.88:8888/tvb.php?id=2&hq
+#EXTINF:-1,tvg-id="TVB事件直播頻道1" tvg-name="TVB事件直播頻道1" tvg-logo="https://epg.112114.xyz/logo/TVB事件直播頻道1.png" group-title="港澳台",TVB事件直播頻道1
+http://10.10.1.88:8888/tvb.php?id=4&hq
+#EXTINF:-1,tvg-id="TVB事件直播頻道2" tvg-name="TVB事件直播頻道2" tvg-logo="https://epg.112114.xyz/logo/TVB事件直播頻道2.png" group-title="港澳台",TVB事件直播頻道2
+http://10.10.1.88:8888/tvb.php?id=6&hq
 #EXTINF:-1,tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://epg.112114.xyz/logo/澳亚卫视.png" group-title="港澳台",澳亚卫视
 http://10.10.1.88:8888/gudou.php?id=aoya_1500
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="影视",CHC动作电影

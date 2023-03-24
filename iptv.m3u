@@ -365,7 +365,7 @@ http://gslbserv.itv.cmvideo.cn:80/5000000011000031113/index.m3u8?channel-id=best
 http://10.10.1.77:7777/rtp/239.93.42.30:5140
 #EXTINF:-1,tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-logo="https://epg.112114.xyz/logo/SITV法治天地.png" group-title="NEWTV",SiTV法治天地
 http://gslbserv.itv.cmvideo.cn:80/9001547084732463424/index.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="SITV欢笑剧场" tvg-name="SITV欢笑剧场" tvg-logo="https://upload.112114.xyz/logo/欢笑剧场4K.png" group-title="4K",SiTV欢笑剧场4K
+#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://upload.112114.xyz/logo/欢笑剧场4K.png" group-title="4K",SiTV欢笑剧场4K
 http://gslbserv.itv.cmvideo.cn:80/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="SITV金色学堂" tvg-name="SITV金色学堂" tvg-logo="https://epg.112114.xyz/logo/SITV金色学堂.png" group-title="NEWTV",SiTV金色学堂
 http://gslbserv.itv.cmvideo.cn:80/5000000010000026105/index.m3u8?channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=3

@@ -85,9 +85,9 @@ http://10.10.1.88:8888/gudou.php?id=4005
 http://10.10.1.88:8888/gudou.php?id=4010
 #EXTINF:-1,tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://epg.112114.xyz/logo/广东综艺.png" group-title="4K",广东综艺4K
 http://10.10.1.88:8888/gudou.php?id=GDZYHD4K_38000
-#EXTINF:-1,tvg-id="北京IPTV" tvg-name="北京IPTV" tvg-logo="https://upload.112114.xyz/logo/北京4K.png" group-title="4K",北京IPTV-4K
+#EXTINF:-1,tvg-id="北京4K" tvg-name="北京4K" tvg-logo="https://upload.112114.xyz/logo/北京4K.png" group-title="4K",北京4K
 http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
-#EXTINF:-1,tvg-id="北京BRTV" tvg-name="北京BRTV" tvg-logo="https://upload.112114.xyz/logo/BRTV_DOCUMENTARY_8K.png" group-title="4K",北京纪实科教8K
+#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://upload.112114.xyz/logo/BRTV_DOCUMENTARY_8K.png" group-title="4K",北京纪实科教8K
 https://downlive.brtvcloud.com/8119k/definition119.m3u8
 #EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视高清
 http://10.10.1.77:7777/rtp/239.93.0.20:1235
@@ -365,7 +365,7 @@ http://gslbserv.itv.cmvideo.cn:80/5000000011000031113/index.m3u8?channel-id=best
 http://10.10.1.77:7777/rtp/239.93.42.30:5140
 #EXTINF:-1,tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-logo="https://epg.112114.xyz/logo/SITV法治天地.png" group-title="NEWTV",SiTV法治天地
 http://gslbserv.itv.cmvideo.cn:80/9001547084732463424/index.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="SITV欢笑剧场" tvg-name="SITV欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/SITV欢笑剧场.png" group-title="4K",SiTV欢笑剧场-4K
+#EXTINF:-1,tvg-id="SITV欢笑剧场" tvg-name="SITV欢笑剧场" tvg-logo="https://upload.112114.xyz/logo/欢笑剧场4K.png" group-title="4K",SiTV欢笑剧场4K
 http://gslbserv.itv.cmvideo.cn:80/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="SITV金色学堂" tvg-name="SITV金色学堂" tvg-logo="https://epg.112114.xyz/logo/SITV金色学堂.png" group-title="NEWTV",SiTV金色学堂
 http://gslbserv.itv.cmvideo.cn:80/5000000010000026105/index.m3u8?channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=3

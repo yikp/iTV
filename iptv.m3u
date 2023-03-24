@@ -47,7 +47,7 @@ http://111.20.40.170/PLTV/88888893/224/3221226947/index.m3u8
 http://111.20.40.170/PLTV/88888893/224/3221226981/index.m3u8
 #EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="央视",CCTV央视台球
 http://111.20.40.170/PLTV/88888893/224/3221226956/index.m3u8
-#EXTINF:-1,tvg-id="央视高网" tvg-name="央视高网" tvg-logo="https://epg.112114.xyz/logo/高网.png" group-title="央视",CCTV央视高网
+#EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/高网.png" group-title="央视",CCTV央视高网
 http://111.20.40.170/PLTV/88888893/224/3221226978/index.m3u8
 #EXTINF:-1,tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://epg.112114.xyz/logo/风云剧场.png" group-title="央视",CCTV风云剧场
 http://111.20.40.170/PLTV/88888893/224/3221226950/index.m3u8
@@ -59,7 +59,7 @@ http://111.20.40.170/PLTV/88888893/224/3221226959/index.m3u8
 http://111.20.40.170/PLTV/88888893/224/3221226984/index.m3u8
 #EXTINF:-1,tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://epg.112114.xyz/logo/电视指南.png" group-title="央视",CCTV电视指南
 http://111.20.40.170/PLTV/88888893/224/3221226987/index.m3u8
-#EXTINF:-1,tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://epg.112114.xyz/logo/CGTN英语.png" group-title="央视",CGTN英语
+#EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN英语.png" group-title="央视",CGTN英语
 http://10.10.1.77:7777/rtp/239.93.0.104:5140
 #EXTINF:-1,tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://epg.112114.xyz/logo/CGTN西语.png" group-title="央视",CGTN西语
 http://10.10.1.77:7777/rtp/239.93.42.49:5140
@@ -575,7 +575,7 @@ http://10.10.1.77:7777/rtp/239.93.0.136:5140
 http://10.10.1.77:7777/rtp/239.93.0.117:1292
 #EXTINF:-1,tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="其他",足球高清
 http://10.10.1.77:7777/rtp/239.93.0.197:9040
-#EXTINF:-1,tvg-id="高网高清" tvg-name="高网高清" tvg-logo="https://epg.112114.xyz/logo/高网.png" group-title="其他",高网高清
+#EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/高网.png" group-title="其他",高网高清
 http://10.10.1.77:7777/rtp/239.93.0.202:9068
 #EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="其他",台球高清
 http://10.10.1.77:7777/rtp/239.93.0.203:9072

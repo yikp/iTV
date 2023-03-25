@@ -223,10 +223,10 @@ http://10.10.1.88:8888/gudou.php?id=1351_4500
 http://10.10.1.88:8888/tvb.php?id=0&hq
 #EXTINF:-1,tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://upload.112114.xyz/logo/tvb财经体育资讯.png" group-title="港澳台",无线财经
 http://10.10.1.88:8888/tvb.php?id=2&hq
-#EXTINF:-1,tvg-id="TVB事件直播頻道1" tvg-name="TVB事件直播頻道1" tvg-logo="https://upload.112114.xyz/logo/TVBENTERTAINMENTNEWS.png" group-title="港澳台",TVB事件直播頻道1
-http://10.10.1.88:8888/tvb.php?id=4&hq
-#EXTINF:-1,tvg-id="TVB事件直播頻道2" tvg-name="TVB事件直播頻道2" tvg-logo="https://upload.112114.xyz/logo/TVBENTERTAINMENTNEWS.png" group-title="港澳台",TVB事件直播頻道2
-http://10.10.1.88:8888/tvb.php?id=6&hq
+#EXTINF:-1,tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://epg.112114.xyz/logo/RTHK31.png" group-title="港澳台",RTHK31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
+#EXTINF:-1,tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://epg.112114.xyz/logo/RTHK32.png" group-title="港澳台",RTHK32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 #EXTINF:-1,tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://epg.112114.xyz/logo/澳亚卫视.png" group-title="港澳台",澳亚卫视
 http://10.10.1.88:8888/gudou.php?id=aoya_1500
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="影视",CHC动作电影

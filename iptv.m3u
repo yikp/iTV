@@ -229,7 +229,7 @@ https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlay
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 #EXTINF:-1,tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视香港台.png" group-title="港澳台",凤凰卫视香港台
 http://lu1.cc/itv/gatv/fhx.php?id=fhhk&fmt=flv
-#EXTINF:-1,tvg-id="凤凰卫视电影台" tvg-name="凤凰卫视电影台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视电影台.png" group-title="香港",凤凰卫视电影台
+#EXTINF:-1,tvg-id="凤凰卫视电影台" tvg-name="凤凰卫视电影台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视电影台.png" group-title="港澳台",凤凰卫视电影台
 http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 #EXTINF:-1,tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://epg.112114.xyz/logo/澳亚卫视.png" group-title="港澳台",澳亚卫视
 http://10.10.1.88:8888/gudou.php?id=aoya_1500

@@ -259,30 +259,6 @@ http://2022.stream-link.org/live/322793772
 http://2022.stream-link.org/live/237166685
 #EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台" tvg-logo="http://or00.stream-link.org/tv_logo/hkibc.png" group-title="港澳台",香港國際財經台
 http://2022.stream-link.org/live/1737572864
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/abc-news-australia.png" group-title="港澳台",ABC News Australia
-http://2022.stream-link.org/live/913166695
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/abc-news.png" group-title="港澳台",ABC News
-http://2022.stream-link.org/live/1465379655
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/ann-news.png" group-title="港澳台",ANN News
-http://2022.stream-link.org/live/1443099587
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/asianet-news.png" group-title="港澳台",Asianet News
-http://2022.stream-link.org/live/366568951
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/cna-news.png" group-title="港澳台",CNA News
-http://2022.stream-link.org/live/1603999174
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/dw-news.png" group-title="港澳台",DW News
-http://2022.stream-link.org/live/92833505
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/euro-news.png" group-title="港澳台",EURO News
-http://2022.stream-link.org/live/1059084541
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/france-24E.png" group-title="港澳台",France 24 English
-http://2022.stream-link.org/live/1210415010
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/gb-news.png" group-title="港澳台",GB News
-http://2022.stream-link.org/live/952053531
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/haber-turk.png" group-title="港澳台",Haber Turk
-http://2022.stream-link.org/live/407816023
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/nbc-news.png" group-title="港澳台",NBC News
-http://2022.stream-link.org/live/1630575726
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/sky-news.png" group-title="港澳台",SKY News
-http://2022.stream-link.org/live/127064321
 #EXTINF:-1 tvg-id="6069" tvg-name="東森新聞" tvg-logo="http://or00.stream-link.org/tv_logo/ebc-news.png" group-title="港澳台",東森新聞
 http://2023.stream-link.org/live/1793825065
 #EXTINF:-1 tvg-id="6075" tvg-name="東森財經新聞" tvg-logo="http://or00.stream-link.org/tv_logo/ebc-finance.png" group-title="港澳台",東森財經新聞
@@ -337,6 +313,30 @@ http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd208_h.live/playlist.m3
 http://cm61-10-2-143.hkcable.com.hk/live_freedirect/hd110_h.live/playlist.m3u8
 #EXTINF:-1,tvg-id="TVB财经资讯台" tvg-name="TVB财经资讯台" tvg-logo="https://epg.112114.xyz/logo/TVB财经资讯台.png" group-title="港澳台",TVB财经资讯台
 http://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/abc-news-australia.png" group-title="港澳台",ABC News Australia
+http://2022.stream-link.org/live/913166695
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/abc-news.png" group-title="港澳台",ABC News
+http://2022.stream-link.org/live/1465379655
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/ann-news.png" group-title="港澳台",ANN News
+http://2022.stream-link.org/live/1443099587
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/asianet-news.png" group-title="港澳台",Asianet News
+http://2022.stream-link.org/live/366568951
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/cna-news.png" group-title="港澳台",CNA News
+http://2022.stream-link.org/live/1603999174
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/dw-news.png" group-title="港澳台",DW News
+http://2022.stream-link.org/live/92833505
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/euro-news.png" group-title="港澳台",EURO News
+http://2022.stream-link.org/live/1059084541
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/france-24E.png" group-title="港澳台",France 24 English
+http://2022.stream-link.org/live/1210415010
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/gb-news.png" group-title="港澳台",GB News
+http://2022.stream-link.org/live/952053531
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/haber-turk.png" group-title="港澳台",Haber Turk
+http://2022.stream-link.org/live/407816023
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/nbc-news.png" group-title="港澳台",NBC News
+http://2022.stream-link.org/live/1630575726
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/sky-news.png" group-title="港澳台",SKY News
+http://2022.stream-link.org/live/127064321
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="影视",CHC动作电影
 http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="影视",CHC高清电影

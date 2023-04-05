@@ -640,7 +640,7 @@ http://gslbserv.itv.cmvideo.cn:80/1000000006000270007/index.m3u8?channel-id=yste
 #EXTINF:-1,tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://epg.112114.xyz/logo/湖南经视.png" group-title="地方",湖南经视
 http://fm-live-rtmp.fm-tv-live.mangguonews.com/fm-tv-live/hnjs.m3u8
 #EXTINF:-1,tvg-id="蜡笔小新" tvg-name="蜡笔小新" tvg-logo="https://epg.112114.xyz/logo/蜡笔小新.png" group-title="卡通",bili蜡笔小新
-https://cn-hnld-ct-01-37.bilivideo.com/live-bvc/118772/live_84807416_88206864_bluray/index.m3u8
+https://cn-sccd-ct-01-07.bilivideo.com/live-bvc/761990/live_22207826_3066385_prohevc/index.m3u8
 #EXTINF:-1,tvg-id="猫和老鼠" tvg-name="猫和老鼠" tvg-logo="https://epg.112114.xyz/logo/猫和老鼠.png" group-title="卡通",bili猫和老鼠
 https://cn-sccd-ct-01-07.bilivideo.com/live-bvc/613739/live_155961108_42833821/index.m3u8
 #EXTINF:-1,tvg-id="飞哥与小佛" tvg-name="飞哥与小佛" tvg-logo="https://epg.112114.xyz/logo/飞哥与小佛.png" group-title="卡通",bili飞哥与小佛

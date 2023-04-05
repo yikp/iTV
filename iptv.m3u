@@ -417,6 +417,16 @@ http://10.10.1.77:7777/rtp/239.93.42.71:5140
 http://10.10.1.77:7777/rtp/239.93.42.72:5140
 #EXTINF:-1,tvg-id="热门综艺高清" tvg-name="热门综艺高清" tvg-logo="https://epg.112114.xyz/logo/热门综艺.png" group-title="四川",热门综艺高清
 http://10.10.1.77:7777/rtp/239.93.0.151:5140
+#EXTINF:-1,tvg-id="蜡笔小新" tvg-name="蜡笔小新" tvg-logo="https://epg.112114.xyz/logo/蜡笔小新.png" group-title="bili",bili蜡笔小新
+https://cn-sccd-ct-01-07.bilivideo.com/live-bvc/742300/live_415611_4082642_prohevc/index.m3u8
+#EXTINF:-1,tvg-id="樱桃小丸子" tvg-name="樱桃小丸子" tvg-logo="https://epg.112114.xyz/logo/樱桃小丸子.png" group-title="bili",bili樱桃小丸子
+https://cn-jsyz-ct-03-27.bilivideo.com/live-bvc/334861/live_420429580_6506346_bluray/index.m3u8
+#EXTINF:-1,tvg-id="猫和老鼠" tvg-name="猫和老鼠" tvg-logo="https://epg.112114.xyz/logo/猫和老鼠.png" group-title="bili",bili猫和老鼠
+https://cn-sccd-ct-01-07.bilivideo.com/live-bvc/613739/live_155961108_42833821/index.m3u8
+#EXTINF:-1,tvg-id="飞哥与小佛" tvg-name="飞哥与小佛" tvg-logo="https://epg.112114.xyz/logo/飞哥与小佛.png" group-title="bili",bili飞哥与小佛
+https://cn-sccd-ct-01-07.bilivideo.com/live-bvc/607433/live_88076276_3388381/index.m3u8
+#EXTINF:-1,tvg-id="林正英" tvg-name="林正英" tvg-logo="https://epg.112114.xyz/logo/林正英.png" group-title="bili",bili林正英
+https://cn-sccd-ct-01-07.bilivideo.com/live-bvc/847754/live_22989278_9714011_bluray/index.m3u8
 #EXTINF:-1,tvg-id="Hot风尚音乐" tvg-name="Hot风尚音乐" tvg-logo="https://epg.112114.xyz/logo/HOT风尚音乐.png" group-title="NEWTV",Hot风尚音乐
 http://gslbserv.itv.cmvideo.cn:80/2000000004000000004/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000004&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="精品剧场" tvg-name="精品剧场" tvg-logo="https://epg.112114.xyz/logo/精品剧场.png" group-title="NEWTV",Hot精品剧场
@@ -639,16 +649,6 @@ http://gslbserv.itv.cmvideo.cn:80/2000000003000000056/index.m3u8?channel-id=hnbb
 http://gslbserv.itv.cmvideo.cn:80/1000000006000270007/index.m3u8?channel-id=ystenlive&Contentid=1000000006000270007&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://epg.112114.xyz/logo/湖南经视.png" group-title="地方",湖南经视
 http://fm-live-rtmp.fm-tv-live.mangguonews.com/fm-tv-live/hnjs.m3u8
-#EXTINF:-1,tvg-id="蜡笔小新" tvg-name="蜡笔小新" tvg-logo="https://epg.112114.xyz/logo/蜡笔小新.png" group-title="bili",bili蜡笔小新
-https://cn-sccd-ct-01-07.bilivideo.com/live-bvc/742300/live_415611_4082642_prohevc/index.m3u8
-#EXTINF:-1,tvg-id="樱桃小丸子" tvg-name="樱桃小丸子" tvg-logo="https://epg.112114.xyz/logo/樱桃小丸子.png" group-title="bili",bili樱桃小丸子
-https://cn-jsyz-ct-03-27.bilivideo.com/live-bvc/334861/live_420429580_6506346_bluray/index.m3u8
-#EXTINF:-1,tvg-id="猫和老鼠" tvg-name="猫和老鼠" tvg-logo="https://epg.112114.xyz/logo/猫和老鼠.png" group-title="bili",bili猫和老鼠
-https://cn-sccd-ct-01-07.bilivideo.com/live-bvc/613739/live_155961108_42833821/index.m3u8
-#EXTINF:-1,tvg-id="飞哥与小佛" tvg-name="飞哥与小佛" tvg-logo="https://epg.112114.xyz/logo/飞哥与小佛.png" group-title="bili",bili飞哥与小佛
-https://cn-sccd-ct-01-07.bilivideo.com/live-bvc/607433/live_88076276_3388381/index.m3u8
-#EXTINF:-1,tvg-id="林正英" tvg-name="林正英" tvg-logo="https://epg.112114.xyz/logo/林正英.png" group-title="bili",bili林正英
-https://cn-sccd-ct-01-07.bilivideo.com/live-bvc/847754/live_22989278_9714011_bluray/index.m3u8
 #EXTINF:-1,tvg-id="湖南爱晚" tvg-name="湖南爱晚" tvg-logo="https://epg.112114.xyz/logo/湖南爱晚.png" group-title="地方",湖南爱晚
 http://fm-live-rtmp.fm-tv-live.mangguonews.com/fm-tv-live/hngg.m3u8
 #EXTINF:-1,tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="https://epg.112114.xyz/logo/湖南都市.png" group-title="地方",湖南都市

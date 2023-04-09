@@ -223,6 +223,8 @@ http://10.10.1.77:7777/rtp/239.93.0.157:2194
 http://10.10.1.88:8888/gudou.php?id=1350_4500
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",香港·明珠台
 http://10.10.1.88:8888/gudou.php?id=1351_4500
+# #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",香港·明珠台
+# http://113.88.98.98:9106/stream/channelid/1965034420
 #EXTINF:-1 tvg-id="华丽台" tvg-name="华丽台" tvg-logo="http://or00.stream-link.org/tv_logo/astro-jade.png" group-title="港澳台",香港·华丽台
 http://2022.stream-link.org/live/1684250157
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港澳台",香港·无线新闻台
@@ -255,8 +257,6 @@ http://113.88.98.98:9106/stream/channelid/1330703088
 # http://113.88.98.98:9106/stream/channelid/660094216
 #EXTINF:-1,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="港澳台",香港·J2
 http://113.88.98.98:9106/stream/channelid/2063628948
-#EXTINF:-1,tvg-id="Pearl" tvg-name="Pearl" tvg-logo="https://epg.112114.xyz/logo/PEARL.png" group-title="港澳台",香港·Pearl
-http://113.88.98.98:9106/stream/channelid/1965034420
 # #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港澳台",香港·无线新闻台
 # http://113.88.98.98:9106/stream/channelid/858042437
 #EXTINF:-1,tvg-id="VIUTVSIX" tvg-name="VIUTVSIX" tvg-logo="https://epg.112114.xyz/logo/VIUTVSIX.png" group-title="港澳台",香港·ViuTVsix

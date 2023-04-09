@@ -229,6 +229,8 @@ http://2022.stream-link.org/live/1684250157
 http://10.10.1.88:8888/tvb.php?id=0&hq
 #EXTINF:-1,tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://upload.112114.xyz/logo/tvb财经体育资讯.png" group-title="港澳台",香港·无线财经台
 http://10.10.1.88:8888/tvb.php?id=2&hq
+#EXTINF:-1,tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://upload.112114.xyz/logo/tvb财经体育资讯.png" group-title="港澳台",香港·财经体育资讯台
+http://113.88.98.98:9106/stream/channelid/1644653645
 #EXTINF:-1 tvg-id="209" tvg-name="有线新闻台" tvg-logo="https://epg.112114.xyz/logo/有线新闻台.png" group-title="港澳台",香港·有线新闻台
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 tvg-id="208" tvg-name="有线财经资讯台" tvg-logo="https://epg.112114.xyz/logo/有线财经资讯台.png" group-title="港澳台",香港·有线财经资讯台
@@ -241,34 +243,34 @@ https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlay
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 #EXTINF:-1,tvg-id="HKIBC" tvg-name="HKIBC" tvg-logo="https://epg.112114.xyz/logo/HKIBC.png" group-title="港澳台",香港·HKIBC
 http://113.88.98.98:9106/stream/channelid/1040097659
-#EXTINF:-1,tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://epg.112114.xyz/logo/HOYTV.png" group-title="港澳台",香港·HOY TV
+#EXTINF:-1,tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="http://or00.stream-link.org/tv_logo/hoy-tv.png" group-title="港澳台",香港·HOY TV
 http://113.88.98.98:9106/stream/channelid/1973668317
+# #EXTINF:-1 tvg-id="77" tvg-name="香港開電視" tvg-logo="http://or00.stream-link.org/tv_logo/hoy-tv.png" group-title="港澳台",香港·开电视HOY TV
+# http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1,tvg-id="Channel 78" tvg-name="Channel 78" tvg-logo="https://epg.112114.xyz/logo/CHANNEL78.png" group-title="港澳台",香港·Channel 78
 http://113.88.98.98:9106/stream/channelid/1330703088
-#EXTINF:-1,tvg-id="Jade" tvg-name="Jade" tvg-logo="https://epg.112114.xyz/logo/JADE.png" group-title="港澳台",香港·Jade
-http://113.88.98.98:9106/stream/channelid/660094216
+# #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",香港·翡翠台
+# http://113.88.98.98:9106/stream/channelid/660094216
 #EXTINF:-1,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="港澳台",香港·J2
 http://113.88.98.98:9106/stream/channelid/2063628948
-#EXTINF:-1,tvg-id="TVB News Channel" tvg-name="TVB News Channel" tvg-logo="https://epg.112114.xyz/logo/TVBNEWSCHANNEL.png" group-title="港澳台",香港·TVB News Channel
-http://113.88.98.98:9106/stream/channelid/858042437
 #EXTINF:-1,tvg-id="Pearl" tvg-name="Pearl" tvg-logo="https://epg.112114.xyz/logo/PEARL.png" group-title="港澳台",香港·Pearl
 http://113.88.98.98:9106/stream/channelid/1965034420
-#EXTINF:-1,tvg-id="TVB Finance Sports & Information Channel" tvg-name="TVB Finance Sports & Information Channel" tvg-logo="https://epg.112114.xyz/logo/TVBFINANCESPORTS&INFORMATIONCHANNEL.png" group-title="港澳台",香港·TVB Finance Sports & Information Channel
-http://113.88.98.98:9106/stream/channelid/1644653645
+# #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港澳台",香港·无线新闻台
+# http://113.88.98.98:9106/stream/channelid/858042437
 #EXTINF:-1,tvg-id="VIUTVSIX" tvg-name="VIUTVSIX" tvg-logo="https://epg.112114.xyz/logo/VIUTVSIX.png" group-title="港澳台",香港·ViuTVsix
 http://113.88.98.98:9106/stream/channelid/1176562318
 #EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="港澳台",香港·ViuTV
 http://113.88.98.98:9106/stream/channelid/159983051
 #EXTINF:-1 tvg-id="八度空間" tvg-name="八度空間" tvg-logo="http://or00.stream-link.org/tv_logo/8tv.png" group-title="港澳台",香港·八度空間
 http://23.237.10.66:16406
-#EXTINF:-1 tvg-id="82" tvg-name="J2" tvg-logo="http://or00.stream-link.org/tv_logo/tvb-j2.png" group-title="港澳台",香港·J2
-http://r.jdshipin.com/Nr5jq
-#EXTINF:-1 tvg-id="77" tvg-name="香港開電視" tvg-logo="http://or00.stream-link.org/tv_logo/hoy-tv.png" group-title="港澳台",香港·香港开电视HOY TV
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1 tvg-id="78" tvg-name="香港開電視資訊台" tvg-logo="http://or00.stream-link.org/tv_logo/hoy-info.png" group-title="港澳台",香港·香港開電視資訊台
+#EXTINF:-1 tvg-id="78" tvg-name="香港開電視資訊台" tvg-logo="http://or00.stream-link.org/tv_logo/hoy-info.png" group-title="港澳台",香港·开电视资讯台
 http://2022.stream-link.org/live/237166685
-#EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台" tvg-logo="http://or00.stream-link.org/tv_logo/hkibc.png" group-title="港澳台",香港·香港國際財經台
-http://2022.stream-link.org/live/1737572864
+#EXTINF:-1,tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" group-title="港澳台",香港·香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1,tvg-id="耀才财经台" tvg-name="耀才财经台" tvg-logo="https://epg.112114.xyz/logo/耀才财经台.png" group-title="港澳台",香港·耀才财经台
+https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1,tvg-id="寰宇娱乐台" tvg-name="寰宇娱乐台" tvg-logo="https://epg.112114.xyz/logo/寰宇娱乐台.png" group-title="港澳台",香港·寰宇娱乐台
+https://jc-qlive-play.jingchangkan.cn/3473_171322168_W9MX.m3u8
 #EXTINF:-1,tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://epg.112114.xyz/logo/澳亚卫视.png" group-title="港澳台",澳门·澳亚卫视
 http://10.10.1.88:8888/gudou.php?id=aoya_1500
 #EXTINF:-1,tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://epg.112114.xyz/logo/澳视澳门.png" group-title="港澳台",澳门·澳视澳门
@@ -285,38 +287,12 @@ http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
 #EXTINF:-1,tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://epg.112114.xyz/logo/莲花卫视.png" group-title="港澳台",澳门·莲花卫视
 http://lu1.cc/itv/gatv/lhws.php
-#EXTINF:-1,tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" group-title="港澳台",官方·香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1,tvg-id="耀才财经台" tvg-name="耀才财经台" tvg-logo="https://epg.112114.xyz/logo/耀才财经台.png" group-title="港澳台",官方·耀才财经台
-https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1,tvg-id="寰宇娱乐台" tvg-name="寰宇娱乐台" tvg-logo="https://epg.112114.xyz/logo/寰宇娱乐台.png" group-title="港澳台",官方·寰宇娱乐台
-https://jc-qlive-play.jingchangkan.cn/3473_171322168_W9MX.m3u8
-#EXTINF:-1,tvg-id="TVB财经资讯台" tvg-name="TVB财经资讯台" tvg-logo="https://epg.112114.xyz/logo/TVB财经资讯台.png" group-title="港澳台",官方·TVB财经资讯台
-http://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
-#EXTINF:-1,tvg-id="中天亚洲台" tvg-name="中天新闻" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="港澳台",中天新闻
-http://lttv.ddqq.fun:35455/youtube/vdJo_Kz4ODA(?quality=1080)
-#EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.112114.xyz/logo/中视新闻.png" group-title="港澳台",中视新闻
-http://lttv.ddqq.fun:35455/youtube/TCnaIE_SAtM(?quality=1080)
-#EXTINF:-1,tvg-id="三立新闻台" tvg-name="三立新闻" tvg-logo="https://epg.112114.xyz/logo/三立新闻.png" group-title="港澳台",三立新闻
-http://lttv.ddqq.fun:35455/youtube/FoBfXvlOR6I(?quality=1080)
-#EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻" tvg-logo="https://epg.112114.xyz/logo/民视新闻.png" group-title="港澳台",民视新闻
-http://lttv.ddqq.fun:35455/youtube/ylYJSBUgaMA(?quality=1080)
-#EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻" tvg-logo="https://epg.112114.xyz/logo/东森新闻.png" group-title="港澳台",东森新闻
+#EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻" tvg-logo="https://epg.112114.xyz/logo/东森新闻.png" group-title="港澳台",台湾·东森新闻
 http://lttv.ddqq.fun:35455/youtube/R2iMq5LKXco(?quality=1080)
-#EXTINF:-1,tvg-id="东森财经新闻台" tvg-name="东森财经新闻" tvg-logo="https://epg.112114.xyz/logo/东森财经新闻.png" group-title="港澳台",东森财经新闻
+#EXTINF:-1,tvg-id="东森财经新闻台" tvg-name="东森财经新闻" tvg-logo="https://epg.112114.xyz/logo/东森财经新闻.png" group-title="港澳台",台湾·东森财经新闻
 http://lttv.ddqq.fun:35455/youtube/WHEPzbFA3hw(?quality=1080)
-#EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="港澳台",寰宇Live
-http://lttv.ddqq.fun:35455/youtube/B7Zp3d6xXWw(?quality=1080)
-#EXTINF:-1,tvg-id="寰宇新闻Global" tvg-name="寰宇新闻Global" tvg-logo="https://epg.112114.xyz/logo/寰宇财经.png" group-title="港澳台",寰宇新闻Global
-http://lttv.ddqq.fun:35455/youtube/1baN3SZYWc0(?quality=1080)
-#EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="港澳台",台视新闻
-http://lttv.ddqq.fun:35455/youtube/xL0ch83RAK8(?quality=1080)
-#EXTINF:-1,tvg-id="镜新闻" tvg-name="镜新闻" tvg-logo="https://epg.112114.xyz/logo/镜新闻.png" group-title="港澳台",镜新闻
-http://lttv.ddqq.fun:35455/youtube/5n0y6b0Q25o(?quality=1080)
-#EXTINF:-1,tvg-id="华视" tvg-name="华视新闻" tvg-logo="https://epg.112114.xyz/logo/华视新闻.png" group-title="港澳台",华视新闻
+#EXTINF:-1,tvg-id="华视" tvg-name="华视新闻" tvg-logo="https://epg.112114.xyz/logo/华视新闻.png" group-title="港澳台",台湾·华视新闻
 http://lttv.ddqq.fun:35455/youtube/wM0g8EoUZ_E(?quality=1080)
-#EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻.png" group-title="港澳台",TVBS新闻
-http://lttv.ddqq.fun:35455/youtube/2mCSYvcfhtc(?quality=1080)
 #EXTINF:-1,tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://epg.112114.xyz/logo/台視新聞台.png" group-title="港澳台",台湾·台視新聞台
 https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 #EXTINF:-1,tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://epg.112114.xyz/logo/中視新聞台.png" group-title="港澳台",台湾·中視新聞台
@@ -325,7 +301,7 @@ https://ytm2.yuanhsing.cf/twctvnews.m3u8
 http://stream.dsichannel.com/hls/cts-news.m3u8
 #EXTINF:-1,tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://epg.112114.xyz/logo/民視新聞台.png" group-title="港澳台",台湾·民視新聞台
 https://ytm2.yuanhsing.cf/FTVCP.m3u8
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS新聞台
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",台湾·TVBS新聞台
 https://ytm2.yuanhsing.cf/TVBSNEWS01.m3u8
 #EXTINF:-1,tvg-id="三立新聞台" tvg-name="三立新聞台" tvg-logo="https://epg.112114.xyz/logo/三立新聞台.png" group-title="港澳台",台湾·三立新聞台
 https://ytm2.yuanhsing.cf/SETLIVE.m3u8

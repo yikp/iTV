@@ -239,25 +239,25 @@ https://uc6.i-cable.com/live_freedirect/hd110_h.live/playlist.m3u8
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
 #EXTINF:-1,tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://epg.112114.xyz/logo/RTHK32.png" group-title="港澳台",香港·RTHK32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
-#EXTINF:-1,tvg-id="HKIBC" tvg-name="HKIBC" tvg-logo="https://epg.112114.xyz/logo/HKIBC.png" group-title="其他",香港·HKIBC
+#EXTINF:-1,tvg-id="HKIBC" tvg-name="HKIBC" tvg-logo="https://epg.112114.xyz/logo/HKIBC.png" group-title="港澳台",香港·HKIBC
 http://113.88.98.98:9106/stream/channelid/1040097659
-#EXTINF:-1,tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://epg.112114.xyz/logo/HOYTV.png" group-title="其他",香港·HOY TV
+#EXTINF:-1,tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://epg.112114.xyz/logo/HOYTV.png" group-title="港澳台",香港·HOY TV
 http://113.88.98.98:9106/stream/channelid/1973668317
-#EXTINF:-1,tvg-id="Channel 78" tvg-name="Channel 78" tvg-logo="https://epg.112114.xyz/logo/CHANNEL78.png" group-title="其他",香港·Channel 78
+#EXTINF:-1,tvg-id="Channel 78" tvg-name="Channel 78" tvg-logo="https://epg.112114.xyz/logo/CHANNEL78.png" group-title="港澳台",香港·Channel 78
 http://113.88.98.98:9106/stream/channelid/1330703088
-#EXTINF:-1,tvg-id="Jade" tvg-name="Jade" tvg-logo="https://epg.112114.xyz/logo/JADE.png" group-title="其他",香港·Jade
+#EXTINF:-1,tvg-id="Jade" tvg-name="Jade" tvg-logo="https://epg.112114.xyz/logo/JADE.png" group-title="港澳台",香港·Jade
 http://113.88.98.98:9106/stream/channelid/660094216
-#EXTINF:-1,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="其他",香港·J2
+#EXTINF:-1,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="港澳台",香港·J2
 http://113.88.98.98:9106/stream/channelid/2063628948
 #EXTINF:-1,tvg-id="TVB News Channel" tvg-name="TVB News Channel" tvg-logo="https://epg.112114.xyz/logo/TVBNEWSCHANNEL.png" group-title="港澳台",香港·TVB News Channel
 http://113.88.98.98:9106/stream/channelid/858042437
-#EXTINF:-1,tvg-id="Pearl" tvg-name="Pearl" tvg-logo="https://epg.112114.xyz/logo/PEARL.png" group-title="其他",香港·Pearl
+#EXTINF:-1,tvg-id="Pearl" tvg-name="Pearl" tvg-logo="https://epg.112114.xyz/logo/PEARL.png" group-title="港澳台",香港·Pearl
 http://113.88.98.98:9106/stream/channelid/1965034420
 #EXTINF:-1,tvg-id="TVB Finance Sports & Information Channel" tvg-name="TVB Finance Sports & Information Channel" tvg-logo="https://epg.112114.xyz/logo/TVBFINANCESPORTS&INFORMATIONCHANNEL.png" group-title="港澳台",香港·TVB Finance Sports & Information Channel
 http://113.88.98.98:9106/stream/channelid/1644653645
-#EXTINF:-1,tvg-id="VIUTVSIX" tvg-name="VIUTVSIX" tvg-logo="https://epg.112114.xyz/logo/VIUTVSIX.png" group-title="其他",香港·ViuTVsix
+#EXTINF:-1,tvg-id="VIUTVSIX" tvg-name="VIUTVSIX" tvg-logo="https://epg.112114.xyz/logo/VIUTVSIX.png" group-title="港澳台",香港·ViuTVsix
 http://113.88.98.98:9106/stream/channelid/1176562318
-#EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="其他",香港·ViuTV
+#EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="港澳台",香港·ViuTV
 http://113.88.98.98:9106/stream/channelid/159983051
 #EXTINF:-1 tvg-id="八度空間" tvg-name="八度空間" tvg-logo="http://or00.stream-link.org/tv_logo/8tv.png" group-title="港澳台",香港·八度空間
 http://23.237.10.66:16406

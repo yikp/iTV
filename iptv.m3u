@@ -315,6 +315,10 @@ https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8
 https://ytm2.yuanhsing.cf/setmoney159.m3u8
 #EXTINF:-1,tvg-id="大愛" tvg-name="大愛" tvg-logo="https://epg.112114.xyz/logo/大愛.png" group-title="港澳台",台湾·大愛
 https://ytm2.yuanhsing.cf/DaAiVideo.m3u8
+# EXTINF:-1 tvg-id="DaAi1.tw" status="online",DaAi1 (大愛1) (720p)
+# https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+# EXTINF:-1 tvg-id="DaAi2.tw" status="online",DaAi2 (大愛2) (720p)
+# https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1,tvg-id="靖天電視台" tvg-name="靖天電視台" tvg-logo="https://epg.112114.xyz/logo/靖天電視台.png" group-title="港澳台",台湾·靖天電視台
 https://ytm2.yuanhsing.cf/Faintv.m3u8
 #EXTINF:-1,tvg-id="新玫瑰瞳鈴眼" tvg-name="新玫瑰瞳鈴眼" tvg-logo="https://epg.112114.xyz/logo/新玫瑰瞳鈴眼.png" group-title="港澳台",台湾·新玫瑰瞳鈴眼

@@ -225,16 +225,10 @@ http://10.10.1.77:7777/rtp/239.93.0.157:2194
 http://10.10.1.88:8888/gudou.php?id=1350_4500
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",香港·明珠台
 http://10.10.1.88:8888/gudou.php?id=1351_4500
-# #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",香港·明珠台
-# http://113.88.98.98:9106/stream/channelid/1965034420
-#EXTINF:-1 tvg-id="华丽台" tvg-name="华丽台" tvg-logo="http://or00.stream-link.org/tv_logo/astro-jade.png" group-title="港澳台",香港·华丽台
-http://2022.stream-link.org/live/1684250157
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港澳台",香港·无线新闻台
 http://10.10.1.88:8888/tvb.php?id=0&hq
 #EXTINF:-1,tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://upload.112114.xyz/logo/tvb财经体育资讯.png" group-title="港澳台",香港·无线财经台
 http://10.10.1.88:8888/tvb.php?id=2&hq
-#EXTINF:-1,tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://upload.112114.xyz/logo/tvb财经体育资讯.png" group-title="港澳台",香港·无线体育台
-http://113.88.98.98:9106/stream/channelid/1644653645
 #EXTINF:-1 tvg-id="209" tvg-name="有线新闻台" tvg-logo="https://epg.112114.xyz/logo/有线新闻台.png" group-title="港澳台",香港·有线新闻台
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 tvg-id="208" tvg-name="有线财经资讯台" tvg-logo="https://epg.112114.xyz/logo/有线财经资讯台.png" group-title="港澳台",香港·有线财经资讯台
@@ -245,26 +239,10 @@ https://uc6.i-cable.com/live_freedirect/hd110_h.live/playlist.m3u8
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
 #EXTINF:-1,tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://epg.112114.xyz/logo/RTHK32.png" group-title="港澳台",香港·RTHK32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
-#EXTINF:-1,tvg-id="HKIBC" tvg-name="HKIBC" tvg-logo="https://epg.112114.xyz/logo/HKIBC.png" group-title="港澳台",香港·HKIBC
-http://113.88.98.98:9106/stream/channelid/1040097659
-#EXTINF:-1,tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="http://or00.stream-link.org/tv_logo/hoy-tv.png" group-title="港澳台",香港·HOY TV
-http://113.88.98.98:9106/stream/channelid/1973668317
 # #EXTINF:-1 tvg-id="77" tvg-name="香港開電視" tvg-logo="http://or00.stream-link.org/tv_logo/hoy-tv.png" group-title="港澳台",香港·HOY TV开电视
 # http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="香港開電視資訊台" tvg-logo="http://or00.stream-link.org/tv_logo/hoy-info.png" group-title="港澳台",香港·HOY TV资讯台
 http://2022.stream-link.org/live/237166685
-#EXTINF:-1,tvg-id="Channel 78" tvg-name="Channel 78" tvg-logo="https://epg.112114.xyz/logo/CHANNEL78.png" group-title="港澳台",香港·Channel 78
-http://113.88.98.98:9106/stream/channelid/1330703088
-# #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",香港·翡翠台
-# http://113.88.98.98:9106/stream/channelid/660094216
-#EXTINF:-1,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="港澳台",香港·J2
-http://113.88.98.98:9106/stream/channelid/2063628948
-# #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港澳台",香港·无线新闻台
-# http://113.88.98.98:9106/stream/channelid/858042437
-#EXTINF:-1,tvg-id="VIUTVSIX" tvg-name="VIUTVSIX" tvg-logo="https://epg.112114.xyz/logo/VIUTVSIX.png" group-title="港澳台",香港·ViuTVsix
-http://113.88.98.98:9106/stream/channelid/1176562318
-#EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="港澳台",香港·ViuTV
-http://113.88.98.98:9106/stream/channelid/159983051
 #EXTINF:-1 tvg-id="八度空間" tvg-name="八度空間" tvg-logo="http://or00.stream-link.org/tv_logo/8tv.png" group-title="港澳台",香港·八度空間
 http://23.237.10.66:16406
 #EXTINF:-1,tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" group-title="港澳台",香港·香港卫视

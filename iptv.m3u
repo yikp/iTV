@@ -271,30 +271,30 @@ http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
 #EXTINF:-1,tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://epg.112114.xyz/logo/莲花卫视.png" group-title="港澳台",澳门·莲花卫视
 http://lu1.cc/itv/gatv/lhws.php
 #EXTINF:-1,tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://epg.112114.xyz/logo/台視新聞台.png" group-title="港澳台",台湾·台視新聞台
-http://live.aptvapp.com/live/youtube/xL0ch83RAK8
+https://raw.githubusercontent.com/jianyuann/live-url/ytblive/ttvnews.m3u8
 #EXTINF:-1,tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://epg.112114.xyz/logo/中視新聞台.png" group-title="港澳台",台湾·中視新聞台
-http://live.aptvapp.com/live/youtube/TCnaIE_SAtM
+https://raw.githubusercontent.com/jianyuann/live-url/ytblive/ctvnews.m3u8
 #EXTINF:-1,tvg-id="華視新聞台" tvg-name="華視新聞台" tvg-logo="https://epg.112114.xyz/logo/華視新聞台.png" group-title="港澳台",台湾·華視新聞台
 http://stream.dsichannel.com/hls/cts-news.m3u8
-# http://live.aptvapp.com/live/youtube/wM0g8EoUZ_E
+# https://raw.githubusercontent.com/jianyuann/live-url/ytblive/ctstw.m3u8
 #EXTINF:-1,tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://epg.112114.xyz/logo/民視新聞台.png" group-title="港澳台",台湾·民視新聞台
-http://live.aptvapp.com/live/youtube/ylYJSBUgaMA
+https://raw.githubusercontent.com/jianyuann/live-url/ytblive/ftvnews.m3u8
 #EXTINF:-1,tvg-id="TVBS新聞台" tvg-name="TVBS新聞台" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",台湾·TVBS新聞台
-http://live.aptvapp.com/live/youtube/2mCSYvcfhtc
+https://raw.githubusercontent.com/jianyuann/live-url/ytblive/tvbs.m3u8
 #EXTINF:-1,tvg-id="三立新聞台" tvg-name="三立新聞台" tvg-logo="https://epg.112114.xyz/logo/三立新聞台.png" group-title="港澳台",台湾·三立新聞台
-http://live.aptvapp.com/live/youtube/FoBfXvlOR6I
+https://raw.githubusercontent.com/jianyuann/live-url/ytblive/setlive.m3u8
 #EXTINF:-1,tvg-id="三立财经台" tvg-name="三立财经台" tvg-logo="https://epg.112114.xyz/logo/三立财经台.png" group-title="港澳台",台湾·三立财经台
-http://live.aptvapp.com/live/youtube/jlldIiGA5bU
+https://raw.githubusercontent.com/jianyuann/live-url/ytblive/setinews.m3u8
 #EXTINF:-1,tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://epg.112114.xyz/logo/中天新聞台.png" group-title="港澳台",台湾·中天新聞台
 http://live.aptvapp.com/live/youtube/oIgbl7t0S_w
 #EXTINF:-1,tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://epg.112114.xyz/logo/鏡電視新聞台.png" group-title="港澳台",台湾·鏡電視新聞台
-http://live.aptvapp.com/live/youtube/5n0y6b0Q25o
+https://raw.githubusercontent.com/jianyuann/live-url/ytblive/mnews.m3u8
 #EXTINF:-1,tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="https://epg.112114.xyz/logo/東森新聞台.png" group-title="港澳台",台湾·東森新聞台
-http://live.aptvapp.com/live/youtube/R2iMq5LKXco
+https://raw.githubusercontent.com/jianyuann/live-url/ytblive/ebcnews.m3u8
 #EXTINF:-1,tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://epg.112114.xyz/logo/東森財經新聞台.png" group-title="港澳台",台湾·東森財經新聞台
-http://live.aptvapp.com/live/youtube/WHEPzbFA3hw
+https://raw.githubusercontent.com/jianyuann/live-url/ytblive/ebcfnews.m3u8
 #EXTINF:-1,tvg-id="寰宇國際新聞台" tvg-name="寰宇國際新聞台" tvg-logo="https://epg.112114.xyz/logo/寰宇國際新聞台.png" group-title="港澳台",台湾·寰宇國際新聞台
-http://live.aptvapp.com/live/youtube/B7Zp3d6xXWw
+https://raw.githubusercontent.com/jianyuann/live-url/ytblive/globalnews.m3u8
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/abc-news.png" group-title="港澳台",海外·ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/asianet-news.png" group-title="港澳台",海外·BBC News

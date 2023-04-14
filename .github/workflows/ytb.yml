@@ -133,5 +133,5 @@ jobs:
         git checkout -b ytblive
         git add .
         git commit -m "Update ytblive"
-        git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
+        git remote add origin "https://${{ github.actor }}:${{ secrets.IPTV_ACTIONS }}@github.com/${{ github.repository }}"
         git push -f -u origin ytblive

@@ -275,7 +275,8 @@ http://live.aptvapp.com/live/youtube/xL0ch83RAK8
 #EXTINF:-1,tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://epg.112114.xyz/logo/中視新聞台.png" group-title="港澳台",台湾·中視新聞台
 http://live.aptvapp.com/live/youtube/TCnaIE_SAtM
 #EXTINF:-1,tvg-id="華視新聞台" tvg-name="華視新聞台" tvg-logo="https://epg.112114.xyz/logo/華視新聞台.png" group-title="港澳台",台湾·華視新聞台
-http://live.aptvapp.com/live/youtube/wM0g8EoUZ_E
+http://stream.dsichannel.com/hls/cts-news.m3u8
+# http://live.aptvapp.com/live/youtube/wM0g8EoUZ_E
 #EXTINF:-1,tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://epg.112114.xyz/logo/民視新聞台.png" group-title="港澳台",台湾·民視新聞台
 http://live.aptvapp.com/live/youtube/ylYJSBUgaMA
 #EXTINF:-1,tvg-id="TVBS新聞台" tvg-name="TVBS新聞台" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",台湾·TVBS新聞台

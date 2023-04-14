@@ -12,23 +12,113 @@ jobs:
         sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
         sudo chmod a+rx /usr/local/bin/yt-dlp
 
-    - name: Get ttvnews.m3u8
+    - name: Get xL0ch83RAK8.m3u8
       run: |
-        touch ./ttvnews.m3u8
-        sudo cat >./ttvnews.m3u8 <<EOL
+        touch ./xL0ch83RAK8.m3u8
+        sudo cat >./xL0ch83RAK8.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
         $(yt-dlp -g https://www.youtube.com/watch?v=xL0ch83RAK8)
         EOL
-    - name: Get ftvnews.m3u8
+    - name: Get TCnaIE_SAtM.m3u8
       run: |
-        touch ./ftvnews.m3u8
-        sudo cat >./ftvnews.m3u8 <<EOL
+        touch ./TCnaIE_SAtM.m3u8
+        sudo cat >./TCnaIE_SAtM.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        $(yt-dlp -g https://www.youtube.com/watch?v=TCnaIE_SAtM)
+        EOL
+    - name: Get wM0g8EoUZ_E.m3u8
+      run: |
+        touch ./wM0g8EoUZ_E.m3u8
+        sudo cat >./wM0g8EoUZ_E.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        $(yt-dlp -g https://www.youtube.com/watch?v=wM0g8EoUZ_E)
+        EOL
+    - name: Get ylYJSBUgaMA.m3u8
+      run: |
+        touch ./ylYJSBUgaMA.m3u8
+        sudo cat >./ylYJSBUgaMA.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
         $(yt-dlp -g https://www.youtube.com/watch?v=ylYJSBUgaMA)
+        EOL
+    - name: Get 2mCSYvcfhtc.m3u8
+      run: |
+        touch ./2mCSYvcfhtc.m3u8
+        sudo cat >./2mCSYvcfhtc.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        $(yt-dlp -g https://www.youtube.com/watch?v=2mCSYvcfhtc)
+        EOL
+    - name: Get FoBfXvlOR6I.m3u8
+      run: |
+        touch ./FoBfXvlOR6I.m3u8
+        sudo cat >./FoBfXvlOR6I.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        $(yt-dlp -g https://www.youtube.com/watch?v=FoBfXvlOR6I)
+        EOL
+    - name: Get jlldIiGA5bU.m3u8
+      run: |
+        touch ./jlldIiGA5bU.m3u8
+        sudo cat >./jlldIiGA5bU.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        $(yt-dlp -g https://www.youtube.com/watch?v=jlldIiGA5bU)
+        EOL
+    - name: Get oIgbl7t0S_w.m3u8
+      run: |
+        touch ./oIgbl7t0S_w.m3u8
+        sudo cat >./oIgbl7t0S_w.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        $(yt-dlp -g https://www.youtube.com/watch?v=oIgbl7t0S_w)
+        EOL
+    - name: Get 5n0y6b0Q25o.m3u8
+      run: |
+        touch ./5n0y6b0Q25o.m3u8
+        sudo cat >./5n0y6b0Q25o.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        $(yt-dlp -g https://www.youtube.com/watch?v=5n0y6b0Q25o)
+        EOL
+    - name: Get R2iMq5LKXco.m3u8
+      run: |
+        touch ./R2iMq5LKXco.m3u8
+        sudo cat >./R2iMq5LKXco.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        $(yt-dlp -g https://www.youtube.com/watch?v=R2iMq5LKXco)
+        EOL
+    - name: Get WHEPzbFA3hw.m3u8
+      run: |
+        touch ./WHEPzbFA3hw.m3u8
+        sudo cat >./WHEPzbFA3hw.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        $(yt-dlp -g https://www.youtube.com/watch?v=WHEPzbFA3hw)
+        EOL
+    - name: Get B7Zp3d6xXWw.m3u8
+      run: |
+        touch ./B7Zp3d6xXWw.m3u8
+        sudo cat >./B7Zp3d6xXWw.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        $(yt-dlp -g https://www.youtube.com/watch?v=B7Zp3d6xXWw)
         EOL
     - name : Upload artifact
       uses: actions/upload-artifact@master

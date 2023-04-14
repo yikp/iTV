@@ -1,5 +1,2 @@
-# IPTV_Chengdu_Telecom
-Chengdu Telecom IPTV multicast to unicast address, only used in Chengdu area
-
-更新历史:
-2023年03月22日,增加一些可以播放的移动精选频道,这些移动频道测试自用没问题,其他地方自测.
+# iTv 
+自用IPTV, 其他地区可能无效

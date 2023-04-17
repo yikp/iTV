@@ -325,6 +325,7 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="影视",CHC高清电影
 http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
+# http://10.10.1.88:8888/gudou.php?id=CHCHD_7000
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="影视",CHC家庭影院
 http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
 #EXTINF:-1,tvg-id="星空精选高清" tvg-name="星空精选高清" tvg-logo="https://epg.112114.xyz/logo/星空精选.png" group-title="影视",星空精选高清
@@ -752,44 +753,8 @@ http://10.10.1.77:7777/rtp/239.93.42.62:5140
 http://10.10.1.77:7777/rtp/239.93.42.29:5140
 #EXTINF:-1,tvg-id="幸福娱乐" tvg-name="幸福娱乐" tvg-logo="https://epg.112114.xyz/logo/幸福娱乐.png" group-title="其他",幸福娱乐
 http://10.10.1.77:7777/rtp/239.93.42.31:5140
-#EXTINF:-1,tvg-id="雅克音乐季宣传" tvg-name="雅克音乐季宣传" tvg-logo="https://epg.112114.xyz/logo/雅克音乐季宣传.png" group-title="其他",雅克音乐季宣传
-http://10.10.1.77:7777/rtp/239.93.1.43:5140
-#EXTINF:-1,tvg-id="云演艺直播" tvg-name="云演艺直播" tvg-logo="https://epg.112114.xyz/logo/云演艺直播.png" group-title="其他",云演艺直播
-http://10.10.1.77:7777/rtp/239.93.42.59:5140
-#EXTINF:-1,tvg-id="精彩推荐" tvg-name="精彩推荐" tvg-logo="https://epg.112114.xyz/logo/精彩推荐.png" group-title="其他",精彩推荐
-http://10.10.1.77:7777/rtp/239.93.1.5:5140
-#EXTINF:-1,tvg-id="直播室1" tvg-name="直播室1" tvg-logo="https://epg.112114.xyz/logo/直播室1.png" group-title="其他",直播室1
-http://10.10.1.77:7777/rtp/239.93.1.180:5140
-#EXTINF:-1,tvg-id="直播室2" tvg-name="直播室2" tvg-logo="https://epg.112114.xyz/logo/直播室2.png" group-title="其他",直播室2
-http://10.10.1.77:7777/rtp/239.93.1.181:5140
-#EXTINF:-1,tvg-id="直播室3" tvg-name="直播室3" tvg-logo="https://epg.112114.xyz/logo/直播室3.png" group-title="其他",直播室3
-http://10.10.1.77:7777/rtp/239.93.1.182:5140
-#EXTINF:-1,tvg-id="直播室4" tvg-name="直播室4" tvg-logo="https://epg.112114.xyz/logo/直播室4.png" group-title="其他",直播室4
-http://10.10.1.77:7777/rtp/239.93.1.183:5140
-#EXTINF:-1,tvg-id="直播室5" tvg-name="直播室5" tvg-logo="https://epg.112114.xyz/logo/直播室5.png" group-title="其他",直播室5
-http://10.10.1.77:7777/rtp/239.93.1.184:5140
-#EXTINF:-1,tvg-id="直播室6" tvg-name="直播室6" tvg-logo="https://epg.112114.xyz/logo/直播室6.png" group-title="其他",直播室6
-http://10.10.1.77:7777/rtp/239.93.1.185:5140
-#EXTINF:-1,tvg-id="直播室7" tvg-name="直播室7" tvg-logo="https://epg.112114.xyz/logo/直播室7.png" group-title="其他",直播室7
-http://10.10.1.77:7777/rtp/239.93.1.186:5140
-#EXTINF:-1,tvg-id="直播室8" tvg-name="直播室8" tvg-logo="https://epg.112114.xyz/logo/直播室8.png" group-title="其他",直播室8
-http://10.10.1.77:7777/rtp/239.93.1.187:5140
-#EXTINF:-1,tvg-id="红原日干乔" tvg-name="红原日干乔" tvg-logo="https://epg.112114.xyz/logo/红原日干乔.png" group-title="其他",红原日干乔
-http://10.10.1.77:7777/rtp/239.93.0.178:5140
-#EXTINF:-1,tvg-id="红原月亮湾" tvg-name="红原月亮湾" tvg-logo="https://epg.112114.xyz/logo/红原月亮湾.png" group-title="其他",红原月亮湾
-http://10.10.1.77:7777/rtp/239.93.0.209:5140
-#EXTINF:-1,tvg-id="电信导视3" tvg-name="电信导视3" tvg-logo="https://epg.112114.xyz/logo/电信导视3.png" group-title="其他",电信导视3
-http://10.10.1.77:7777/rtp/239.93.0.110:5140
-#EXTINF:-1,tvg-id="雅克音乐节直播" tvg-name="雅克音乐节直播" tvg-logo="https://epg.112114.xyz/logo/雅克音乐节直播.png" group-title="其他",雅克音乐节直播
-http://10.10.1.77:7777/rtp/239.93.42.69:5140
-#EXTINF:-1,tvg-id="云演艺宣传" tvg-name="云演艺宣传" tvg-logo="https://epg.112114.xyz/logo/云演艺宣传.png" group-title="其他",云演艺宣传
-http://10.10.1.77:7777/rtp/239.93.42.60:5140
-#EXTINF:-1,tvg-id="创新及人才文化节" tvg-name="创新及人才文化节" tvg-logo="https://epg.112114.xyz/logo/创新及人才文化节.png" group-title="其他",创新及人才文化节
-http://10.10.1.77:7777/rtp/239.93.42.59:5140
 #EXTINF:-1,tvg-id="G导视高清" tvg-name="G导视高清" tvg-logo="https://epg.112114.xyz/logo/G导视.png" group-title="其他",G导视高清
 http://10.10.1.88:8888/gudou.php?id=GHDdaoshi_7500
-#EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="影视",CHC高清电影
-http://10.10.1.88:8888/gudou.php?id=CHCHD_7000
 #EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="其他",魅力足球
 http://10.10.1.88:8888/gudou.php?id=meiliyinyueHD_7000
 #EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="体育",劲爆体育

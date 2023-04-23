@@ -412,7 +412,7 @@ https://cn-jsyz-ct-03-27.bilivideo.com/live-bvc/334861/live_420429580_6506346_bl
 https://cn-sccd-ct-01-07.bilivideo.com/live-bvc/613739/live_155961108_42833821/index.m3u8
 #EXTINF:-1,tvg-id="飞哥与小佛" tvg-name="飞哥与小佛" tvg-logo="https://epg.112114.xyz/logo/飞哥与小佛.png" group-title="bili",bili飞哥与小佛
 https://cn-sccd-ct-01-07.bilivideo.com/live-bvc/607433/live_88076276_3388381/index.m3u8
-#EXTINF:-1,tvg-id="林正英" tvg-name="林正英" tvg-logo="https://epg.112114.xyz/logo/林正英.png" group-title="bili;影视",bili林正英
+#EXTINF:-1,tvg-id="林正英" tvg-name="林正英" tvg-logo="https://epg.112114.xyz/logo/林正英.png" group-title="bili",bili林正英
 https://cn-sccd-ct-01-07.bilivideo.com/live-bvc/847754/live_22989278_9714011_bluray/index.m3u8
 #EXTINF:-1,tvg-id="Hot风尚音乐" tvg-name="Hot风尚音乐" tvg-logo="https://epg.112114.xyz/logo/HOT风尚音乐.png" group-title="NEWTV",Hot风尚音乐
 http://gslbserv.itv.cmvideo.cn:80/2000000004000000004/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000004&livemode=1&stbId=3
@@ -768,9 +768,3 @@ http://10.10.1.88:8888/gudou.php?id=gdsportsHD_7000
 http://10.10.1.88:8888/gudou.php?id=GDjingjikejiaoHD_7000
 #EXTINF:-1 tvg-name="影视" tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/movie.png" group-title="影视",金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-name="影视" tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/movie.png" group-title="影视",禧剧电影
-http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
-#EXTINF:-1 tvg-name="影视" tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/movie.png" group-title="影视",女神影院
-http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
-#EXTINF:-1 tvg-name="影视" tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/movie.png" group-title="影视",经典好剧
-http://hpull.kktv8.com/livekktv/153793844/playlist.m3u8

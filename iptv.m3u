@@ -354,9 +354,9 @@ http://10.10.1.77:7777/rtp/239.93.0.95:5140
 http://10.10.1.77:7777/rtp/239.93.42.35:5140
 #EXTINF:-1,tvg-id="幸福剧场" tvg-name="幸福剧场" tvg-logo="https://epg.112114.xyz/logo/幸福剧场.png" group-title="影视",幸福剧场
 http://10.10.1.77:7777/rtp/239.93.42.30:5140
-#EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="影视",上海纪实高清
+#EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="地方",上海纪实高清
 http://10.10.1.77:7777/rtp/239.93.1.137:5140
-#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="影视",金鹰纪实高清
+#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="地方",金鹰纪实高清
 http://10.10.1.77:7777/rtp/239.93.0.130:5140
 #EXTINF:-1,tvg-id="重庆影视" tvg-name="重庆影视" tvg-logo="https://epg.112114.xyz/logo/重庆影视.png" group-title="影视",重庆影视高清
 http://10.10.1.88:8888/cq.php?id=cqyingshiHD
@@ -507,7 +507,7 @@ http://gslbserv.itv.cmvideo.cn:80/1000000004000011651/index.m3u8?channel-id=yste
 http://gslbserv.itv.cmvideo.cn:80/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.112114.xyz/logo/黑莓电影.png" group-title="影视",黑莓电影
 http://gslbserv.itv.cmvideo.cn:80/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="黑莓电竞" tvg-name="黑莓电竞" tvg-logo="https://epg.112114.xyz/logo/黑莓电竞.png" group-title="影视",黑莓电竞
+#EXTINF:-1,tvg-id="黑莓电竞" tvg-name="黑莓电竞" tvg-logo="https://epg.112114.xyz/logo/黑莓电竞.png" group-title="其他",黑莓电竞
 http://gslbserv.itv.cmvideo.cn:80/1000000001000003775/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003775&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://epg.112114.xyz/logo/黑莓动画.png" group-title="卡通",黑莓动画
 http://gslbserv.itv.cmvideo.cn:80/1000000004000021734/index.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=3

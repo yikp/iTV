@@ -273,6 +273,8 @@ https://raw.githubusercontent.com/yikp/iTV/ytblive/FoBfXvlOR6I.m3u8
 https://raw.githubusercontent.com/yikp/iTV/ytblive/jlldIiGA5bU.m3u8
 #EXTINF:-1,tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://epg.112114.xyz/logo/中天新聞台.png" group-title="港澳台",台湾·中天新聞台
 https://raw.githubusercontent.com/yikp/iTV/ytblive/oIgbl7t0S_w.m3u8
+#EXTINF:-1,tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://epg.112114.xyz/logo/中天亞洲台.png" group-title="港澳台",台湾·中天亞洲台
+http://live.aptvapp.com/live/youtube/oPx1u9WQrWg
 #EXTINF:-1,tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://epg.112114.xyz/logo/鏡電視新聞台.png" group-title="港澳台",台湾·鏡電視新聞台
 https://raw.githubusercontent.com/yikp/iTV/ytblive/5n0y6b0Q25o.m3u8
 #EXTINF:-1,tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="https://epg.112114.xyz/logo/東森新聞台.png" group-title="港澳台",台湾·東森新聞台
@@ -281,6 +283,8 @@ https://raw.githubusercontent.com/yikp/iTV/ytblive/R2iMq5LKXco.m3u8
 https://raw.githubusercontent.com/yikp/iTV/ytblive/WHEPzbFA3hw.m3u8
 #EXTINF:-1,tvg-id="寰宇國際新聞台" tvg-name="寰宇國際新聞台" tvg-logo="https://epg.112114.xyz/logo/寰宇國際新聞台.png" group-title="港澳台",台湾·寰宇國際新聞台
 https://raw.githubusercontent.com/yikp/iTV/ytblive/B7Zp3d6xXWw.m3u8
+#EXTINF:-1,tvg-id="運通財經台" tvg-name="運通財經台" tvg-logo="https://epg.112114.xyz/logo/運通財經台.png" group-title="港澳台",台湾·運通財經台
+http://live.aptvapp.com/live/youtube/TCnaIE_SAtM
 #EXTINF:-1,tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://epg.112114.xyz/logo/澳亚卫视.png" group-title="港澳台",澳门·澳亚卫视
 http://10.10.1.88:8888/gudou.php?id=aoya_1500
 #EXTINF:-1,tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://epg.112114.xyz/logo/澳视澳门.png" group-title="港澳台",澳门·澳视澳门

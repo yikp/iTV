@@ -120,6 +120,15 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
         $(yt-dlp -g https://www.youtube.com/watch?v=B7Zp3d6xXWw)
         EOL
+    - name: Get oPx1u9WQrWg.m3u8
+      run: |
+        touch ./oPx1u9WQrWg.m3u8
+        sudo cat >./oPx1u9WQrWg.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        $(yt-dlp -g https://www.youtube.com/watch?v=oPx1u9WQrWg)
+        EOL
     - name : Upload artifact
       uses: actions/upload-artifact@master
       with:

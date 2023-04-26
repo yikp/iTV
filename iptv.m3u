@@ -234,13 +234,10 @@ http://10.10.1.88:8888/tvb.php?id=0&hq
 #EXTINF:-1,tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://upload.112114.xyz/logo/tvb财经体育资讯.png" group-title="港澳台",香港·无线财经台
 http://10.10.1.88:8888/tvb.php?id=2&hq
 #EXTINF:-1 tvg-id="209" tvg-name="有线新闻台" tvg-logo="https://epg.112114.xyz/logo/有线新闻台.png" group-title="港澳台",香港·有线新闻台
-# http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 tvg-id="208" tvg-name="有线财经资讯台" tvg-logo="https://epg.112114.xyz/logo/有线财经资讯台.png" group-title="港澳台",香港·有线财经资讯台
-# http://61.10.2.140/live_freedirect/freehd208_h.live/playlist.m3u8
 https://uc6.i-cable.com/live_freedirect/freehd208_h.live/playlist.m3u8
 #EXTINF:-1,tvg-id="110" tvg-name="有线直播新闻台" tvg-logo="https://epg.112114.xyz/logo/有线直播新闻台.png" group-title="港澳台",香港·有线直播新闻台
-# http://61.10.2.140/live_freedirect/hd110_h.live/playlist.m3u8
 https://uc6.i-cable.com/live_freedirect/hd110_h.live/playlist.m3u8
 #EXTINF:-1,tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://epg.112114.xyz/logo/RTHK31.png" group-title="港澳台",香港·RTHK31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8

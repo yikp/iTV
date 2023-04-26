@@ -218,9 +218,9 @@ http://10.10.1.77:7777/rtp/239.93.0.162:2192
 #EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯台.png" group-title="港澳台",凤凰卫视资讯台
 http://10.10.1.77:7777/rtp/239.93.0.118:2191
 #EXTINF:-1,tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视香港台.png" group-title="港澳台",凤凰卫视香港台
-
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
 #EXTINF:-1,tvg-id="凤凰卫视电影台" tvg-name="凤凰卫视电影台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视电影台.png" group-title="港澳台",凤凰卫视电影台
-http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
+
 #EXTINF:-1,tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="港澳台",星空卫视
 http://10.10.1.77:7777/rtp/239.93.0.156:2193
 #EXTINF:-1,tvg-id="Channel V" tvg-name="Channel V" tvg-logo="https://epg.112114.xyz/logo/CHANNELV.png" group-title="港澳台",Channel V
@@ -256,10 +256,10 @@ http://media.fantv.hk/m3u8/archive/channel2.m3u8
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1,tvg-id="耀才财经台" tvg-name="耀才财经台" tvg-logo="https://epg.112114.xyz/logo/耀才财经台.png" group-title="港澳台",香港·耀才财经台
 https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1,tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://epg.112114.xyz/logo/台視新聞台.png" group-title="港澳台",台湾·台視新聞台
+#EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="港澳台",台湾·台视新闻台
 # http://10.10.1.88:8888/ytb/?id=xL0ch83RAK8
 https://raw.githubusercontent.com/yikp/iTV/ytblive/xL0ch83RAK8.m3u8
-#EXTINF:-1,tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://epg.112114.xyz/logo/中視新聞台.png" group-title="港澳台",台湾·中視新聞台
+#EXTINF:-1,tvg-id="中视新闻台" tvg-name="中视新闻台" tvg-logo="https://epg.112114.xyz/logo/中视新闻台.png" group-title="港澳台",台湾·中视新闻台
 # http://10.10.1.88:8888/ytb/?id=TCnaIE_SAtM
 https://raw.githubusercontent.com/yikp/iTV/ytblive/TCnaIE_SAtM.m3u8
 #EXTINF:-1,tvg-id="華視新聞台" tvg-name="華視新聞台" tvg-logo="https://epg.112114.xyz/logo/華視新聞台.png" group-title="港澳台",台湾·華視新聞台

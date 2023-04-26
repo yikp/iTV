@@ -246,7 +246,7 @@ http://61.10.2.140/live_freedirect/hd110_h.live/playlist.m3u8
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
 #EXTINF:-1,tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://epg.112114.xyz/logo/RTHK32.png" group-title="港澳台",香港·RTHK32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="77" tvg-name="香港開電視" tvg-logo="http://or00.stream-link.org/tv_logo/hoy-tv.png" group-title="港澳台",香港·HOY TV开电视
+#EXTINF:-1 tvg-id="77" tvg-name="香港开电视" tvg-logo="http://or00.stream-link.org/tv_logo/hoy-tv.png" group-title="港澳台",香港·开电视
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="香港開電視資訊台" tvg-logo="http://or00.stream-link.org/tv_logo/hoy-info.png" group-title="港澳台",香港·HOY TV资讯台
 
@@ -274,7 +274,7 @@ https://raw.githubusercontent.com/yikp/iTV/ytblive/2mCSYvcfhtc.m3u8
 #EXTINF:-1,tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="港澳台",台湾·三立新闻台
 # http://10.10.1.88:8888/ytb/?id=FoBfXvlOR6I
 https://raw.githubusercontent.com/yikp/iTV/ytblive/FoBfXvlOR6I.m3u8
-#EXTINF:-1,tvg-id="三立财经新闻台" tvg-name="三立财经新闻台" tvg-logo="https://epg.112114.xyz/logo/三立财经台.png" group-title="港澳台",台湾·三立财经新闻台
+#EXTINF:-1,tvg-id="三立财经新闻台" tvg-name="三立财经新闻台" tvg-logo="https://epg.112114.xyz/logo/三立财经新闻台.png" group-title="港澳台",台湾·三立财经新闻台
 # http://10.10.1.88:8888/ytb/?id=jlldIiGA5bU
 https://raw.githubusercontent.com/yikp/iTV/ytblive/jlldIiGA5bU.m3u8
 #EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/中天新闻台.png" group-title="港澳台",台湾·中天新闻台

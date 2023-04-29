@@ -158,7 +158,7 @@ http://10.10.1.77:7777/rtp/239.93.0.219:5140
 http://10.10.1.77:7777/rtp/239.93.42.44:5140
 #EXTINF:-1,tvg-id="四川乡村高清" tvg-name="四川乡村高清" tvg-logo="https://epg.112114.xyz/logo/四川乡村.png" group-title="四川",四川乡村高清
 http://10.10.1.77:7777/rtp/239.93.0.52:5140
-#EXTINF:-1,tvg-id="峨眉电影高清" tvg-name="峨眉电影高清" tvg-logo="https://epg.112114.xyz/logo/峨眉电影.png" group-title="影视",峨眉电影高清
+#EXTINF:-1,tvg-id="峨眉电影高清" tvg-name="峨眉电影高清" tvg-logo="https://epg.112114.xyz/logo/峨眉电影.png" group-title="四川",峨眉电影高清
 http://10.10.1.77:7777/rtp/239.93.0.252:5140
 #EXTINF:-1,tvg-id="CDTV1" tvg-name="CDTV1" tvg-logo="https://epg.112114.xyz/logo/CDTV1.png" group-title="四川",CDTV-1高清
 http://10.10.1.77:7777/rtp/239.93.0.16:5140
@@ -224,27 +224,27 @@ http://10.10.1.77:7777/rtp/239.93.42.30:5140
 http://10.10.1.77:7777/rtp/239.93.1.137:5140
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="组播",金鹰纪实高清
 http://10.10.1.77:7777/rtp/239.93.0.130:5140
-#EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="卡通",嘉佳卡通
+#EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="组播",嘉佳卡通
 http://10.10.1.77:7777/rtp/239.93.0.246:5140
-#EXTINF:-1,tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="https://epg.112114.xyz/logo/卡酷动画.png" group-title="卡通",卡酷动画
+#EXTINF:-1,tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="https://epg.112114.xyz/logo/卡酷动画.png" group-title="组播",卡酷动画
 http://10.10.1.77:7777/rtp/239.93.0.208:5140
-#EXTINF:-1,tvg-id="湖南金鹰卡通" tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/湖南金鹰卡通.png" group-title="卡通",金鹰卡通
+#EXTINF:-1,tvg-id="湖南金鹰卡通" tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/湖南金鹰卡通.png" group-title="组播",金鹰卡通
 http://10.10.1.77:7777/rtp/239.93.0.108:5140
-#EXTINF:-1,tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://epg.112114.xyz/logo/优漫卡通.png" group-title="卡通",优漫卡通
+#EXTINF:-1,tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://epg.112114.xyz/logo/优漫卡通.png" group-title="组播",优漫卡通
 http://10.10.1.77:7777/rtp/239.93.0.251:5140
-#EXTINF:-1,tvg-id="动画番剧" tvg-name="动画番剧" tvg-logo="https://epg.112114.xyz/logo/动画番剧.png" group-title="卡通",动画番剧
+#EXTINF:-1,tvg-id="动画番剧" tvg-name="动画番剧" tvg-logo="https://epg.112114.xyz/logo/动画番剧.png" group-title="组播",动画番剧
 http://10.10.1.77:7777/rtp/239.93.1.177:5140
-#EXTINF:-1,tvg-id="宝宝动画高清" tvg-name="宝宝动画高清" tvg-logo="https://epg.112114.xyz/logo/宝宝动画.png" group-title="卡通",宝宝动画高清
+#EXTINF:-1,tvg-id="宝宝动画高清" tvg-name="宝宝动画高清" tvg-logo="https://epg.112114.xyz/logo/宝宝动画.png" group-title="组播",宝宝动画高清
 http://10.10.1.77:7777/rtp/239.93.0.147:5140
-#EXTINF:-1,tvg-id="IPTV少儿动画" tvg-name="IPTV少儿动画" tvg-logo="https://epg.112114.xyz/logo/IPTV少儿动画.png" group-title="卡通",少儿动画高清
+#EXTINF:-1,tvg-id="IPTV少儿动画" tvg-name="IPTV少儿动画" tvg-logo="https://epg.112114.xyz/logo/IPTV少儿动画.png" group-title="组播",少儿动画高清
 http://10.10.1.77:7777/rtp/239.93.0.193:9000
-#EXTINF:-1,tvg-id="青春动漫" tvg-name="青春动漫" tvg-logo="https://epg.112114.xyz/logo/青春动漫.png" group-title="卡通",青春动漫
+#EXTINF:-1,tvg-id="青春动漫" tvg-name="青春动漫" tvg-logo="https://epg.112114.xyz/logo/青春动漫.png" group-title="组播",青春动漫
 http://10.10.1.77:7777/rtp/239.93.0.146:5140
-#EXTINF:-1,tvg-id="炫动卡通" tvg-name="炫动卡通" tvg-logo="https://epg.112114.xyz/logo/炫动卡通.png" group-title="卡通",炫动卡通
+#EXTINF:-1,tvg-id="炫动卡通" tvg-name="炫动卡通" tvg-logo="https://epg.112114.xyz/logo/炫动卡通.png" group-title="组播",炫动卡通
 http://10.10.1.77:7777/rtp/239.93.0.173:5140
-#EXTINF:-1,tvg-id="金熊猫卡通高清" tvg-name="金熊猫卡通高清" tvg-logo="https://epg.112114.xyz/logo/金熊猫卡通.png" group-title="卡通",金熊猫卡通高清
+#EXTINF:-1,tvg-id="金熊猫卡通高清" tvg-name="金熊猫卡通高清" tvg-logo="https://epg.112114.xyz/logo/金熊猫卡通.png" group-title="组播",金熊猫卡通高清
 http://10.10.1.77:7777/rtp/239.93.1.172:5140
-#EXTINF:-1,tvg-id="熊猫少儿高清" tvg-name="熊猫少儿高清" tvg-logo="https://epg.112114.xyz/logo/熊猫少儿.png" group-title="卡通",熊猫少儿高清
+#EXTINF:-1,tvg-id="熊猫少儿高清" tvg-name="熊猫少儿高清" tvg-logo="https://epg.112114.xyz/logo/熊猫少儿.png" group-title="组播",熊猫少儿高清
 http://10.10.1.77:7777/rtp/239.93.1.189:5140
 #EXTINF:-1,tvg-id="熊猫新闻高清" tvg-name="熊猫新闻高清" tvg-logo="https://epg.112114.xyz/logo/熊猫新闻.png" group-title="四川",熊猫新闻高清
 http://10.10.1.77:7777/rtp/239.93.1.112:5140
@@ -346,13 +346,13 @@ http://10.10.1.77:7777/rtp/239.93.0.91:2101
 http://10.10.1.77:7777/rtp/239.93.1.165:5140
 #EXTINF:-1,tvg-id="百姓健康" tvg-name="百姓健康" tvg-logo="https://epg.112114.xyz/logo/百姓健康.png" group-title="组播",百姓健康
 http://10.10.1.77:7777/rtp/239.93.42.35:5140
-#EXTINF:-1,tvg-id="少儿天地" tvg-name="少儿天地" tvg-logo="https://epg.112114.xyz/logo/少儿天地.png" group-title="卡通",少儿天地
+#EXTINF:-1,tvg-id="少儿天地" tvg-name="少儿天地" tvg-logo="https://epg.112114.xyz/logo/少儿天地.png" group-title="组播",少儿天地
 http://10.10.1.77:7777/rtp/239.93.42.34:5140
-#EXTINF:-1,tvg-id="爱幼教高清" tvg-name="爱幼教高清" tvg-logo="https://epg.112114.xyz/logo/爱幼教.png" group-title="卡通",爱幼教高清
+#EXTINF:-1,tvg-id="爱幼教高清" tvg-name="爱幼教高清" tvg-logo="https://epg.112114.xyz/logo/爱幼教.png" group-title="组播",爱幼教高清
 http://10.10.1.77:7777/rtp/239.93.42.17:5140
-#EXTINF:-1,tvg-id="爱玩具高清" tvg-name="爱玩具高清" tvg-logo="https://epg.112114.xyz/logo/爱玩具.png" group-title="卡通",爱玩具高清
+#EXTINF:-1,tvg-id="爱玩具高清" tvg-name="爱玩具高清" tvg-logo="https://epg.112114.xyz/logo/爱玩具.png" group-title="组播",爱玩具高清
 http://10.10.1.77:7777/rtp/239.93.42.18:5140
-#EXTINF:-1,tvg-id="爱动漫高清" tvg-name="爱动漫高清" tvg-logo="https://epg.112114.xyz/logo/爱动漫.png" group-title="卡通",爱动漫高清
+#EXTINF:-1,tvg-id="爱动漫高清" tvg-name="爱动漫高清" tvg-logo="https://epg.112114.xyz/logo/爱动漫.png" group-title="组播",爱动漫高清
 http://10.10.1.77:7777/rtp/239.93.42.23:5140
 #EXTINF:-1,tvg-id="求索频道高清" tvg-name="求索频道高清" tvg-logo="https://epg.112114.xyz/logo/求索频道.png" group-title="组播",求索频道高清
 http://10.10.1.77:7777/rtp/239.93.42.24:5140
@@ -380,7 +380,7 @@ http://10.10.1.77:7777/rtp/239.93.1.151:5140
 http://10.10.1.77:7777/rtp/239.93.0.114:5140
 #EXTINF:-1,tvg-id="热血剧场" tvg-name="热血剧场" tvg-logo="https://epg.112114.xyz/logo/热血剧场.png" group-title="组播",热血剧场
 http://10.10.1.77:7777/rtp/239.93.1.198:5140
-#EXTINF:-1,tvg-id="乐龄学堂" tvg-name="乐龄学堂" tvg-logo="https://epg.112114.xyz/logo/乐龄学堂.png" group-title="卡通",乐龄学堂
+#EXTINF:-1,tvg-id="乐龄学堂" tvg-name="乐龄学堂" tvg-logo="https://epg.112114.xyz/logo/乐龄学堂.png" group-title="组播",乐龄学堂
 http://10.10.1.77:7777/rtp/239.93.1.179:5140
 #EXTINF:-1,tvg-id="熊猫24小时" tvg-name="熊猫24小时" tvg-logo="https://epg.112114.xyz/logo/熊猫24小时.png" group-title="组播",熊猫24小时
 http://10.10.1.77:7777/rtp/239.93.1.178:5140

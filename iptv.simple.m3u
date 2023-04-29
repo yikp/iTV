@@ -66,20 +66,6 @@ http://10.10.1.77:7777/rtp/239.93.0.104:5140
 http://10.10.1.77:7777/rtp/239.93.42.49:5140
 #EXTINF:-1,tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://epg.112114.xyz/logo/CGTN法语.png" group-title="央视",CGTN法语
 http://10.10.1.77:7777/rtp/239.93.42.50:5140
-#EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="4K",爱上4K
-http://10.10.1.77:7777/rtp/239.93.0.97:5140
-#EXTINF:-1,tvg-id="亲子趣学4K" tvg-name="亲子趣学4K" tvg-logo="https://upload.112114.xyz/logo/亲子趣学4K.png" group-title="4K",亲子趣学4K
-http://10.10.1.77:7777/rtp/239.93.1.191:5140
-#EXTINF:-1,tvg-id="津津悦读4K" tvg-name="津津悦读4K" tvg-logo="https://upload.112114.xyz/logo/津津悦读4K.png" group-title="4K",津津悦读4K
-http://10.10.1.77:7777/rtp/239.93.1.197:5140
-#EXTINF:-1,tvg-id="中录动漫4K" tvg-name="中录动漫4K" tvg-logo="https://upload.112114.xyz/logo/中录动漫4K.png" group-title="4K",中录动漫4K
-http://10.10.1.77:7777/rtp/239.93.1.188:5140
-#EXTINF:-1,tvg-id="绚影4K" tvg-name="绚影4K" tvg-logo="https://epg.112114.xyz/logo/绚影4K.png" group-title="4K",绚影4K
-http://10.10.1.77:7777/rtp/239.93.42.33:5140
-#EXTINF:-1,tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://upload.112114.xyz/logo/4K超高清电影.png" group-title="4K",4K超高清电影
-http://10.10.1.77:7777/rtp/239.93.1.156:5140
-#EXTINF:-1,tvg-id="4K乐享超清" tvg-name="4K乐享超清" tvg-logo="https://upload.112114.xyz/logo/Clarity4K.png" group-title="4K",4K乐享超清
-http://10.10.1.77:7777/rtp/239.93.0.43:5140
 #EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视高清
 http://10.10.1.77:7777/rtp/239.93.0.20:1235
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视高清
@@ -364,14 +350,6 @@ http://gslbserv.itv.cmvideo.cn:80/5000000011000031116/index.m3u8?channel-id=best
 http://gslbserv.itv.cmvideo.cn:80/5000000002000019634/index.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="NEWTV",SiTV游戏风云
 http://gslbserv.itv.cmvideo.cn:80/5000000011000031114/index.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://upload.112114.xyz/logo/%E5%8D%8E%E6%95%B0.png" group-title="4K",华数4K
-http://gslbserv.itv.cmvideo.cn:80/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="咪咕3K" tvg-name="咪咕3K" tvg-logo="https://upload.112114.xyz/logo/migu.png" group-title="4K",咪咕3K
-http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="咪咕4K" tvg-name="咪咕4K" tvg-logo="https://epg.112114.xyz/logo/咪咕4K.png" group-title="4K",咪咕4K
-http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="4K",纯享4K
-http://gslbserv.itv.cmvideo.cn:80/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="地方",广东珠江
 http://gslbserv.itv.cmvideo.cn:80/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.112114.xyz/logo/黑莓电影.png" group-title="影视",黑莓电影

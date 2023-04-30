@@ -638,8 +638,7 @@ http://gslbserv.itv.cmvideo.cn:80/5000000011000031123/index.m3u8?channel-id=best
 #EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="地方",上海纪实人文
 http://gslbserv.itv.cmvideo.cn:80/1000000001000016545/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016545&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/上海五星体育.png" group-title="体育",上海五星体育
-https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
-# http://gslbserv.itv.cmvideo.cn:80/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+http://gslbserv.itv.cmvideo.cn:80/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://epg.112114.xyz/logo/上海新闻综合.png" group-title="地方",上海新闻综合
 http://gslbserv.itv.cmvideo.cn:80/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="HD少儿动漫" tvg-name="HD少儿动漫" tvg-logo="https://epg.112114.xyz/logo/HD少儿动漫.png" group-title="卡通",少儿动漫
@@ -778,8 +777,7 @@ http://10.10.1.88:8888/gudou.php?id=GHDdaoshi_7500
 #EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="其他",魅力足球
 http://10.10.1.88:8888/gudou.php?id=meiliyinyueHD_7000
 #EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="体育",劲爆体育
-https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
-# http://10.10.1.88:8888/gudou.php?id=jinbaotiyuHD_7000
+http://10.10.1.88:8888/gudou.php?id=jinbaotiyuHD_7000
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="地方",广东珠江
 http://10.10.1.88:8888/gudou.php?id=gdzhujiangHD_7500
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="体育",广东体育

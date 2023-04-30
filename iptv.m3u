@@ -198,15 +198,15 @@ http://10.10.1.77:7777/rtp/239.93.0.252:5140
 #EXTINF:-1,tvg-id="CDTV1" tvg-name="CDTV1" tvg-logo="https://epg.112114.xyz/logo/CDTV1.png" group-title="四川",CDTV-1高清
 http://10.10.1.77:7777/rtp/239.93.0.16:5140
 #EXTINF:-1,tvg-id="CDTV2" tvg-name="CDTV2" tvg-logo="https://epg.112114.xyz/logo/CDTV2.png" group-title="四川",CDTV-2高清
-http://10.10.1.77:7777/rtp/239.93.1.232:5140
+http://10.10.1.77:7777/rtp/239.93.0.17:1239
 #EXTINF:-1,tvg-id="CDTV3" tvg-name="CDTV3" tvg-logo="https://epg.112114.xyz/logo/CDTV3.png" group-title="四川",CDTV-3高清
-http://10.10.1.77:7777/rtp/239.93.1.233:5140
+http://10.10.1.77:7777/rtp/239.93.0.18:1238
 #EXTINF:-1,tvg-id="CDTV4" tvg-name="CDTV4" tvg-logo="https://epg.112114.xyz/logo/CDTV4.png" group-title="四川",CDTV-4高清
-http://10.10.1.77:7777/rtp/239.93.1.143:5140
+http://10.10.1.77:7777/rtp/239.93.0.19:1250
 #EXTINF:-1,tvg-id="CDTV5" tvg-name="CDTV5" tvg-logo="https://epg.112114.xyz/logo/CDTV5.png" group-title="四川",CDTV-5高清
 http://10.10.1.77:7777/rtp/239.93.1.231:5140
 #EXTINF:-1,tvg-id="CDTV6" tvg-name="CDTV6" tvg-logo="https://epg.112114.xyz/logo/CDTV6.png" group-title="四川",CDTV-6高清
-http://10.10.1.77:7777/rtp/239.93.1.249:5140
+http://10.10.1.77:7777/rtp/239.93.0.21:1251
 #EXTINF:-1,tvg-id="蓉城先锋" tvg-name="蓉城先锋" tvg-logo="https://epg.112114.xyz/logo/蓉城先锋.png" group-title="四川",CDTV蓉城先锋
 http://10.10.1.77:7777/rtp/239.93.1.246:5140
 #EXTINF:-1,tvg-id="CDTV8" tvg-name="CDTV8" tvg-logo="https://epg.112114.xyz/logo/CDTV8.png" group-title="四川",CDTV-8高清

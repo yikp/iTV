@@ -89,6 +89,10 @@ http://10.10.1.88:8888/gudou.php?id=GDZYHD4K_38000
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://upload.112114.xyz/logo/欢笑剧场4K.png" group-title="4K",SiTV欢笑剧场4K
 http://10.10.1.88:8888/cq.php?id=hxjc_4K
 # http://gslbserv.itv.cmvideo.cn:80/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="百事通4K" tvg-name="百事通4K" tvg-logo="https://upload.112114.xyz/logo/百事通4K.png" group-title="4K",百事通4K
+http://10.10.1.77:7777/rtp/239.93.42.75:5140
+#EXTINF:-1,tvg-id="天翼百事通4K" tvg-name="天翼百事通4K" tvg-logo="https://upload.112114.xyz/logo/天翼百事通4K.png" group-title="4K",天翼百事通4K测试
+http://10.10.1.77:7777/rtp/239.93.1.194:6000
 #EXTINF:-1,tvg-id="北京4K" tvg-name="北京4K" tvg-logo="https://upload.112114.xyz/logo/北京4K.png" group-title="4K",北京4K
 
 #EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://upload.112114.xyz/logo/BRTV_DOCUMENTARY_8K.png" group-title="4K",北京纪实科教8K
@@ -759,6 +763,8 @@ http://10.10.1.77:7777/rtp/239.93.1.175:5140
 http://10.10.1.77:7777/rtp/239.93.1.176:5140
 #EXTINF:-1,tvg-id="i成都" tvg-name="i成都" tvg-logo="https://epg.112114.xyz/logo/I成都.png" group-title="四川",i成都
 http://10.10.1.77:7777/rtp/239.93.1.104:1234
+#EXTINF:-1,tvg-id="i乐山" tvg-name="i乐山" tvg-logo="https://epg.112114.xyz/logo/i乐山.png" group-title="四川",i乐山
+http://10.10.1.77:7777/rtp/239.93.1.55:8302
 #EXTINF:-1,tvg-id="成都大运" tvg-name="成都大运" tvg-logo="https://epg.112114.xyz/logo/成都大运.png" group-title="其他",成都大运高清
 http://10.10.1.77:7777/rtp/239.93.0.224:1281
 #EXTINF:-1,tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://epg.112114.xyz/logo/中国交通.png" group-title="其他",中国交通高清

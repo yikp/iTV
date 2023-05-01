@@ -268,7 +268,7 @@ http://10.10.1.88:8888/ytb/?id=xL0ch83RAK8
 http://10.10.1.88:8888/ytb/?id=TCnaIE_SAtM
 # https://raw.githubusercontent.com/yikp/iTV/ytblive/TCnaIE_SAtM.m3u8
 #EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视新闻台.png" group-title="港澳台",台湾·华视新闻台
-http://stream.dsichannel.com/hls/cts-news.m3u8
+
 # https://raw.githubusercontent.com/yikp/iTV/ytblive/wM0g8EoUZ_E.m3u8
 #EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="港澳台",台湾·民视新闻台
 http://10.10.1.88:8888/ytb/?id=ylYJSBUgaMA

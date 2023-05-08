@@ -222,7 +222,7 @@ http://10.10.1.77:7777/rtp/239.93.0.162:2192
 #EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯台.png" group-title="港澳台",凤凰卫视资讯台
 http://10.10.1.77:7777/rtp/239.93.0.118:2191
 #EXTINF:-1,tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视香港台.png" group-title="港澳台",凤凰卫视香港台
-http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
+http://10.10.1.88:8888/ifeng/
 #EXTINF:-1,tvg-id="凤凰卫视电影台" tvg-name="凤凰卫视电影台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视电影台.png" group-title="港澳台",凤凰卫视电影台
 
 #EXTINF:-1,tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="港澳台",星空卫视

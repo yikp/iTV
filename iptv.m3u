@@ -81,7 +81,7 @@ http://10.10.1.77:7777/rtp/239.93.1.188:5140
 http://10.10.1.77:7777/rtp/239.93.42.33:5140
 #EXTINF:-1 tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://upload.112114.xyz/logo/4K超高清电影.png" group-title="4K",4K超高清电影
 http://10.10.1.77:7777/rtp/239.93.1.156:5140
-#EXTINF:-1 tvg-id="4K乐享超清" tvg-name="4K乐享超清" tvg-logo="https://upload.112114.xyz/logo/Clarity4K.png" group-title="4K",4K乐享超清
+#EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://upload.112114.xyz/logo/华数.png" group-title="4K",华数4K
 http://10.10.1.77:7777/rtp/239.93.0.43:5140
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K",CCTV4K
 http://10.10.1.88:8888/gudou.php?id=4005
@@ -449,8 +449,6 @@ http://gslbserv.itv.cmvideo.cn:80/5000000011000031116/index.m3u8?channel-id=best
 http://gslbserv.itv.cmvideo.cn:80/5000000002000019634/index.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="NEWTV",SiTV游戏风云
 http://gslbserv.itv.cmvideo.cn:80/5000000011000031114/index.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://upload.112114.xyz/logo/%E5%8D%8E%E6%95%B0.png" group-title="4K",华数4K
-http://gslbserv.itv.cmvideo.cn:80/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="咪咕3K" tvg-name="咪咕3K" tvg-logo="https://upload.112114.xyz/logo/migu.png" group-title="4K",咪咕3K
 http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="咪咕4K" tvg-name="咪咕4K" tvg-logo="https://epg.112114.xyz/logo/咪咕4K.png" group-title="4K",咪咕4K

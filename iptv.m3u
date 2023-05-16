@@ -38,28 +38,28 @@ http://10.10.1.77:7777/rtp/239.93.0.92:5140
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV-4K超清
 http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="央视",CCTV兵器科技
-http://111.20.40.166/PLTV/88888893/224/3221226975/index.m3u8
+http://111.20.40.162/PLTV/88888893/224/3221226975/index.m3u8
 #EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="央视",CCTV怀旧剧场
-http://111.20.40.166/PLTV/88888893/224/3221226972/index.m3u8
+http://111.20.40.162/PLTV/88888893/224/3221226972/index.m3u8
 #EXTINF:-1,tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://epg.112114.xyz/logo/世界地理.png" group-title="央视",CCTV世界地理
-http://111.20.40.166/PLTV/88888893/224/3221226947/index.m3u8
+http://111.20.40.162/PLTV/88888893/224/3221226947/index.m3u8
 #EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://epg.112114.xyz/logo/文化精品.png" group-title="央视",CCTV文化精品
-http://111.20.40.166/PLTV/88888893/224/3221226981/index.m3u8
+http://111.20.40.162/PLTV/88888893/224/3221226981/index.m3u8
 #EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="央视",CCTV央视台球
-http://111.20.40.166/PLTV/88888893/224/3221226956/index.m3u8
+http://111.20.40.162/PLTV/88888893/224/3221226956/index.m3u8
 # http://10.10.1.77:7777/rtp/239.93.0.203:9072
 #EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/高网.png" group-title="央视",CCTV央视高网
-http://111.20.40.166/PLTV/88888893/224/3221226978/index.m3u8
+http://111.20.40.162/PLTV/88888893/224/3221226978/index.m3u8
 #EXTINF:-1,tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://epg.112114.xyz/logo/风云剧场.png" group-title="央视",CCTV风云剧场
-http://111.20.40.166/PLTV/88888893/224/3221226950/index.m3u8
+http://111.20.40.162/PLTV/88888893/224/3221226950/index.m3u8
 #EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://epg.112114.xyz/logo/风云音乐.png" group-title="央视",CCTV风云音乐
-http://111.20.40.166/PLTV/88888893/224/3221226953/index.m3u8
+http://111.20.40.162/PLTV/88888893/224/3221226953/index.m3u8
 #EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://epg.112114.xyz/logo/第一剧场.png" group-title="央视",CCTV第一剧场
-http://111.20.40.166/PLTV/88888893/224/3221226959/index.m3u8
+http://111.20.40.162/PLTV/88888893/224/3221226959/index.m3u8
 #EXTINF:-1,tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://epg.112114.xyz/logo/风云足球.png" group-title="央视",CCTV风云足球
-http://111.20.40.166/PLTV/88888893/224/3221226984/index.m3u8
+http://111.20.40.162/PLTV/88888893/224/3221226984/index.m3u8
 #EXTINF:-1,tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://epg.112114.xyz/logo/电视指南.png" group-title="央视",CCTV电视指南
-http://111.20.40.166/PLTV/88888893/224/3221226987/index.m3u8
+http://111.20.40.162/PLTV/88888893/224/3221226987/index.m3u8
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN英语.png" group-title="央视",CGTN英语
 http://10.10.1.77:7777/rtp/239.93.0.104:5140
 #EXTINF:-1,tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://epg.112114.xyz/logo/CGTN西语.png" group-title="央视",CGTN西语
@@ -343,12 +343,12 @@ http://live.corusdigitaldev.com/groupb/live/215422c9-d1b9-4009-aaca-32e403f22b01
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/sky-news.png" group-title="港澳台",海外·日本全天新聞
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="影视",CHC动作电影
-http://111.20.40.166/PLTV/88888893/224/3221226465/index.m3u8
+http://111.20.40.162/PLTV/88888893/224/3221226465/index.m3u8
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="影视",CHC高清电影
-http://111.20.40.166/PLTV/88888893/224/3221226463/index.m3u8
+http://111.20.40.162/PLTV/88888893/224/3221226463/index.m3u8
 # http://10.10.1.88:8888/gudou.php?id=CHCHD_7000
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="影视",CHC家庭影院
-http://111.20.40.166/PLTV/88888893/224/3221226462/index.m3u8
+http://111.20.40.162/PLTV/88888893/224/3221226462/index.m3u8
 #EXTINF:-1,tvg-id="星空精选高清" tvg-name="星空精选高清" tvg-logo="https://epg.112114.xyz/logo/星空精选.png" group-title="其他",星空精选高清
 http://10.10.1.77:7777/rtp/239.93.1.171:5140
 #EXTINF:-1,tvg-id="HD看电影" tvg-name="HD看电影" tvg-logo="https://epg.112114.xyz/logo/HD看电影.png" group-title="影视",HD看电影
@@ -658,12 +658,6 @@ http://gslbserv.itv.cmvideo.cn:80/2000000003000000036/index.m3u8?channel-id=hnbb
 http://gslbserv.itv.cmvideo.cn:80/2000000003000000056/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000056&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="咪咕全民热练" tvg-name="咪咕全民热练" tvg-logo="https://epg.112114.xyz/logo/咪咕全民热练.png" group-title="其他",咪咕全民热练
 http://gslbserv.itv.cmvideo.cn:80/1000000006000270007/index.m3u8?channel-id=ystenlive&Contentid=1000000006000270007&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://epg.112114.xyz/logo/湖南经视.png" group-title="地方",湖南经视
-http://fm-live-rtmp.fm-tv-live.mangguonews.com/fm-tv-live/hnjs.m3u8
-#EXTINF:-1,tvg-id="湖南爱晚" tvg-name="湖南爱晚" tvg-logo="https://epg.112114.xyz/logo/湖南爱晚.png" group-title="地方",湖南爱晚
-http://fm-live-rtmp.fm-tv-live.mangguonews.com/fm-tv-live/hngg.m3u8
-#EXTINF:-1,tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="https://epg.112114.xyz/logo/湖南都市.png" group-title="地方",湖南都市
-http://fm-live-rtmp.fm-tv-live.mangguonews.com/fm-tv-live/hnds.m3u8
 #EXTINF:-1,tvg-id="EZTV1" tvg-name="EZTV1" tvg-logo="https://epg.112114.xyz/logo/EZTV1.png" group-title="地方",EZTV1
 http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 #EXTINF:-1,tvg-id="EZTV2" tvg-name="EZTV2" tvg-logo="https://epg.112114.xyz/logo/EZTV2.png" group-title="地方",EZTV2

@@ -651,7 +651,7 @@ http://gslbserv.itv.cmvideo.cn:80/2000000004000000003/index.m3u8?channel-id=hnbb
 #EXTINF:-1,tvg-id="新海南" tvg-name="新海南" tvg-logo="https://epg.112114.xyz/logo/新海南.png" group-title="地方",新海南
 http://gslbserv.itv.cmvideo.cn:80/2000000003000000011/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000011&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="浙江炫动3D" tvg-name="浙江炫动3D" tvg-logo="https://epg.112114.xyz/logo/浙江炫动3D.png" group-title="卡通",浙江炫动3D
-http://gslbserv.itv.cmvideo.cn:80/6000000003000000558/index.m3u8?channel-id=wasusyt&Contentid=6000000003000000558&livemode=1&stbId=3
+# http://gslbserv.itv.cmvideo.cn:80/6000000003000000558/index.m3u8?channel-id=wasusyt&Contentid=6000000003000000558&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="央广购物" tvg-name="央广购物" tvg-logo="https://epg.112114.xyz/logo/央广购物.png" group-title="其他",央广购物
 http://gslbserv.itv.cmvideo.cn:80/2000000003000000036/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000036&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="中视购物" tvg-name="中视购物" tvg-logo="https://epg.112114.xyz/logo/中视购物.png" group-title="其他",中视购物

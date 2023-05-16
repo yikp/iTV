@@ -402,7 +402,7 @@ http://10.10.1.77:7777/rtp/239.93.0.193:9000
 #EXTINF:-1,tvg-id="青春动漫" tvg-name="青春动漫" tvg-logo="https://epg.112114.xyz/logo/青春动漫.png" group-title="卡通",青春动漫
 http://10.10.1.77:7777/rtp/239.93.0.146:5140
 #EXTINF:-1,tvg-id="炫动卡通" tvg-name="炫动卡通" tvg-logo="https://epg.112114.xyz/logo/炫动卡通.png" group-title="卡通",炫动卡通
-http://10.10.1.77:7777/rtp/239.93.0.173:5140
+# http://10.10.1.77:7777/rtp/239.93.0.173:5140
 #EXTINF:-1,tvg-id="金熊猫卡通高清" tvg-name="金熊猫卡通高清" tvg-logo="https://epg.112114.xyz/logo/金熊猫卡通.png" group-title="卡通",金熊猫卡通高清
 http://10.10.1.77:7777/rtp/239.93.1.172:5140
 #EXTINF:-1,tvg-id="熊猫少儿高清" tvg-name="熊猫少儿高清" tvg-logo="https://epg.112114.xyz/logo/熊猫少儿.png" group-title="卡通",熊猫少儿高清
@@ -638,7 +638,7 @@ http://gslbserv.itv.cmvideo.cn:80/5000000010000032212/index.m3u8?channel-id=best
 http://gslbserv.itv.cmvideo.cn:80/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://epg.112114.xyz/logo/法治天地.png" group-title="地方",上海法治天地
 http://gslbserv.itv.cmvideo.cn:80/2000000002000000014/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000014&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.png" group-title="地方",上海哈哈炫动
+#EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.png" group-title="卡通",上海哈哈炫动
 http://gslbserv.itv.cmvideo.cn:80/5000000011000031123/index.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="地方",上海纪实人文
 http://gslbserv.itv.cmvideo.cn:80/1000000001000016545/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016545&livemode=1&stbId=3
@@ -650,7 +650,7 @@ http://gslbserv.itv.cmvideo.cn:80/5000000011000031110/index.m3u8?channel-id=best
 http://gslbserv.itv.cmvideo.cn:80/2000000004000000003/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000003&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="新海南" tvg-name="新海南" tvg-logo="https://epg.112114.xyz/logo/新海南.png" group-title="地方",新海南
 http://gslbserv.itv.cmvideo.cn:80/2000000003000000011/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000011&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="浙江炫动3D(高清)" tvg-name="浙江炫动3D(高清)" tvg-logo="https://epg.112114.xyz/logo/浙江炫动3D(高清).png" group-title="卡通",炫动3D
+#EXTINF:-1,tvg-id="浙江炫动3D" tvg-name="浙江炫动3D" tvg-logo="https://epg.112114.xyz/logo/浙江炫动3D.png" group-title="卡通",浙江炫动3D
 http://gslbserv.itv.cmvideo.cn:80/6000000003000000558/index.m3u8?channel-id=wasusyt&Contentid=6000000003000000558&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="央广购物" tvg-name="央广购物" tvg-logo="https://epg.112114.xyz/logo/央广购物.png" group-title="其他",央广购物
 http://gslbserv.itv.cmvideo.cn:80/2000000003000000036/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000036&livemode=1&stbId=3

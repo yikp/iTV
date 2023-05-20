@@ -248,21 +248,21 @@ https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlay
 #EXTINF:-1 tvg-id="77" tvg-name="香港开电视" tvg-logo="https://epg.112114.xyz/logo/香港开电视.png" group-title="港澳台",香港·开电视
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" group-title="港澳台",香港·香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-id="耀才财经台" tvg-name="耀才财经台" tvg-logo="https://epg.112114.xyz/logo/耀才财经台.png" group-title="港澳台",香港·耀才财经台
-https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+
 #EXTINF:-1 tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="港澳台",台湾·台视新闻台
 http://10.10.1.88:8888/ytb/?id=xL0ch83RAK8
 #EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.112114.xyz/logo/中视新闻台.png" group-title="港澳台",台湾·中视新闻台
 http://10.10.1.88:8888/ytb/?id=TCnaIE_SAtM
 #EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="港澳台",台湾·民视新闻台
 http://10.10.1.88:8888/ytb/?id=ylYJSBUgaMA
+#EXTINF:-1 tvg-id="华视新闻台" tvg-name="华视新闻台" tvg-logo="https://epg.112114.xyz/logo/华视新闻台.png" group-title="港澳台",台湾·华视新闻台
+http://10.10.1.88:8888/ytb/?id=wM0g8EoUZ_E
 #EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",台湾·TVBS新闻台
 http://10.10.1.88:8888/ytb/?id=2mCSYvcfhtc
 #EXTINF:-1 tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="港澳台",台湾·三立新闻台
 http://10.10.1.88:8888/ytb/?id=FoBfXvlOR6I
-#EXTINF:-1 tvg-id="三立财经新闻台" tvg-name="三立财经新闻台" tvg-logo="https://epg.112114.xyz/logo/三立财经新闻台.png" group-title="港澳台",台湾·三立财经新闻台
-http://10.10.1.88:8888/ytb/?id=jlldIiGA5bU
+#EXTINF:-1 tvg-id="三立财经新闻台" tvg-name="三立财经新闻台" tvg-logo="https://epg.112114.xyz/logo/三立财经新闻台.png" group-title="港澳台",台湾·三立新闻台+
+http://10.10.1.88:8888/ytb/?id=oZdzzvxTfUY
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/中天新闻台.png" group-title="港澳台",台湾·中天新闻台
 http://10.10.1.88:8888/ytb/?id=oIgbl7t0S_w
 #EXTINF:-1 tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://epg.112114.xyz/logo/中天亚洲台.png" group-title="港澳台",台湾·中天亚洲台

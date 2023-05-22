@@ -263,7 +263,7 @@ http://10.10.1.88:8888/ytb/?id=2mCSYvcfhtc
 http://10.10.1.88:8888/ytb/?id=FoBfXvlOR6I
 #EXTINF:-1 tvg-id="三立财经新闻台" tvg-name="三立财经新闻台" tvg-logo="https://epg.112114.xyz/logo/三立财经新闻台.png" group-title="港澳台",台湾·三立新闻台+
 http://10.10.1.88:8888/ytb/?id=oZdzzvxTfUY
-#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/中天新闻台.png" group-title="港澳台",台湾·中天新闻台
+#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="港澳台",台湾·中天新闻台
 http://10.10.1.88:8888/ytb/?id=oIgbl7t0S_w
 #EXTINF:-1 tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://epg.112114.xyz/logo/中天亚洲台.png" group-title="港澳台",台湾·中天亚洲台
 http://10.10.1.88:8888/ytb/?id=oPx1u9WQrWg

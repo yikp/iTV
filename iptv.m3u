@@ -242,31 +242,31 @@ https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlay
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" group-title="港澳台",香港·香港卫视
 
 #EXTINF:-1 tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="港澳台",台湾·台视新闻台
-http://10.10.1.88:8888/ytb/?id=xL0ch83RAK8
+https://raw.githubusercontent.com/yikp/iTV/ytblive/xL0ch83RAK8.m3u8
 #EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.112114.xyz/logo/中视新闻台.png" group-title="港澳台",台湾·中视新闻台
-http://10.10.1.88:8888/ytb/?id=TCnaIE_SAtM
+https://raw.githubusercontent.com/yikp/iTV/ytblive/TCnaIE_SAtM.m3u8
 #EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="港澳台",台湾·民视新闻台
-http://10.10.1.88:8888/ytb/?id=ylYJSBUgaMA
+https://raw.githubusercontent.com/yikp/iTV/ytblive/ylYJSBUgaMA.m3u8
 #EXTINF:-1 tvg-id="华视新闻台" tvg-name="华视新闻台" tvg-logo="https://epg.112114.xyz/logo/华视新闻台.png" group-title="港澳台",台湾·华视新闻台
-http://10.10.1.88:8888/ytb/?id=wM0g8EoUZ_E
+https://raw.githubusercontent.com/yikp/iTV/ytblive/wM0g8EoUZ_E.m3u8
 #EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",台湾·TVBS新闻台
-http://10.10.1.88:8888/ytb/?id=2mCSYvcfhtc
+https://raw.githubusercontent.com/yikp/iTV/ytblive/2mCSYvcfhtc.m3u8
 #EXTINF:-1 tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="港澳台",台湾·三立新闻台
-http://10.10.1.88:8888/ytb/?id=FoBfXvlOR6I
+https://raw.githubusercontent.com/yikp/iTV/ytblive/FoBfXvlOR6I.m3u8
 #EXTINF:-1 tvg-id="三立财经新闻台" tvg-name="三立财经新闻台" tvg-logo="https://epg.112114.xyz/logo/三立财经新闻台.png" group-title="港澳台",台湾·三立新闻台+
-http://10.10.1.88:8888/ytb/?id=oZdzzvxTfUY
+https://raw.githubusercontent.com/yikp/iTV/ytblive/oZdzzvxTfUY.m3u8
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="港澳台",台湾·中天新闻台
-http://10.10.1.88:8888/ytb/?id=oIgbl7t0S_w
+https://raw.githubusercontent.com/yikp/iTV/ytblive/oIgbl7t0S_w.m3u8
 #EXTINF:-1 tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://epg.112114.xyz/logo/中天亚洲台.png" group-title="港澳台",台湾·中天亚洲台
-http://10.10.1.88:8888/ytb/?id=oPx1u9WQrWg
+https://raw.githubusercontent.com/yikp/iTV/ytblive/oPx1u9WQrWg.m3u8
 #EXTINF:-1 tvg-id="镜电视新闻台" tvg-name="镜电视新闻台" tvg-logo="https://epg.112114.xyz/logo/镜电视新闻台.png" group-title="港澳台",台湾·镜电视新闻台
-http://10.10.1.88:8888/ytb/?id=5n0y6b0Q25o
+https://raw.githubusercontent.com/yikp/iTV/ytblive/5n0y6b0Q25o.m3u8
 #EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="港澳台",台湾·东森新闻台
-http://10.10.1.88:8888/ytb/?id=R2iMq5LKXco
+https://raw.githubusercontent.com/yikp/iTV/ytblive/R2iMq5LKXco.m3u8
 #EXTINF:-1 tvg-id="东森财经新闻台" tvg-name="东森财经新闻台" tvg-logo="https://epg.112114.xyz/logo/东森财经新闻台.png" group-title="港澳台",台湾·东森财经新闻台
-http://10.10.1.88:8888/ytb/?id=WHEPzbFA3hw
+https://raw.githubusercontent.com/yikp/iTV/ytblive/WHEPzbFA3hw.m3u8
 #EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻台.png" group-title="港澳台",台湾·寰宇新闻台
-http://10.10.1.88:8888/ytb/?id=B7Zp3d6xXWw
+https://raw.githubusercontent.com/yikp/iTV/ytblive/B7Zp3d6xXWw.m3u8
 #EXTINF:-1 tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://epg.112114.xyz/logo/莲花卫视.png" group-title="港澳台",澳门·莲花卫视
 http://10.10.1.88:8888/aomen/
 #EXTINF:-1 tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://epg.112114.xyz/logo/澳亚卫视.png" group-title="港澳台",澳门·澳亚卫视

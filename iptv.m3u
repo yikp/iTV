@@ -69,19 +69,17 @@ http://10.10.1.77:7777/rtp/239.93.0.104:5140
 http://10.10.1.77:7777/rtp/239.93.42.49:5140
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://epg.112114.xyz/logo/CGTN法语.png" group-title="央视",CGTN法语
 http://10.10.1.77:7777/rtp/239.93.42.50:5140
-#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="4K",爱上4K
+#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="4K",爱上4K专区
 http://10.10.1.77:7777/rtp/239.93.0.97:5140
 #EXTINF:-1 tvg-id="亲子趣学4K" tvg-name="亲子趣学4K" tvg-logo="https://upload.112114.xyz/logo/亲子趣学4K.png" group-title="4K",亲子趣学4K
 http://10.10.1.77:7777/rtp/239.93.1.191:5140
 #EXTINF:-1 tvg-id="津津悦读4K" tvg-name="津津悦读4K" tvg-logo="https://upload.112114.xyz/logo/津津悦读4K.png" group-title="4K",津津悦读4K
-http://10.10.1.77:7777/rtp/239.93.1.197:5140
+
 #EXTINF:-1 tvg-id="中录动漫4K" tvg-name="中录动漫4K" tvg-logo="https://upload.112114.xyz/logo/中录动漫4K.png" group-title="4K",中录动漫4K
 http://10.10.1.77:7777/rtp/239.93.1.188:5140
-#EXTINF:-1 tvg-id="绚影4K" tvg-name="绚影4K" tvg-logo="https://epg.112114.xyz/logo/绚影4K.png" group-title="4K",绚影4K
+#EXTINF:-1 tvg-id="绚影4K" tvg-name="绚影4K" tvg-logo="https://epg.112114.xyz/logo/绚影4K.png" group-title="4K",绚影4K专区
 http://10.10.1.77:7777/rtp/239.93.42.33:5140
-#EXTINF:-1 tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://upload.112114.xyz/logo/4K超高清电影.png" group-title="4K",4K超高清电影
-http://10.10.1.77:7777/rtp/239.93.1.156:5140
-#EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://upload.112114.xyz/logo/华数.png" group-title="4K",华数4K
+#EXTINF:-1 tvg-id="4K乐享超清" tvg-name="4K乐享超清" tvg-logo="https://upload.112114.xyz/logo/4K乐享超清.png" group-title="4K",4K乐享超清专区
 http://10.10.1.77:7777/rtp/239.93.0.43:5140
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K",CCTV4K
 
@@ -144,7 +142,7 @@ http://10.10.1.77:7777/rtp/239.93.42.45:5140
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="卫视",广西卫视高清
 http://10.10.1.77:7777/rtp/239.93.42.46:5140
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" group-title="卫视",云南卫视
-http://10.10.1.77:7777/rtp/239.93.0.174:5140
+http://10.10.1.77:7777/rtp/239.93.1.174:5140
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视高清
 http://10.10.1.77:7777/rtp/239.93.0.248:5140
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="卫视",陕西卫视
@@ -193,6 +191,8 @@ http://10.10.1.77:7777/rtp/239.93.42.44:5140
 http://10.10.1.77:7777/rtp/239.93.0.52:5140
 #EXTINF:-1 tvg-id="峨眉电影高清" tvg-name="峨眉电影高清" tvg-logo="https://epg.112114.xyz/logo/峨眉电影.png" group-title="四川;影视",峨眉电影高清
 http://10.10.1.77:7777/rtp/239.93.0.252:5140
+#EXTINF:-1 tvg-id="BestTV" tvg-name="BestTV" tvg-logo="https://epg.112114.xyz/logo/BestTV.png" group-title="影视",BestTV-HD
+http://10.10.1.77:7777/rtp/239.93.1.253:8016
 #EXTINF:-1 tvg-id="CDTV1" tvg-name="CDTV1" tvg-logo="https://epg.112114.xyz/logo/CDTV1.png" group-title="四川",CDTV-1高清
 http://10.10.1.77:7777/rtp/239.93.0.16:5140
 #EXTINF:-1 tvg-id="CDTV2" tvg-name="CDTV2" tvg-logo="https://epg.112114.xyz/logo/CDTV2.png" group-title="四川",CDTV-2高清
@@ -317,9 +317,11 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
 #EXTINF:-1 tvg-id="星空精选高清" tvg-name="星空精选高清" tvg-logo="https://epg.112114.xyz/logo/星空精选.png" group-title="其他",星空精选高清
 http://10.10.1.77:7777/rtp/239.93.1.171:5140
+#EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://epg.112114.xyz/logo/中国交通.png" group-title="其他",中国交通高清
+http://10.10.1.77:7777/rtp/239.93.0.142:5140
 #EXTINF:-1 tvg-id="HD看电影" tvg-name="HD看电影" tvg-logo="https://epg.112114.xyz/logo/HD看电影.png" group-title="影视",HD看电影
 http://10.10.1.77:7777/rtp/239.93.42.47:5140
-#EXTINF:-1 tvg-id="幸福剧场" tvg-name="幸福剧场" tvg-logo="https://epg.112114.xyz/logo/幸福剧场.png" group-title="影视",幸福剧场
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="影视",都市剧场
 http://10.10.1.77:7777/rtp/239.93.42.30:5140
 #EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="地方",上海纪实高清
 http://10.10.1.77:7777/rtp/239.93.1.137:5140
@@ -481,7 +483,7 @@ http://10.10.1.77:7777/rtp/239.93.42.12:5140
 #EXTINF:-1 tvg-id="爱青春高清" tvg-name="爱青春高清" tvg-logo="https://epg.112114.xyz/logo/爱青春.png" group-title="影视",爱青春高清
 http://10.10.1.77:7777/rtp/239.93.42.16:5140
 #EXTINF:-1 tvg-id="爱都市高清" tvg-name="爱都市高清" tvg-logo="https://epg.112114.xyz/logo/爱都市.png" group-title="影视",爱都市高清
-http://10.10.1.77:7777/rtp/239.93.42.15:5140
+
 #EXTINF:-1 tvg-id="爱极限" tvg-name="爱极限" tvg-logo="https://epg.112114.xyz/logo/爱极限.png" group-title="其他",爱极限
 http://gslbserv.itv.cmvideo.cn:80/6000000006000170630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000170630&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="爱家庭" tvg-name="爱家庭" tvg-logo="https://epg.112114.xyz/logo/爱家庭.png" group-title="其他",爱家庭
@@ -636,12 +638,16 @@ http://10.10.1.77:7777/rtp/239.93.42.29:5140
 
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="地方",广东珠江
 
+#EXTINF:-1 tvg-id="汽摩" tvg-name="汽摩" tvg-logo="https://epg.112114.xyz/logo/汽摩.png" group-title="地方",汽摩
+http://10.10.1.77:7777/rtp/239.93.0.62:5140
+#EXTINF:-1 tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.112114.xyz/logo/梨园.png" group-title="地方",梨园
+http://10.10.1.77:7777/rtp/239.93.1.195:5140
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="体育",广东体育
 
 #EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://epg.112114.xyz/logo/广东经济科教.png" group-title="地方",广东经济科教
 
 #EXTINF:-1 tvg-name="金马影院" tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/movie.png" group-title="影视",金马影院
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
 #EXTINF:-1 tvg-name="1905影院" tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/movie.png" group-title="影视",1905影院
 http://10.10.1.88:8888/1905/
 #EXTINF:-1 tvg-name="北京影视" tvg-logo="https://epg.112114.xyz/logo/北京影视.png" group-title="影视",北京影视

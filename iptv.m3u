@@ -270,7 +270,7 @@ https://raw.githubusercontent.com/yikp/iTV/ytblive/B7Zp3d6xXWw.m3u8
 #EXTINF:-1 tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://epg.112114.xyz/logo/莲花卫视.png" group-title="港澳台",澳门·莲花卫视
 http://10.10.1.88:8888/aomen/
 #EXTINF:-1 tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://epg.112114.xyz/logo/澳亚卫视.png" group-title="港澳台",澳门·澳亚卫视
-http://10.10.1.88:8888/gudou.php?id=aoya_1500
+
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://epg.112114.xyz/logo/澳视澳门.png" group-title="港澳台",澳门·澳视澳门
 http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-id="澳视葡文" tvg-name="澳视葡文" tvg-logo="https://epg.112114.xyz/logo/澳视葡文.png" group-title="港澳台",澳门·澳视葡文
@@ -629,17 +629,17 @@ http://10.10.1.77:7777/rtp/239.93.42.62:5140
 #EXTINF:-1 tvg-id="浙江风尚生活" tvg-name="浙江风尚生活" tvg-logo="https://epg.112114.xyz/logo/浙江风尚生活.png" group-title="其他",风尚生活
 http://10.10.1.77:7777/rtp/239.93.42.29:5140
 #EXTINF:-1 tvg-id="G导视高清" tvg-name="G导视高清" tvg-logo="https://epg.112114.xyz/logo/G导视.png" group-title="其他",G导视高清
-http://10.10.1.88:8888/gudou.php?id=GHDdaoshi_7500
+
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="其他",魅力足球
-http://10.10.1.88:8888/gudou.php?id=meiliyinyueHD_7000
+
 #EXTINF:-1 tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="体育",劲爆体育
-http://10.10.1.88:8888/gudou.php?id=jinbaotiyuHD_7000
+
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="地方",广东珠江
-http://10.10.1.88:8888/gudou.php?id=gdzhujiangHD_7500
+
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="体育",广东体育
-http://10.10.1.88:8888/gudou.php?id=gdsportsHD_7000
+
 #EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://epg.112114.xyz/logo/广东经济科教.png" group-title="地方",广东经济科教
-http://10.10.1.88:8888/gudou.php?id=GDjingjikejiaoHD_7000
+
 #EXTINF:-1 tvg-name="金马影院" tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/movie.png" group-title="影视",金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-name="1905影院" tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/movie.png" group-title="影视",1905影院
@@ -647,11 +647,11 @@ http://10.10.1.88:8888/1905/
 #EXTINF:-1 tvg-name="北京影视" tvg-logo="https://epg.112114.xyz/logo/北京影视.png" group-title="影视",北京影视
 http://10.10.1.88:8888/brtv/?id=bjys
 #EXTINF:-1 tvg-name="广东影视" tvg-logo="https://epg.112114.xyz/logo/广东影视.png" group-title="影视",广东影视
-http://10.10.1.88:8888/gudou.php?id=1458
+
 #EXTINF:-1 tvg-name="FTV足球频道" tvg-logo="https://epg.112114.xyz/logo/FTV足球频道.png" group-title="体育",FTV足球频道
 https://nmglive.imfc.cn/5n1r1c/182396.m3u8
 #EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://epg.112114.xyz/logo/广东少儿.png" group-title="卡通",广东少儿
-http://10.10.1.88:8888/gudou.php?id=1457
+
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://epg.112114.xyz/logo/浙江少儿.png" group-title="卡通",浙江少儿高清
 http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="南京少儿" tvg-logo="https://epg.112114.xyz/logo/南京少儿.png" group-title="卡通",南京少儿

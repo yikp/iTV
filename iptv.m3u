@@ -40,29 +40,29 @@ http://10.10.1.77:7777/rtp/239.93.42.54:5140
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV-17高清
 http://10.10.1.77:7777/rtp/239.93.0.92:5140
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视;4K",CCTV-4K超清
-http://159.75.85.63:5679/cctv4k.php
+
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="央视",CCTV兵器科技
-http://111.20.40.170/PLTV/88888893/224/3221226975/index.m3u8
+
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="央视",CCTV怀旧剧场
-http://111.20.40.170/PLTV/88888893/224/3221226972/index.m3u8
+
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://epg.112114.xyz/logo/世界地理.png" group-title="央视",CCTV世界地理
-http://111.20.40.170/PLTV/88888893/224/3221226947/index.m3u8
+
 #EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://epg.112114.xyz/logo/文化精品.png" group-title="央视",CCTV文化精品
-http://111.20.40.167/PLTV/88888893/224/3221226981/index.m3u8
+
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="央视",CCTV央视台球
-http://111.20.40.170/PLTV/88888893/224/3221226956/index.m3u8
+
 #EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/高网.png" group-title="央视",CCTV央视高网
-http://111.20.40.170/PLTV/88888893/224/3221226978/index.m3u8
+
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://epg.112114.xyz/logo/风云剧场.png" group-title="央视",CCTV风云剧场
-http://111.20.40.170/PLTV/88888893/224/3221226950/index.m3u8
+
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://epg.112114.xyz/logo/风云音乐.png" group-title="央视",CCTV风云音乐
-http://111.20.40.170/PLTV/88888893/224/3221226953/index.m3u8
+
 #EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://epg.112114.xyz/logo/第一剧场.png" group-title="央视",CCTV第一剧场
-http://111.20.40.170/PLTV/88888893/224/3221226959/index.m3u8
+
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://epg.112114.xyz/logo/风云足球.png" group-title="央视",CCTV风云足球
-http://111.20.40.170/PLTV/88888893/224/3221226984/index.m3u8
+
 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://epg.112114.xyz/logo/电视指南.png" group-title="央视",CCTV电视指南
-http://111.20.40.170/PLTV/88888893/224/3221226987/index.m3u8
+
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN英语.png" group-title="央视",CGTN英语
 http://10.10.1.77:7777/rtp/239.93.0.104:5140
 #EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://epg.112114.xyz/logo/CGTN西语.png" group-title="央视",CGTN西语
@@ -84,19 +84,19 @@ http://10.10.1.77:7777/rtp/239.93.1.156:5140
 #EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://upload.112114.xyz/logo/华数.png" group-title="4K",华数4K
 http://10.10.1.77:7777/rtp/239.93.0.43:5140
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K",CCTV4K
-http://10.10.1.88:8888/gudou.php?id=4005
+
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K",CCTV16-4K
-http://10.10.1.88:8888/gudou.php?id=4010
+
 #EXTINF:-1 tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://epg.112114.xyz/logo/广东综艺.png" group-title="4K",广东综艺4K
-http://10.10.1.88:8888/gudou.php?id=GDZYHD4K_38000
+
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://upload.112114.xyz/logo/欢笑剧场4K.png" group-title="4K",SiTV欢笑剧场4K
-http://10.10.1.88:8888/cq.php?id=hxjc_4K
+
 #EXTINF:-1 tvg-id="百事通4K" tvg-name="百事通4K" tvg-logo="https://upload.112114.xyz/logo/百事通4K.png" group-title="4K",百事通4K
 http://10.10.1.77:7777/rtp/239.93.42.75:5140
 #EXTINF:-1 tvg-id="天翼百事通4K" tvg-name="天翼百事通4K" tvg-logo="https://upload.112114.xyz/logo/天翼百事通4K.png" group-title="4K",天翼百事通4K测试
 http://10.10.1.77:7777/rtp/239.93.1.194:6000
 #EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://upload.112114.xyz/logo/BRTV_DOCUMENTARY_8K.png" group-title="4K",北京纪实科教8K
-# http://10.10.1.88:8888/btv.php
+
 #EXTINF:-1 tvg-name="苏州4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/suzhou4k.png" group-title="4K",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视;四川",四川卫视高清
@@ -220,15 +220,15 @@ http://10.10.1.77:7777/rtp/239.93.0.162:2192
 #EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯台.png" group-title="港澳台",凤凰卫视资讯台
 http://10.10.1.77:7777/rtp/239.93.0.118:2191
 #EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视香港台.png" group-title="港澳台",凤凰卫视香港台
-http://10.10.1.88:8888/ifeng/
+
 #EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="港澳台",星空卫视
 http://10.10.1.77:7777/rtp/239.93.0.156:2193
 #EXTINF:-1 tvg-id="Channel V" tvg-name="Channel V" tvg-logo="https://epg.112114.xyz/logo/CHANNELV.png" group-title="港澳台",Channel V
 http://10.10.1.77:7777/rtp/239.93.0.157:2194
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",香港·翡翠台
-http://10.10.1.88:8888/gudou.php?id=1350_4500
+
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",香港·明珠台
-http://10.10.1.88:8888/gudou.php?id=1351_4500
+
 #EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="港澳台",香港·J2
 
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港澳台",香港·无线新闻台
@@ -310,11 +310,11 @@ http://live.corusdigitaldev.com/groupb/live/215422c9-d1b9-4009-aaca-32e403f22b01
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/sky-news.png" group-title="港澳台",海外·日本全天新聞
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="影视",CHC动作电影
-http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
+
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="影视",CHC高清电影
-http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
+
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="影视",CHC家庭影院
-http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
+
 #EXTINF:-1 tvg-id="星空精选高清" tvg-name="星空精选高清" tvg-logo="https://epg.112114.xyz/logo/星空精选.png" group-title="其他",星空精选高清
 http://10.10.1.77:7777/rtp/239.93.1.171:5140
 #EXTINF:-1 tvg-id="HD看电影" tvg-name="HD看电影" tvg-logo="https://epg.112114.xyz/logo/HD看电影.png" group-title="影视",HD看电影
@@ -326,15 +326,15 @@ http://10.10.1.77:7777/rtp/239.93.1.137:5140
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="地方",金鹰纪实高清
 http://10.10.1.77:7777/rtp/239.93.0.130:5140
 #EXTINF:-1 tvg-id="重庆影视" tvg-name="重庆影视" tvg-logo="https://epg.112114.xyz/logo/重庆影视.png" group-title="影视",重庆影视高清
-http://10.10.1.88:8888/cq.php?id=cqyingshiHD
+
 #EXTINF:-1 tvg-id="重庆少儿" tvg-name="重庆少儿" tvg-logo="https://epg.112114.xyz/logo/重庆少儿.png" group-title="卡通",重庆少儿高清
-http://10.10.1.88:8888/cq.php?id=cqseHD
+
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/广东嘉佳卡通.png" group-title="卡通",广东嘉佳卡通
-http://10.10.1.88:8888/gudou.php?id=1459
+
 #EXTINF:-1 tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="https://epg.112114.xyz/logo/卡酷动画.png" group-title="卡通",卡酷动画
-http://10.10.1.88:8888/brtv/?id=kkdh
+
 #EXTINF:-1 tvg-id="湖南金鹰卡通" tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/湖南金鹰卡通.png" group-title="卡通",金鹰卡通
-http://10.10.1.88:8888/cq.php?id=jinyingSD
+
 #EXTINF:-1 tvg-id="动画番剧" tvg-name="动画番剧" tvg-logo="https://epg.112114.xyz/logo/动画番剧.png" group-title="卡通",动画番剧高清
 http://10.10.1.77:7777/rtp/239.93.1.177:5140
 #EXTINF:-1 tvg-id="金熊猫卡通高清" tvg-name="金熊猫卡通高清" tvg-logo="https://epg.112114.xyz/logo/金熊猫卡通.png" group-title="卡通",金熊猫卡通高清
@@ -357,12 +357,7 @@ http://10.10.1.77:7777/rtp/239.93.42.70:5140
 http://10.10.1.77:7777/rtp/239.93.42.71:5140
 #EXTINF:-1 tvg-id="大爱时尚高清" tvg-name="大爱时尚高清" tvg-logo="https://epg.112114.xyz/logo/大爱时尚.png" group-title="四川",大爱时尚高清
 http://10.10.1.77:7777/rtp/239.93.42.72:5140
-#EXTINF:-1 tvg-id="蜡笔小新" tvg-name="蜡笔小新" tvg-logo="https://epg.112114.xyz/logo/蜡笔小新.png" group-title="bili",bili蜡笔小新
-https://cn-sccd-ct-01-07.bilivideo.com/live-bvc/742300/live_415611_4082642_prohevc/index.m3u8
-#EXTINF:-1 tvg-id="樱桃小丸子" tvg-name="樱桃小丸子" tvg-logo="https://epg.112114.xyz/logo/樱桃小丸子.png" group-title="bili",bili樱桃小丸子
-https://cn-jsyz-ct-03-27.bilivideo.com/live-bvc/334861/live_420429580_6506346_bluray/index.m3u8
-#EXTINF:-1 tvg-id="林正英" tvg-name="林正英" tvg-logo="https://epg.112114.xyz/logo/林正英.png" group-title="bili",bili林正英
-https://cn-sccd-ct-01-07.bilivideo.com/live-bvc/847754/live_22989278_9714011_bluray/index.m3u8
+
 #EXTINF:-1 tvg-id="Hot风尚音乐" tvg-name="Hot风尚音乐" tvg-logo="https://epg.112114.xyz/logo/HOT风尚音乐.png" group-title="NEWTV",Hot风尚音乐
 http://gslbserv.itv.cmvideo.cn:80/2000000004000000004/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000004&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="精品剧场" tvg-name="精品剧场" tvg-logo="https://epg.112114.xyz/logo/精品剧场.png" group-title="NEWTV",Hot精品剧场

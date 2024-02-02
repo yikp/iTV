@@ -153,7 +153,3 @@ http://10.10.1.77:7777/rtp/239.93.42.13:5140
 http://10.10.1.77:7777/rtp/239.93.42.12:5140
 #EXTINF:-1 tvg-id="爱青春高清" tvg-name="爱青春高清" tvg-logo="https://epg.112114.xyz/logo/爱青春.png" group-title="影视",爱青春高清
 http://10.10.1.77:7777/rtp/239.93.42.16:5140
-#EXTINF:-1 tvg-id="热血剧场" tvg-name="热血剧场" tvg-logo="https://epg.112114.xyz/logo/热血剧场.png" group-title="影视",热血剧场高清
-http://10.10.1.77:7777/rtp/239.93.1.198:5140
-#EXTINF:-1 tvg-id="红色经典" tvg-name="红色经典" tvg-logo="https://epg.112114.xyz/logo/红色经典.png" group-title="影视",红色经典高清
-http://10.10.1.77:7777/rtp/239.93.1.176:5140

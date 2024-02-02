@@ -3,6 +3,12 @@
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://raw.githubusercontent.com/yikp/iTV/main/iptv.m3u
 
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="影视",CHC动作电影
+http://10.10.1.77:7777/rtp/239.93.42.7:5140
+#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="影视",CHC高清电影
+http://10.10.1.77:7777/rtp/239.93.42.5:5140
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="影视",CHC家庭影院
+http://10.10.1.77:7777/rtp/239.93.42.6:5140
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV-1.png" group-title="央视",CCTV-1高清
 http://10.10.1.77:7777/rtp/239.93.0.184:5140
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2高清
@@ -123,12 +129,6 @@ http://10.10.1.77:7777/rtp/239.93.0.81:5140
 http://10.10.1.77:7777/rtp/239.93.0.252:5140
 #EXTINF:-1 tvg-id="BestTV" tvg-name="BestTV" tvg-logo="https://epg.112114.xyz/logo/BestTV.png" group-title="影视",BestTV-港片HD
 http://10.10.1.77:7777/rtp/239.93.42.86:5140
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="影视",CHC动作电影
-http://10.10.1.77:7777/rtp/239.93.42.7:5140
-#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="影视",CHC高清电影
-http://10.10.1.77:7777/rtp/239.93.42.5:5140
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="影视",CHC家庭影院
-http://10.10.1.77:7777/rtp/239.93.42.6:5140
 #EXTINF:-1 tvg-id="熊猫影院高清" tvg-name="熊猫影院高清" tvg-logo="https://epg.112114.xyz/logo/熊猫影院.png" group-title="影视",熊猫影院高清
 http://10.10.1.77:7777/rtp/239.93.0.214:5140
 #EXTINF:-1 tvg-id="浙江精彩影视" tvg-name="浙江精彩影视" tvg-logo="https://epg.112114.xyz/logo/浙江精彩影视.png" group-title="NEWTV",SiTV精彩影视

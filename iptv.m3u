@@ -241,11 +241,11 @@ http://10.10.1.77:7777/rtp/239.93.42.7:5140
 http://10.10.1.77:7777/rtp/239.93.42.5:5140	
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="影视",CHC家庭影院
 http://10.10.1.77:7777/rtp/239.93.42.6:5140	
-#EXTINF:-1 tvg-id="星空精选高清" tvg-name="星空精选高清" tvg-logo="https://epg.112114.xyz/logo/星空精选.png" group-title="其他",星空精选高清
+#EXTINF:-1 tvg-id="星空精选高清" tvg-name="星空精选高清" tvg-logo="https://epg.112114.xyz/logo/星空精选.png" group-title="地方",星空精选高清
 http://10.10.1.77:7777/rtp/239.93.1.171:5140
-#EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://epg.112114.xyz/logo/中国交通.png" group-title="其他",中国交通高清
+#EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://epg.112114.xyz/logo/中国交通.png" group-title="地方",中国交通高清
 http://10.10.1.77:7777/rtp/239.93.0.142:5140
-#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://epg.112114.xyz/logo/中国天气.png" group-title="其他",中国天气高清
+#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://epg.112114.xyz/logo/中国天气.png" group-title="地方",中国天气高清
 http://10.10.1.77:7777/rtp/239.93.42.66:5140
 #EXTINF:-1 tvg-id="HD看电影" tvg-name="HD看电影" tvg-logo="https://epg.112114.xyz/logo/HD看电影.png" group-title="影视",HD看电影
 
@@ -321,17 +321,11 @@ http://10.10.1.77:7777/rtp/239.93.42.12:5140
 http://10.10.1.77:7777/rtp/239.93.42.16:5140
 #EXTINF:-1 tvg-id="爱都市高清" tvg-name="爱都市高清" tvg-logo="https://epg.112114.xyz/logo/爱都市.png" group-title="影视",爱都市高清
 
-#EXTINF:-1 tvg-id="EZTV1" tvg-name="EZTV1" tvg-logo="https://epg.112114.xyz/logo/EZTV1.png" group-title="地方",EZTV1
-http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
-#EXTINF:-1 tvg-id="EZTV2" tvg-name="EZTV2" tvg-logo="https://epg.112114.xyz/logo/EZTV2.png" group-title="地方",EZTV2
-http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
-#EXTINF:-1 tvg-id="EZTV6" tvg-name="EZTV6" tvg-logo="https://epg.112114.xyz/logo/EZTV6.png" group-title="地方",EZTV6
-http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
-#EXTINF:-1 tvg-id="音乐现场高清" tvg-name="音乐现场高清" tvg-logo="https://epg.112114.xyz/logo/音乐现场.png" group-title="其他",音乐现场高清
+#EXTINF:-1 tvg-id="音乐现场高清" tvg-name="音乐现场高清" tvg-logo="https://epg.112114.xyz/logo/音乐现场.png" group-title="地方",音乐现场高清
 http://10.10.1.77:7777/rtp/239.93.0.198:9044
-#EXTINF:-1 tvg-id="收视导视高清" tvg-name="收视导视高清" tvg-logo="https://epg.112114.xyz/logo/收视导视.png" group-title="其他",收视导视高清
+#EXTINF:-1 tvg-id="收视导视高清" tvg-name="收视导视高清" tvg-logo="https://epg.112114.xyz/logo/收视导视.png" group-title="地方",收视导视高清
 http://10.10.1.77:7777/rtp/239.93.1.39:5140
-#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="其他",东方财经高清
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="地方",东方财经高清
 http://10.10.1.77:7777/rtp/239.93.1.165:5140
 #EXTINF:-1 tvg-id="少儿天地" tvg-name="少儿天地" tvg-logo="https://epg.112114.xyz/logo/少儿天地.png" group-title="卡通",少儿天地
 http://10.10.1.77:7777/rtp/239.93.42.34:5140
@@ -341,33 +335,33 @@ http://10.10.1.77:7777/rtp/239.93.42.17:5140
 http://10.10.1.77:7777/rtp/239.93.42.18:5140
 #EXTINF:-1 tvg-id="爱动漫高清" tvg-name="爱动漫高清" tvg-logo="https://epg.112114.xyz/logo/爱动漫.png" group-title="卡通",爱动漫高清
 http://10.10.1.77:7777/rtp/239.93.42.23:5140
-#EXTINF:-1 tvg-id="求索频道高清" tvg-name="求索频道高清" tvg-logo="https://epg.112114.xyz/logo/求索频道.png" group-title="其他",求索频道高清
+#EXTINF:-1 tvg-id="求索频道高清" tvg-name="求索频道高清" tvg-logo="https://epg.112114.xyz/logo/求索频道.png" group-title="地方",求索频道高清
 http://10.10.1.77:7777/rtp/239.93.42.24:5140
-#EXTINF:-1 tvg-id="爱电竞高清" tvg-name="爱电竞高清" tvg-logo="https://epg.112114.xyz/logo/爱电竞.png" group-title="其他",爱电竞高清
+#EXTINF:-1 tvg-id="爱电竞高清" tvg-name="爱电竞高清" tvg-logo="https://epg.112114.xyz/logo/爱电竞.png" group-title="地方",爱电竞高清
 http://10.10.1.77:7777/rtp/239.93.42.19:5140
-#EXTINF:-1 tvg-id="爱赛车高清" tvg-name="爱赛车高清" tvg-logo="https://epg.112114.xyz/logo/爱赛车.png" group-title="其他",爱赛车高清
+#EXTINF:-1 tvg-id="爱赛车高清" tvg-name="爱赛车高清" tvg-logo="https://epg.112114.xyz/logo/爱赛车.png" group-title="地方",爱赛车高清
 http://10.10.1.77:7777/rtp/239.93.42.20:5140
-#EXTINF:-1 tvg-id="爱宠宠物" tvg-name="爱宠宠物" tvg-logo="https://epg.112114.xyz/logo/爱宠宠物.png" group-title="其他",爱宠宠物
+#EXTINF:-1 tvg-id="爱宠宠物" tvg-name="爱宠宠物" tvg-logo="https://epg.112114.xyz/logo/爱宠宠物.png" group-title="地方",爱宠宠物
 http://10.10.1.77:7777/rtp/239.93.42.32:5140
-#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="其他",生活时尚
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="地方",生活时尚
 http://10.10.1.77:7777/rtp/239.93.42.29:5140
-#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://epg.112114.xyz/logo/环球旅游.png" group-title="其他",环球旅游
+#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://epg.112114.xyz/logo/环球旅游.png" group-title="地方",环球旅游
 http://10.10.1.77:7777/rtp/239.93.42.31:5140
-#EXTINF:-1 tvg-id="来钓鱼吧" tvg-name="来钓鱼吧" tvg-logo="https://epg.112114.xyz/logo/来钓鱼吧.png" group-title="其他",来钓鱼吧
+#EXTINF:-1 tvg-id="来钓鱼吧" tvg-name="来钓鱼吧" tvg-logo="https://epg.112114.xyz/logo/来钓鱼吧.png" group-title="地方",来钓鱼吧
 http://10.10.1.77:7777/rtp/239.93.42.8:5140
 #EXTINF:-1 tvg-id="麻辣体育" tvg-name="麻辣体育" tvg-logo="https://epg.112114.xyz/logo/麻辣体育.png" group-title="体育",麻辣体育
 http://10.10.1.77:7777/rtp/239.93.42.2:5140
-#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="其他",快乐垂钓
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="地方",快乐垂钓
 http://10.10.1.77:7777/rtp/239.93.1.151:5140
-#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="其他",茶频道
+#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="地方",茶频道
 http://10.10.1.77:7777/rtp/239.93.0.114:5140
 #EXTINF:-1 tvg-id="热血剧场" tvg-name="热血剧场" tvg-logo="https://epg.112114.xyz/logo/热血剧场.png" group-title="影视",热血剧场高清
 http://10.10.1.77:7777/rtp/239.93.1.198:5140
 #EXTINF:-1 tvg-id="乐龄学堂" tvg-name="乐龄学堂" tvg-logo="https://epg.112114.xyz/logo/乐龄学堂.png" group-title="卡通",乐龄学堂高清
 http://10.10.1.77:7777/rtp/239.93.1.179:5140
-#EXTINF:-1 tvg-id="熊猫24小时" tvg-name="熊猫24小时" tvg-logo="https://epg.112114.xyz/logo/熊猫24小时.png" group-title="其他",熊猫24小时高清
+#EXTINF:-1 tvg-id="熊猫24小时" tvg-name="熊猫24小时" tvg-logo="https://epg.112114.xyz/logo/熊猫24小时.png" group-title="地方",熊猫24小时高清
 http://10.10.1.77:7777/rtp/239.93.1.178:5140
-#EXTINF:-1 tvg-id="综艺咖秀" tvg-name="综艺咖秀" tvg-logo="https://epg.112114.xyz/logo/综艺咖秀.png" group-title="其他",热门综艺高清专区
+#EXTINF:-1 tvg-id="综艺咖秀" tvg-name="综艺咖秀" tvg-logo="https://epg.112114.xyz/logo/综艺咖秀.png" group-title="地方",热门综艺高清专区
 http://10.10.1.77:7777/rtp/239.93.0.151:5140
 #EXTINF:-1 tvg-id="红色经典" tvg-name="红色经典" tvg-logo="https://epg.112114.xyz/logo/红色经典.png" group-title="影视",红色经典高清
 
@@ -375,16 +369,16 @@ http://10.10.1.77:7777/rtp/239.93.0.151:5140
 http://10.10.1.77:7777/rtp/239.93.1.104:1234
 #EXTINF:-1 tvg-id="i乐山" tvg-name="i乐山" tvg-logo="https://epg.112114.xyz/logo/i乐山.png" group-title="四川",i乐山
 http://10.10.1.77:7777/rtp/239.93.1.55:8302
-#EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://epg.112114.xyz/logo/中国交通.png" group-title="其他",中国交通高清
+#EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://epg.112114.xyz/logo/中国交通.png" group-title="地方",中国交通高清
 
-#EXTINF:-1 tvg-id="浙江风尚生活" tvg-name="浙江风尚生活" tvg-logo="https://epg.112114.xyz/logo/浙江风尚生活.png" group-title="其他",风尚生活
+#EXTINF:-1 tvg-id="浙江风尚生活" tvg-name="浙江风尚生活" tvg-logo="https://epg.112114.xyz/logo/浙江风尚生活.png" group-title="地方",风尚生活
 http://10.10.1.77:7777/rtp/239.93.42.29:5140
-#EXTINF:-1 tvg-id="G导视高清" tvg-name="G导视高清" tvg-logo="https://epg.112114.xyz/logo/G导视.png" group-title="其他",G导视高清
+#EXTINF:-1 tvg-id="G导视高清" tvg-name="G导视高清" tvg-logo="https://epg.112114.xyz/logo/G导视.png" group-title="地方",G导视高清
 
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="其他",魅力足球
+#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="地方",魅力足球
 
 #EXTINF:-1 tvg-id="汽摩" tvg-name="汽摩" tvg-logo="https://epg.112114.xyz/logo/汽摩.png" group-title="地方",汽摩
-http://10.10.1.77:7777/rtp/239.93.0.62:5140
+
 #EXTINF:-1 tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.112114.xyz/logo/梨园.png" group-title="地方",梨园
 http://10.10.1.77:7777/rtp/239.93.1.195:5140
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="体育",广东体育

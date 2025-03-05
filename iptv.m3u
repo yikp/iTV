@@ -94,7 +94,7 @@ http://10.10.1.77:7777/rtp/239.93.42.75:5140
 #EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://upload.112114.xyz/logo/BRTV_DOCUMENTARY_8K.png" group-title="4K",北京纪实科教8K
 
 #EXTINF:-1 tvg-name="苏州4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/suzhou4k.png" group-title="4K",苏州4K
-http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视;四川",四川卫视高清
 http://10.10.1.77:7777/rtp/239.93.0.20:1235
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视高清
@@ -244,13 +244,13 @@ http://10.10.1.77:7777/rtp/239.93.0.157:2194
 #EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="港澳台",香港·J2
 
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港澳台",香港·无线新闻台
-http://10.10.1.88:8888/tvb.php?id=0&hq
+
 #EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://upload.112114.xyz/logo/tvb财经体育资讯.png" group-title="港澳台",香港·无线财经台
-http://10.10.1.88:8888/tvb.php?id=2&hq
+
 #EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://epg.112114.xyz/logo/RTHK31.png" group-title="港澳台",香港·RTHK31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
+
 #EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://epg.112114.xyz/logo/RTHK32.png" group-title="港澳台",香港·RTHK32
-https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" group-title="港澳台",香港·香港卫视
 
 #EXTINF:-1 tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="港澳台",台湾·台视新闻台
@@ -280,21 +280,21 @@ https://raw.githubusercontent.com/yikp/iTV/ytblive/WHEPzbFA3hw.m3u8
 #EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻台.png" group-title="港澳台",台湾·寰宇新闻台
 https://raw.githubusercontent.com/yikp/iTV/ytblive/B7Zp3d6xXWw.m3u8
 #EXTINF:-1 tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://epg.112114.xyz/logo/莲花卫视.png" group-title="港澳台",澳门·莲花卫视
-http://10.10.1.88:8888/aomen/
+
 #EXTINF:-1 tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://epg.112114.xyz/logo/澳亚卫视.png" group-title="港澳台",澳门·澳亚卫视
 
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://epg.112114.xyz/logo/澳视澳门.png" group-title="港澳台",澳门·澳视澳门
-http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="澳视葡文" tvg-name="澳视葡文" tvg-logo="https://epg.112114.xyz/logo/澳视葡文.png" group-title="港澳台",澳门·澳视葡文
-http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="澳视卫视" tvg-name="澳视卫视" tvg-logo="https://epg.112114.xyz/logo/澳视卫视.png" group-title="港澳台",澳门·澳视卫视
-http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="澳视体育" tvg-name="澳视体育" tvg-logo="https://epg.112114.xyz/logo/澳视体育.png" group-title="港澳台;体育",澳门·澳视体育
-http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="澳视资讯" tvg-name="澳视资讯" tvg-logo="https://epg.112114.xyz/logo/澳视资讯.png" group-title="港澳台",澳门·澳视资讯
-http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="澳视综艺" tvg-name="澳视综艺" tvg-logo="https://epg.112114.xyz/logo/澳视综艺.png" group-title="港澳台",澳门·澳视综艺
-http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="影视",CHC动作电影
 http://10.10.1.77:7777/rtp/239.93.42.7:5140
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="影视",CHC高清电影
@@ -343,63 +343,6 @@ http://10.10.1.77:7777/rtp/239.93.42.70:5140
 http://10.10.1.77:7777/rtp/239.93.42.71:5140
 #EXTINF:-1 tvg-id="大爱时尚高清" tvg-name="大爱时尚高清" tvg-logo="https://epg.112114.xyz/logo/大爱时尚.png" group-title="四川",大爱时尚高清
 http://10.10.1.77:7777/rtp/239.93.42.72:5140
-
-#EXTINF:-1 tvg-id="Hot风尚音乐" tvg-name="Hot风尚音乐" tvg-logo="https://epg.112114.xyz/logo/HOT风尚音乐.png" group-title="NEWTV",Hot风尚音乐
-http://gslbserv.itv.cmvideo.cn:80/2000000004000000004/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000004&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="精品剧场" tvg-name="精品剧场" tvg-logo="https://epg.112114.xyz/logo/精品剧场.png" group-title="NEWTV",Hot精品剧场
-http://gslbserv.itv.cmvideo.cn:80/2000000004000000002/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000002&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="欧美影院" tvg-name="欧美影院" tvg-logo="https://epg.112114.xyz/logo/欧美影院.png" group-title="NEWTV",Hot欧美影院
-http://gslbserv.itv.cmvideo.cn:80/2000000004000000005/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000005&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="亚洲影院" tvg-name="亚洲影院" tvg-logo="https://epg.112114.xyz/logo/亚洲影院.png" group-title="NEWTV",Hot亚洲影院
-http://gslbserv.itv.cmvideo.cn:80/2000000004000000006/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000006&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",NewTV超级电视剧
-http://gslbserv.itv.cmvideo.cn:80/1000000006000268003/index.m3u8?channel-id=ystenlive&Contentid=1000000006000268003&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="NEWTV超级电影" tvg-name="NEWTV超级电影" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电影.png" group-title="NEWTV",NewTV超级电影
-http://gslbserv.itv.cmvideo.cn:80/1000000003000012426/index.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级体育.png" group-title="NEWTV;体育",NewTV超级体育
-http://gslbserv.itv.cmvideo.cn:80/1000000004000007755/index.m3u8?channel-id=ystenlive&Contentid=1000000004000007755&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="NEWTV超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级综艺.png" group-title="NEWTV",NewTV超级综艺
-http://gslbserv.itv.cmvideo.cn:80/1000000006000268002/index.m3u8?channel-id=ystenlive&Contentid=1000000006000268002&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="NEWTV潮妈辣婆" tvg-name="NEWTV潮妈辣婆" tvg-logo="https://epg.112114.xyz/logo/NEWTV潮妈辣婆.png" group-title="NEWTV",NewTV潮妈辣婆
-http://gslbserv.itv.cmvideo.cn:80/2000000003000000018/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000018&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="NewTV东北热剧" tvg-name="NewTV东北热剧" tvg-logo="https://upload.112114.xyz/logo/NewTV东北热剧.png" group-title="NEWTV",NewTV东北热剧
-http://gslbserv.itv.cmvideo.cn:80/1000000005000266013/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266013&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="NEWTV动作电影" tvg-name="NEWTV动作电影" tvg-logo="https://epg.112114.xyz/logo/NEWTV动作电影.png" group-title="NEWTV",NewTV动作电影
-http://gslbserv.itv.cmvideo.cn:80/1000000004000018653/index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="NewTV欢乐剧场" tvg-name="NewTV欢乐剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV欢乐剧场.png" group-title="NEWTV",NewTV欢乐剧场
-http://gslbserv.itv.cmvideo.cn:80/1000000005000266012/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266012&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="NEWTV家庭剧场" tvg-name="NEWTV家庭剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV家庭剧场.png" group-title="NEWTV",NewTV家庭剧场
-http://gslbserv.itv.cmvideo.cn:80/1000000004000008284/index.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="NEWTV金牌综艺" tvg-name="NEWTV金牌综艺" tvg-logo="https://epg.112114.xyz/logo/NEWTV金牌综艺.png" group-title="NEWTV",NewTV金牌综艺
-http://gslbserv.itv.cmvideo.cn:80/1000000004000026167/index.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="NEWTV惊悚悬疑" tvg-name="NEWTV惊悚悬疑" tvg-logo="https://epg.112114.xyz/logo/NEWTV惊悚悬疑.png" group-title="NEWTV",NewTV惊悚悬疑
-http://gslbserv.itv.cmvideo.cn:80/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="NEWTV精品大剧" tvg-name="NEWTV精品大剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品大剧.png" group-title="NEWTV",NewTV精品大剧
-http://gslbserv.itv.cmvideo.cn:80/1000000004000013968/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="NEWTV精品纪录" tvg-name="NEWTV精品纪录" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品纪录.png" group-title="NEWTV",NewTV精品纪录
-http://gslbserv.itv.cmvideo.cn:80/1000000004000013730/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="NewTV精品萌宠" tvg-name="NewTV精品萌宠" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品萌宠.png" group-title="NEWTV",NewTV精品萌宠
-http://gslbserv.itv.cmvideo.cn:80/1000000006000032328/index.m3u8?channel-id=ystenlive&Contentid=1000000006000032328&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品体育.png" group-title="NEWTV;体育",NewTV精品体育
-http://gslbserv.itv.cmvideo.cn:80/1000000004000014634/index.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="NEWTV精品综合" tvg-name="NEWTV精品综合" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品综合.png" group-title="NEWTV",NewTV精品综合
-http://gslbserv.itv.cmvideo.cn:80/1000000004000019008/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="NEWTV军旅剧场" tvg-name="NEWTV军旅剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV军旅剧场.png" group-title="NEWTV",NewTV军旅剧场
-http://gslbserv.itv.cmvideo.cn:80/2000000003000000014/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000014&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="NewTV魅力潇湘" tvg-name="NewTV魅力潇湘" tvg-logo="https://epg.112114.xyz/logo/NEWTV魅力潇湘.png" group-title="NEWTV",NewTV魅力潇湘
-http://gslbserv.itv.cmvideo.cn:80/1000000005000266014/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266014&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="NewTV明星大片" tvg-name="NewTV明星大片" tvg-logo="https://epg.112114.xyz/logo/NEWTV明星大片.png" group-title="NEWTV",NewTV明星大片
-http://gslbserv.itv.cmvideo.cn:80/2000000003000000016/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000016&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="NEWTV农业致富" tvg-name="NEWTV农业致富" tvg-logo="https://epg.112114.xyz/logo/NEWTV农业致富.png" group-title="NEWTV",NewTV农业致富
-http://gslbserv.itv.cmvideo.cn:80/2000000003000000003/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000003&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="NewTV武博世界" tvg-name="NewTV武博世界" tvg-logo="https://epg.112114.xyz/logo/NEWTV武博世界.png" group-title="NEWTV",NewTV武博世界
-http://gslbserv.itv.cmvideo.cn:80/2000000003000000007/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000007&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="NEWTV炫舞未来" tvg-name="NEWTV炫舞未来" tvg-logo="https://epg.112114.xyz/logo/NEWTV炫舞未来.png" group-title="NEWTV",NewTV炫舞未来
-http://gslbserv.itv.cmvideo.cn:80/1000000001000000515/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="NEWTV怡伴健康" tvg-name="NEWTV怡伴健康" tvg-logo="https://epg.112114.xyz/logo/NEWTV怡伴健康.png" group-title="NEWTV",NewTV怡伴健康
-http://gslbserv.itv.cmvideo.cn:80/1000000005000266011/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266011&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="NEWTV中国功夫" tvg-name="NEWTV中国功夫" tvg-logo="https://epg.112114.xyz/logo/NEWTV中国功夫.png" group-title="NEWTV",NewTV中国功夫
-http://gslbserv.itv.cmvideo.cn:80/2000000003000000009/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000009&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="浙江精彩影视" tvg-name="浙江精彩影视" tvg-logo="https://epg.112114.xyz/logo/浙江精彩影视.png" group-title="NEWTV",SiTV精彩影视
 http://10.10.1.77:7777/rtp/239.93.42.92:5140
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="NEWTV",SiTV动漫秀场
@@ -419,41 +362,6 @@ http://10.10.1.77:7777/rtp/239.93.42.97:5140
 # http://gslbserv.itv.cmvideo.cn:80/5000000011000031207/index.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="NEWTV;体育",SiTV劲爆体育
 http://10.10.1.77:7777/rtp/239.93.42.98:5140
-# http://gslbserv.itv.cmvideo.cn:80/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://epg.112114.xyz/logo/SITV七彩戏剧.png" group-title="NEWTV",SiTV七彩戏剧
-http://gslbserv.itv.cmvideo.cn:80/5000000011000031116/index.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="NEWTV",SiTV生活时尚
-http://gslbserv.itv.cmvideo.cn:80/5000000002000019634/index.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="NEWTV",SiTV游戏风云
-http://gslbserv.itv.cmvideo.cn:80/5000000011000031114/index.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="咪咕3K" tvg-name="咪咕3K" tvg-logo="https://upload.112114.xyz/logo/migu.png" group-title="4K",咪咕3K
-http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="咪咕4K" tvg-name="咪咕4K" tvg-logo="https://epg.112114.xyz/logo/咪咕4K.png" group-title="4K",咪咕4K
-http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="4K",纯享4K
-http://gslbserv.itv.cmvideo.cn:80/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="地方",广东珠江
-http://gslbserv.itv.cmvideo.cn:80/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.112114.xyz/logo/黑莓电影.png" group-title="影视",黑莓电影
-http://gslbserv.itv.cmvideo.cn:80/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="黑莓电竞" tvg-name="黑莓电竞" tvg-logo="https://epg.112114.xyz/logo/黑莓电竞.png" group-title="其他",黑莓电竞
-http://gslbserv.itv.cmvideo.cn:80/1000000001000003775/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003775&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://epg.112114.xyz/logo/黑莓动画.png" group-title="卡通",黑莓动画
-http://gslbserv.itv.cmvideo.cn:80/1000000004000021734/index.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="地方",湖南茶频道
-http://gslbserv.itv.cmvideo.cn:80/2000000002000000070/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000070&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="地方",湖南金鹰纪实
-http://gslbserv.itv.cmvideo.cn:80/5000000011000031203/index.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="地方",湖南快乐垂钓
-http://gslbserv.itv.cmvideo.cn:80/2000000002000000067/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000067&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="湖南快乐购" tvg-name="湖南快乐购" tvg-logo="https://epg.112114.xyz/logo/湖南快乐购.png" group-title="地方",湖南快乐购
-http://gslbserv.itv.cmvideo.cn:80/2000000003000000057/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000057&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="青海果洛电视台" tvg-name="青海果洛电视台" tvg-logo="https://epg.112114.xyz/logo/青海果洛电视台.png" group-title="地方",青海果洛电视台
-http://gslbserv.itv.cmvideo.cn:80/2000000003000000034/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000034&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="青海海东综合" tvg-name="青海海东综合" tvg-logo="https://epg.112114.xyz/logo/青海海东综合.png" group-title="地方",青海海东综合
-http://gslbserv.itv.cmvideo.cn:80/1000000006000035339/index.m3u8?channel-id=ystenlive&Contentid=1000000006000035339&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="青海黄南综合" tvg-name="青海黄南综合" tvg-logo="https://epg.112114.xyz/logo/青海黄南综合.png" group-title="地方",青海黄南综合
-http://gslbserv.itv.cmvideo.cn:80/1000000006000027378/index.m3u8?channel-id=ystenlive&Contentid=1000000006000027378&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="爱怀旧高清" tvg-name="爱怀旧高清" tvg-logo="https://epg.112114.xyz/logo/爱怀旧.png" group-title="影视",爱怀旧高清
 http://10.10.1.77:7777/rtp/239.93.42.21:5140
 #EXTINF:-1 tvg-id="爱喜剧高清" tvg-name="爱喜剧高清" tvg-logo="https://epg.112114.xyz/logo/爱喜剧.png" group-title="影视",爱喜剧高清
@@ -474,91 +382,6 @@ http://10.10.1.77:7777/rtp/239.93.42.12:5140
 http://10.10.1.77:7777/rtp/239.93.42.16:5140
 #EXTINF:-1 tvg-id="爱都市高清" tvg-name="爱都市高清" tvg-logo="https://epg.112114.xyz/logo/爱都市.png" group-title="影视",爱都市高清
 
-#EXTINF:-1 tvg-id="爱极限" tvg-name="爱极限" tvg-logo="https://epg.112114.xyz/logo/爱极限.png" group-title="其他",爱极限
-http://gslbserv.itv.cmvideo.cn:80/6000000006000170630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000170630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱家庭" tvg-name="爱家庭" tvg-logo="https://epg.112114.xyz/logo/爱家庭.png" group-title="其他",爱家庭
-http://gslbserv.itv.cmvideo.cn:80/6000000006000090630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000090630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱江湖" tvg-name="爱江湖" tvg-logo="https://epg.112114.xyz/logo/爱江湖.png" group-title="其他",爱江湖
-http://gslbserv.itv.cmvideo.cn:80/6000000006000110630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000110630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱解密" tvg-name="爱解密" tvg-logo="https://epg.112114.xyz/logo/爱解密.png" group-title="其他",爱解密
-http://gslbserv.itv.cmvideo.cn:80/6000000006000200630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000200630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱科学" tvg-name="爱科学" tvg-logo="https://epg.112114.xyz/logo/爱科学.png" group-title="其他",爱科学
-http://gslbserv.itv.cmvideo.cn:80/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱浪漫" tvg-name="爱浪漫" tvg-logo="https://epg.112114.xyz/logo/爱浪漫.png" group-title="其他",爱浪漫
-http://gslbserv.itv.cmvideo.cn:80/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱历史" tvg-name="爱历史" tvg-logo="https://epg.112114.xyz/logo/爱历史.png" group-title="其他",爱历史
-http://gslbserv.itv.cmvideo.cn:80/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱猎奇" tvg-name="爱猎奇" tvg-logo="https://epg.112114.xyz/logo/爱猎奇.png" group-title="其他",爱猎奇
-http://gslbserv.itv.cmvideo.cn:80/6000000006000190630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000190630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱旅行" tvg-name="爱旅行" tvg-logo="https://epg.112114.xyz/logo/爱旅行.png" group-title="其他",爱旅行
-http://gslbserv.itv.cmvideo.cn:80/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱美食" tvg-name="爱美食" tvg-logo="https://epg.112114.xyz/logo/爱美食.png" group-title="其他",爱美食
-http://gslbserv.itv.cmvideo.cn:80/6000000006000120630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000120630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱时尚" tvg-name="爱时尚" tvg-logo="https://epg.112114.xyz/logo/爱时尚.png" group-title="其他",爱时尚
-http://gslbserv.itv.cmvideo.cn:80/6000000006000140630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000140630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱世界" tvg-name="爱世界" tvg-logo="https://epg.112114.xyz/logo/爱世界.png" group-title="其他",爱世界
-http://gslbserv.itv.cmvideo.cn:80/6000000006000210630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000210630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱探索" tvg-name="爱探索" tvg-logo="https://epg.112114.xyz/logo/爱探索.png" group-title="其他",爱探索
-http://gslbserv.itv.cmvideo.cn:80/6000000006000300630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000300630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="爱娱乐" tvg-name="爱娱乐" tvg-logo="https://epg.112114.xyz/logo/爱娱乐.png" group-title="其他",爱娱乐
-http://gslbserv.itv.cmvideo.cn:80/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="哒啵电竞" tvg-name="哒啵电竞" tvg-logo="https://epg.112114.xyz/logo/哒啵电竞.png" group-title="其他",哒啵电竞
-http://gslbserv.itv.cmvideo.cn:80/1000000006000032327/index.m3u8?channel-id=ystenlive&Contentid=1000000006000032327&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://epg.112114.xyz/logo/哒啵赛事.png" group-title="其他",哒啵赛事
-http://gslbserv.itv.cmvideo.cn:80/1000000001000003775/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003775&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://epg.112114.xyz/logo/哒啵赛事.png" group-title="其他",哒啵赛事
-http://gslbserv.itv.cmvideo.cn:80/1000000001000006906/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006906&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="浙江电子竞技" tvg-name="浙江电子竞技" tvg-logo="https://epg.112114.xyz/logo/浙江电子竞技.png" group-title="其他",电子竞技
-http://gslbserv.itv.cmvideo.cn:80/6000000003000011654/index.m3u8?channel-id=wasusyt&Contentid=6000000003000011654&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="高清娱乐" tvg-name="高清娱乐" tvg-logo="https://epg.112114.xyz/logo/高清娱乐.png" group-title="其他",高清娱乐
-http://gslbserv.itv.cmvideo.cn:80/2000000004000000013/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000013&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="华数服务" tvg-name="华数服务" tvg-logo="https://epg.112114.xyz/logo/华数服务.png" group-title="其他",华数服务
-http://gslbserv.itv.cmvideo.cn:80/2000000004000000025/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000025&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="华数某频道" tvg-name="华数某频道" tvg-logo="https://epg.112114.xyz/logo/华数某.png" group-title="其他",华数某频道
-http://gslbserv.itv.cmvideo.cn:80/2000000004000000007/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000007&livemode=1&stbId=3
-# http://gslbserv.itv.cmvideo.cn:80/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="浙江漫游世界" tvg-name="浙江漫游世界" tvg-logo="https://epg.112114.xyz/logo/浙江漫游世界.png" group-title="其他",漫游世界
-http://gslbserv.itv.cmvideo.cn:80/6000000003000028434/index.m3u8?channel-id=wasusyt&Contentid=6000000003000028434&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://epg.112114.xyz/logo/求索动物.png" group-title="其他",求索动物
-http://gslbserv.itv.cmvideo.cn:80/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://epg.112114.xyz/logo/求索纪录.png" group-title="其他",求索纪录
-http://gslbserv.itv.cmvideo.cn:80/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://epg.112114.xyz/logo/求索科学.png" group-title="其他",求索科学
-http://gslbserv.itv.cmvideo.cn:80/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="浙江求索生活" tvg-name="浙江求索生活" tvg-logo="https://epg.112114.xyz/logo/浙江求索生活.png" group-title="其他",求索生活
-http://gslbserv.itv.cmvideo.cn:80/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="上海ICS外语" tvg-name="上海ICS外语" tvg-logo="https://epg.112114.xyz/logo/上海ICS外语.png" group-title="地方",上海ICS外语
-http://gslbserv.itv.cmvideo.cn:80/5000000010000030951/index.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="地方",上海第一财经
-http://gslbserv.itv.cmvideo.cn:80/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="地方",上海东方财经
-http://gslbserv.itv.cmvideo.cn:80/5000000007000010003/index.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="上海东方购物" tvg-name="上海东方购物" tvg-logo="https://epg.112114.xyz/logo/上海东方购物.png" group-title="地方",上海东方购物
-http://gslbserv.itv.cmvideo.cn:80/5000000007000010004/index.m3u8?channel-id=bestzb&Contentid=5000000007000010004&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://epg.112114.xyz/logo/东方影视.png" group-title="地方",上海东方影视
-http://gslbserv.itv.cmvideo.cn:80/5000000010000032212/index.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="地方",上海都市
-http://gslbserv.itv.cmvideo.cn:80/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://epg.112114.xyz/logo/法治天地.png" group-title="地方",上海法治天地
-http://gslbserv.itv.cmvideo.cn:80/2000000002000000014/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000014&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.png" group-title="卡通",上海哈哈炫动
-http://gslbserv.itv.cmvideo.cn:80/5000000011000031123/index.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="地方",上海纪实人文
-http://gslbserv.itv.cmvideo.cn:80/1000000001000016545/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016545&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/上海五星体育.png" group-title="体育",上海五星体育
-http://gslbserv.itv.cmvideo.cn:80/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://epg.112114.xyz/logo/上海新闻综合.png" group-title="地方",上海新闻综合
-http://gslbserv.itv.cmvideo.cn:80/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="HD少儿动漫" tvg-name="HD少儿动漫" tvg-logo="https://epg.112114.xyz/logo/HD少儿动漫.png" group-title="卡通",少儿动漫
-http://gslbserv.itv.cmvideo.cn:80/2000000004000000003/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000003&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="新海南" tvg-name="新海南" tvg-logo="https://epg.112114.xyz/logo/新海南.png" group-title="地方",新海南
-http://gslbserv.itv.cmvideo.cn:80/2000000003000000011/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000011&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="https://epg.112114.xyz/logo/央广购物.png" group-title="其他",央广购物
-http://gslbserv.itv.cmvideo.cn:80/2000000003000000036/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000036&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="中视购物" tvg-name="中视购物" tvg-logo="https://epg.112114.xyz/logo/中视购物.png" group-title="其他",中视购物
-http://gslbserv.itv.cmvideo.cn:80/2000000003000000056/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000056&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="咪咕全民热练" tvg-name="咪咕全民热练" tvg-logo="https://epg.112114.xyz/logo/咪咕全民热练.png" group-title="其他",咪咕全民热练
-http://gslbserv.itv.cmvideo.cn:80/1000000006000270007/index.m3u8?channel-id=ystenlive&Contentid=1000000006000270007&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="EZTV1" tvg-name="EZTV1" tvg-logo="https://epg.112114.xyz/logo/EZTV1.png" group-title="地方",EZTV1
 http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 #EXTINF:-1 tvg-id="EZTV2" tvg-name="EZTV2" tvg-logo="https://epg.112114.xyz/logo/EZTV2.png" group-title="地方",EZTV2

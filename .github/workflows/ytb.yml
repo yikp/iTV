@@ -1,0 +1,159 @@
+name: Get YouTube Live m3u8
+on:
+  schedule:
+    - cron: "0 */4 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Install yt-dlp
+      run: |
+        sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
+        sudo chmod a+rx /usr/local/bin/yt-dlp
+
+    - name: Get xL0ch83RAK8.m3u8
+      run: |
+        touch ./xL0ch83RAK8.m3u8
+        sudo cat >./xL0ch83RAK8.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:4
+        #EXT-X-INDEPENDENT-SEGMENTS
+        #EXT-X-STREAM-INF:BANDWIDTH=62398679,AVERAGE-BANDWIDTH=62398679,RESOLUTION=1920x1080
+        $(yt-dlp -g https://www.youtube.com/watch?v=xL0ch83RAK8)
+        EOL
+    - name: Get TCnaIE_SAtM.m3u8
+      run: |
+        touch ./TCnaIE_SAtM.m3u8
+        sudo cat >./TCnaIE_SAtM.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:4
+        #EXT-X-INDEPENDENT-SEGMENTS
+        #EXT-X-STREAM-INF:BANDWIDTH=62398679,AVERAGE-BANDWIDTH=62398679,RESOLUTION=1920x1080
+        $(yt-dlp -g https://www.youtube.com/watch?v=TCnaIE_SAtM)
+        EOL
+    - name: Get wM0g8EoUZ_E.m3u8
+      run: |
+        touch ./wM0g8EoUZ_E.m3u8
+        sudo cat >./wM0g8EoUZ_E.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:4
+        #EXT-X-INDEPENDENT-SEGMENTS
+        #EXT-X-STREAM-INF:BANDWIDTH=62398679,AVERAGE-BANDWIDTH=62398679,RESOLUTION=1920x1080
+        $(yt-dlp -g https://www.youtube.com/watch?v=wM0g8EoUZ_E)
+        EOL
+    - name: Get ylYJSBUgaMA.m3u8
+      run: |
+        touch ./ylYJSBUgaMA.m3u8
+        sudo cat >./ylYJSBUgaMA.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:4
+        #EXT-X-INDEPENDENT-SEGMENTS
+        #EXT-X-STREAM-INF:BANDWIDTH=62398679,AVERAGE-BANDWIDTH=62398679,RESOLUTION=1920x1080
+        $(yt-dlp -g https://www.youtube.com/watch?v=ylYJSBUgaMA)
+        EOL
+    - name: Get 2mCSYvcfhtc.m3u8
+      run: |
+        touch ./2mCSYvcfhtc.m3u8
+        sudo cat >./2mCSYvcfhtc.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:4
+        #EXT-X-INDEPENDENT-SEGMENTS
+        #EXT-X-STREAM-INF:BANDWIDTH=62398679,AVERAGE-BANDWIDTH=62398679,RESOLUTION=1920x1080
+        $(yt-dlp -g https://www.youtube.com/watch?v=2mCSYvcfhtc)
+        EOL
+    - name: Get FoBfXvlOR6I.m3u8
+      run: |
+        touch ./FoBfXvlOR6I.m3u8
+        sudo cat >./FoBfXvlOR6I.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:4
+        #EXT-X-INDEPENDENT-SEGMENTS
+        #EXT-X-STREAM-INF:BANDWIDTH=62398679,AVERAGE-BANDWIDTH=62398679,RESOLUTION=1920x1080
+        $(yt-dlp -g https://www.youtube.com/watch?v=FoBfXvlOR6I)
+        EOL
+    - name: Get jlldIiGA5bU.m3u8
+      run: |
+        touch ./jlldIiGA5bU.m3u8
+        sudo cat >./jlldIiGA5bU.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:4
+        #EXT-X-INDEPENDENT-SEGMENTS
+        #EXT-X-STREAM-INF:BANDWIDTH=62398679,AVERAGE-BANDWIDTH=62398679,RESOLUTION=1920x1080
+        $(yt-dlp -g https://www.youtube.com/watch?v=jlldIiGA5bU)
+        EOL
+    - name: Get oIgbl7t0S_w.m3u8
+      run: |
+        touch ./oIgbl7t0S_w.m3u8
+        sudo cat >./oIgbl7t0S_w.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:4
+        #EXT-X-INDEPENDENT-SEGMENTS
+        #EXT-X-STREAM-INF:BANDWIDTH=62398679,AVERAGE-BANDWIDTH=62398679,RESOLUTION=1920x1080
+        $(yt-dlp -g https://www.youtube.com/watch?v=oIgbl7t0S_w)
+        EOL
+    - name: Get 5n0y6b0Q25o.m3u8
+      run: |
+        touch ./5n0y6b0Q25o.m3u8
+        sudo cat >./5n0y6b0Q25o.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:4
+        #EXT-X-INDEPENDENT-SEGMENTS
+        #EXT-X-STREAM-INF:BANDWIDTH=62398679,AVERAGE-BANDWIDTH=62398679,RESOLUTION=1920x1080
+        $(yt-dlp -g https://www.youtube.com/watch?v=5n0y6b0Q25o)
+        EOL
+    - name: Get R2iMq5LKXco.m3u8
+      run: |
+        touch ./R2iMq5LKXco.m3u8
+        sudo cat >./R2iMq5LKXco.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:4
+        #EXT-X-INDEPENDENT-SEGMENTS
+        #EXT-X-STREAM-INF:BANDWIDTH=62398679,AVERAGE-BANDWIDTH=62398679,RESOLUTION=1920x1080
+        $(yt-dlp -g https://www.youtube.com/watch?v=R2iMq5LKXco)
+        EOL
+    - name: Get WHEPzbFA3hw.m3u8
+      run: |
+        touch ./WHEPzbFA3hw.m3u8
+        sudo cat >./WHEPzbFA3hw.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:4
+        #EXT-X-INDEPENDENT-SEGMENTS
+        #EXT-X-STREAM-INF:BANDWIDTH=62398679,AVERAGE-BANDWIDTH=62398679,RESOLUTION=1920x1080
+        $(yt-dlp -g https://www.youtube.com/watch?v=WHEPzbFA3hw)
+        EOL
+    - name: Get B7Zp3d6xXWw.m3u8
+      run: |
+        touch ./B7Zp3d6xXWw.m3u8
+        sudo cat >./B7Zp3d6xXWw.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:4
+        #EXT-X-INDEPENDENT-SEGMENTS
+        #EXT-X-STREAM-INF:BANDWIDTH=62398679,AVERAGE-BANDWIDTH=62398679,RESOLUTION=1920x1080
+        $(yt-dlp -g https://www.youtube.com/watch?v=B7Zp3d6xXWw)
+        EOL
+    - name: Get oPx1u9WQrWg.m3u8
+      run: |
+        touch ./oPx1u9WQrWg.m3u8
+        sudo cat >./oPx1u9WQrWg.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:4
+        #EXT-X-INDEPENDENT-SEGMENTS
+        #EXT-X-STREAM-INF:BANDWIDTH=62398679,AVERAGE-BANDWIDTH=62398679,RESOLUTION=1920x1080
+        $(yt-dlp -g https://www.youtube.com/watch?v=oPx1u9WQrWg)
+        EOL
+    - name : Upload artifact
+      uses: actions/upload-artifact@master
+      with:
+        name: ytblive m3u8
+        path: .
+    - name: Git push assets to "ytblive" branch
+      run: |
+        git init
+        git config --local user.name "actions"
+        git config --local user.email "action@github.com"
+        git checkout -b ytblive
+        git add .
+        git commit -m "Update ytblive"
+        git remote add origin "https://${{ secrets.IPTV_USER }}:${{ secrets.IPTV_ACTIONS }}@github.com/${{ github.repository }}"
+        git push -f -u origin ytblive

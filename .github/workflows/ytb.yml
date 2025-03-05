@@ -164,7 +164,7 @@ jobs:
         git checkout ytblive 2>/dev/null || git checkout -b ytblive
         
         # 添加和提交更改
-        git add .e
+        git add .
         git commit -m "Update ytblive"
         
         # 使用 GITHUB_TOKEN 推送

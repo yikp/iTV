@@ -3,6 +3,11 @@ on:
   schedule:
     - cron: "0 */4 * * *"
   workflow_dispatch:
+
+# 添加权限配置
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -12,6 +17,7 @@ jobs:
       with:
         ref: ytblive
         fetch-depth: 0
+        token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Install yt-dlp
       run: |
@@ -149,19 +155,17 @@ jobs:
         $(yt-dlp -g https://www.youtube.com/watch?v=oPx1u9WQrWg)
         EOL
 
-    - name: Configure Git
+    - name: Create and push branch
       run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
-
-    - name: Upload artifact
-      uses: actions/upload-artifact@master
-      with:
-        name: ytblive m3u8
-        path: .
-
-    - name: Push to ytblive branch
-      run: |
-        git add .
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        
+        # 确保分支存在
+        git checkout ytblive 2>/dev/null || git checkout -b ytblive
+        
+        # 添加和提交更改
+        git add .e
         git commit -m "Update ytblive"
-        git push -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:ytblive
+        
+        # 使用 GITHUB_TOKEN 推送
+        git push origin ytblive

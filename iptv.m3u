@@ -343,24 +343,24 @@ http://10.10.1.77:7777/rtp/239.93.42.70:5140
 http://10.10.1.77:7777/rtp/239.93.42.71:5140
 #EXTINF:-1 tvg-id="大爱时尚高清" tvg-name="大爱时尚高清" tvg-logo="https://epg.112114.xyz/logo/大爱时尚.png" group-title="四川",大爱时尚高清
 http://10.10.1.77:7777/rtp/239.93.42.72:5140
-#EXTINF:-1 tvg-id="浙江精彩影视" tvg-name="浙江精彩影视" tvg-logo="https://epg.112114.xyz/logo/浙江精彩影视.png" group-title="NEWTV",SiTV精彩影视
+#EXTINF:-1 tvg-id="浙江精彩影视" tvg-name="浙江精彩影视" tvg-logo="https://epg.112114.xyz/logo/浙江精彩影视.png" group-title="SiTV",SiTV精彩影视
 http://10.10.1.77:7777/rtp/239.93.42.92:5140
-#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="NEWTV",SiTV动漫秀场
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="SiTV",SiTV动漫秀场
 http://10.10.1.77:7777/rtp/239.93.42.93:5140
 # http://gslbserv.itv.cmvideo.cn:80/5000000002000023636/index.m3u8?channel-id=bestzb&Contentid=5000000002000023636&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="SiTV乐游" tvg-name="SiTV乐游" tvg-logo="https://epg.112114.xyz/logo/SITV乐游.png" group-title="NEWTV",SiTV乐游
+#EXTINF:-1 tvg-id="SiTV乐游" tvg-name="SiTV乐游" tvg-logo="https://epg.112114.xyz/logo/SITV乐游.png" group-title="SiTV",SiTV乐游
 http://10.10.1.77:7777/rtp/239.93.42.94:5140
 # http://gslbserv.itv.cmvideo.cn:80/5000000011000031112/index.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://epg.112114.xyz/logo/SITV金色学堂.png" group-title="NEWTV",SiTV金色学堂
+#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://epg.112114.xyz/logo/SITV金色学堂.png" group-title="SiTV",SiTV金色学堂
 http://10.10.1.77:7777/rtp/239.93.42.95:5140
 # http://gslbserv.itv.cmvideo.cn:80/5000000010000026105/index.m3u8?channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://epg.112114.xyz/logo/SITV法治天地.png" group-title="NEWTV",SiTV法治天地
+#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://epg.112114.xyz/logo/SITV法治天地.png" group-title="SiTV",SiTV法治天地
 http://10.10.1.77:7777/rtp/239.93.42.96:5140
 # http://gslbserv.itv.cmvideo.cn:80/9001547084732463424/index.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="NEWTV",SiTV魅力足球
+#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="SiTV",SiTV魅力足球
 http://10.10.1.77:7777/rtp/239.93.42.97:5140
 # http://gslbserv.itv.cmvideo.cn:80/5000000011000031207/index.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="NEWTV;体育",SiTV劲爆体育
+#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="SiTV;体育",SiTV劲爆体育
 http://10.10.1.77:7777/rtp/239.93.42.98:5140
 #EXTINF:-1 tvg-id="爱怀旧高清" tvg-name="爱怀旧高清" tvg-logo="https://epg.112114.xyz/logo/爱怀旧.png" group-title="影视",爱怀旧高清
 http://10.10.1.77:7777/rtp/239.93.42.21:5140

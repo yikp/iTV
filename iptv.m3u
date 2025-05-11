@@ -219,7 +219,7 @@ http://10.10.1.77:7777/rtp/239.93.0.19:1250
 http://10.10.1.77:7777/rtp/239.93.1.231:5140
 #EXTINF:-1 tvg-id="CDTV-6" tvg-name="CDTV-6" tvg-logo="https://epg.112114.xyz/logo/CDTV6.png" group-title="四川",CDTV-6高清
 http://10.10.1.77:7777/rtp/239.93.0.21:1251
-#EXTINF:-1 tvg-id="CDTV蓉城先锋" tvg-name="CDTV蓉城先锋" tvg-logo="https://epg.112114.xyz/logo/CDTV蓉城先锋.png" group-title="四川",CDTV蓉城先锋
+#EXTINF:-1 tvg-id="CDTV7" tvg-name="CDTV7" tvg-logo="https://epg.112114.xyz/logo/CDTV7.png" group-title="四川",CDTV蓉城先锋
 http://10.10.1.77:7777/rtp/239.93.0.91:2101
 #EXTINF:-1 tvg-id="CDTV-8" tvg-name="CDTV-8" tvg-logo="https://epg.112114.xyz/logo/CDTV8.png" group-title="四川",CDTV-8高清
 http://10.10.1.77:7777/rtp/239.93.0.22:1252

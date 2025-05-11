@@ -31,7 +31,7 @@ http://10.10.1.77:7777/rtp/239.93.0.102:5140
 http://10.10.1.77:7777/rtp/239.93.1.30:8124
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV-13高清
 http://10.10.1.77:7777/rtp/239.93.0.66:5140
-#EXTINF:-1 tvg-id="CCTV-少儿" tvg-name="CCTV-少儿" tvg-logo="https://epg.112114.xyz/logo/CCTV14" group-title="央视",CCTV-少儿高清
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV-少儿高清
 http://10.10.1.77:7777/rtp/239.93.1.29:6000
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV-15高清
 http://10.10.1.77:7777/rtp/239.93.0.103:5140
@@ -187,7 +187,7 @@ http://10.10.1.77:7777/rtp/239.93.0.166:5140
 http://10.10.1.77:7777/rtp/239.93.1.144:5140
 #EXTINF:-1 tvg-id="SCTV-7" tvg-name="SCTV-7" tvg-logo="https://epg.112114.xyz/logo/SCTV7.png" group-title="四川",SCTV-7高清
 http://10.10.1.77:7777/rtp/239.93.0.219:5140
-#EXTINF:-1 tvg-id="SCTV-科教" tvg-name="SCTV-科教" tvg-logo="https://epg.112114.xyz/logo/SCTV科教.png" group-title="四川",SCTV-科教高清
+#EXTINF:-1 tvg-id="四川科教" tvg-name="四川科教" tvg-logo="https://epg.112114.xyz/logo/四川科教.png" group-title="四川",SCTV-科教高清
 http://10.10.1.77:7777/rtp/239.93.42.44:5140
 #EXTINF:-1 tvg-id="四川乡村" tvg-name="四川乡村" tvg-logo="https://epg.112114.xyz/logo/四川乡村.png" group-title="四川",四川乡村高清
 http://10.10.1.77:7777/rtp/239.93.0.52:5140

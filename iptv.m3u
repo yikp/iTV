@@ -13,7 +13,7 @@ http://10.10.1.77:7777/rtp/239.93.0.109:5140
 http://10.10.1.77:7777/rtp/239.93.1.105:5140
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5高清
 http://10.10.1.77:7777/rtp/239.93.42.37:5140
-#EXTINF:-1 tvg-id="CCTV-5＋" tvg-name="CCTV-5＋" tvg-logo="https://epg.112114.xyz/logo/CCTV5＋.png" group-title="央视",CCTV-5＋高清
+#EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5＋高清
 http://10.10.1.77:7777/rtp/239.93.1.173:5140
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV-6高清
 http://10.10.1.77:7777/rtp/239.93.42.38:5140
@@ -89,7 +89,7 @@ http://10.10.1.77:7777/rtp/239.93.1.188:5140
 
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://epg.112114.xyz/logo/北京卫视4K.png" group-title="4K",北京卫视4K
 http://10.10.1.77:7777/rtp/239.93.42.102:5140
-#EXTINF:-1 tvg-id="SiTV欢笑剧场4K" tvg-name="SiTV欢笑剧场4K" tvg-logo="https://epg.112114.xyz/logo/SiTV欢笑剧场4K.png" group-title="4K",SiTV欢笑剧场4K
+#EXTINF:-1 tvg-id="欢笑剧场4K" tvg-name="欢笑剧场4K" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场4K.png" group-title="4K",欢笑剧场4K
 http://10.10.1.77:7777/rtp/239.93.0.145:5140
 #EXTINF:-1 tvg-id="百事通4K" tvg-name="百事通4K" tvg-logo="https://epg.112114.xyz/logo/百事通4K.png" group-title="4K",百事通4K
 http://10.10.1.77:7777/rtp/239.93.42.75:5140

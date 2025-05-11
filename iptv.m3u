@@ -31,15 +31,15 @@ http://10.10.1.77:7777/rtp/239.93.0.102:5140
 http://10.10.1.77:7777/rtp/239.93.1.30:8124
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV-13高清
 http://10.10.1.77:7777/rtp/239.93.0.66:5140
-#EXTINF:-1 tvg-id="CCTV-少儿" tvg-name="CCTV-少儿" tvg-logo="https://epg.112114.xyz/logo/CCTV少儿.png" group-title="央视",CCTV-少儿高清
+#EXTINF:-1 tvg-id="CCTV-少儿" tvg-name="CCTV-少儿" tvg-logo="https://epg.112114.xyz/logo/CCTV14" group-title="央视",CCTV-少儿高清
 http://10.10.1.77:7777/rtp/239.93.1.29:6000
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV-15高清
 http://10.10.1.77:7777/rtp/239.93.0.103:5140
-#EXTINF:-1 tvg-id="CCTV-16超清" tvg-name="CCTV-16超清" tvg-logo="https://epg.112114.xyz/logo/CCTV16超清.png" group-title="央视;4K",CCTV-16超清
+#EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视;4K",CCTV-16超清
 http://10.10.1.77:7777/rtp/239.93.42.54:5140
 #EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV-17高清
 http://10.10.1.77:7777/rtp/239.93.0.92:5140
-#EXTINF:-1 tvg-id="CCTV-4K超清" tvg-name="CCTV-4K超清" tvg-logo="https://epg.112114.xyz/logo/CCTV4K超清.png" group-title="央视;4K",CCTV-4K超清
+#EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV-4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视;4K",CCTV-4K超清
 http://10.10.1.77:7777/rtp/239.93.42.42:5140
 #EXTINF:-1 tvg-id="CCTV兵器科技" tvg-name="CCTV兵器科技" tvg-logo="https://epg.112114.xyz/logo/CCTV兵器科技.png" group-title="央视",CCTV兵器科技
 
@@ -75,7 +75,7 @@ http://10.10.1.77:7777/rtp/239.93.42.50:5140
 http://10.10.1.77:7777/rtp/239.93.0.97:5140
 #EXTINF:-1 tvg-id="绚影4K" tvg-name="绚影4K" tvg-logo="https://epg.112114.xyz/logo/绚影4K.png" group-title="4K",绚影4K专区
 http://10.10.1.77:7777/rtp/239.93.42.33:5140
-#EXTINF:-1 tvg-id="4K乐享超清" tvg-name="4K乐享超清" tvg-logo="https://epg.112114.xyz/logo/4K乐享超清.png" group-title="4K",4K乐享超清专区
+#EXTINF:-1 tvg-id="4K乐享" tvg-name="4K乐享" tvg-logo="https://epg.112114.xyz/logo/4K乐享.png" group-title="4K",4K乐享超清专区
 http://10.10.1.77:7777/rtp/239.93.0.43:5140
 #EXTINF:-1 tvg-id="4K视界" tvg-name="4K视界" tvg-logo="https://epg.112114.xyz/logo/4K视界.png" group-title="4K",4K视界专区
 http://10.10.1.77:7777/rtp/239.93.0.14:5140

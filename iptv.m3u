@@ -41,30 +41,6 @@ http://10.10.1.77:7777/rtp/239.93.42.54:5140
 http://10.10.1.77:7777/rtp/239.94.0.39:5140
 #EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV-4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视;4K",CCTV-4K超清
 http://10.10.1.77:7777/rtp/239.94.0.20:5140
-#EXTINF:-1 tvg-id="CCTV兵器科技" tvg-name="CCTV兵器科技" tvg-logo="https://epg.112114.xyz/logo/CCTV兵器科技.png" group-title="央视",CCTV兵器科技
-
-#EXTINF:-1 tvg-id="CCTV怀旧剧场" tvg-name="CCTV怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/CCTV怀旧剧场.png" group-title="央视",CCTV怀旧剧场
-
-#EXTINF:-1 tvg-id="CCTV世界地理" tvg-name="CCTV世界地理" tvg-logo="https://epg.112114.xyz/logo/CCTV世界地理.png" group-title="央视",CCTV世界地理
-
-#EXTINF:-1 tvg-id="CCTV文化精品" tvg-name="CCTV文化精品" tvg-logo="https://epg.112114.xyz/logo/CCTV文化精品.png" group-title="央视",CCTV文化精品
-
-#EXTINF:-1 tvg-id="CCTV央视台球" tvg-name="CCTV央视台球" tvg-logo="https://epg.112114.xyz/logo/CCTV央视台球.png" group-title="央视",CCTV央视台球
-
-#EXTINF:-1 tvg-id="CCTV央视高网" tvg-name="CCTV央视高网" tvg-logo="https://epg.112114.xyz/logo/CCTV央视高网.png" group-title="央视",CCTV央视高网
-
-#EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" tvg-logo="https://epg.112114.xyz/logo/CCTV风云剧场.png" group-title="央视",CCTV风云剧场
-
-#EXTINF:-1 tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐" tvg-logo="https://epg.112114.xyz/logo/CCTV风云音乐.png" group-title="央视",CCTV风云音乐
-
-#EXTINF:-1 tvg-id="CCTV女性时尚" tvg-name="CCTV女性时尚" tvg-logo="https://epg.112114.xyz/logo/CCTV女性时尚.png" group-title="央视",CCTV女性时尚
-
-#EXTINF:-1 tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" tvg-logo="https://epg.112114.xyz/logo/CCTV第一剧场.png" group-title="央视",CCTV第一剧场
-
-#EXTINF:-1 tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" tvg-logo="https://epg.112114.xyz/logo/CCTV风云足球.png" group-title="央视",CCTV风云足球
-
-#EXTINF:-1 tvg-id="CCTV电视指南" tvg-name="CCTV电视指南" tvg-logo="https://epg.112114.xyz/logo/CCTV电视指南.png" group-title="央视",CCTV电视指南
-
 #EXTINF:-1 tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://epg.112114.xyz/logo/CGTN英语.png" group-title="央视",CGTN英语
 http://10.10.1.77:7777/rtp/239.94.0.40:5140
 #EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://epg.112114.xyz/logo/CGTN西班牙语.png" group-title="央视",CGTN西班牙语
@@ -74,29 +50,37 @@ http://10.10.1.77:7777/rtp/239.94.1.66:5140
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="4K",爱上4K专区
 http://10.10.1.77:7777/rtp/239.94.0.21:5140
 #EXTINF:-1 tvg-id="绚影4K" tvg-name="绚影4K" tvg-logo="https://epg.112114.xyz/logo/绚影4K.png" group-title="4K",绚影4K专区
-http://10.10.1.77:7777/rtp/239.94.1.150:5140
+http://10.10.1.77:7777/rtp/239.93.42.33:5140
 #EXTINF:-1 tvg-id="4K乐享" tvg-name="4K乐享" tvg-logo="https://epg.112114.xyz/logo/4K乐享.png" group-title="4K",4K乐享超清专区
 http://10.10.1.77:7777/rtp/239.94.1.162:5140
-#EXTINF:-1 tvg-id="4K视界" tvg-name="4K视界" tvg-logo="https://epg.112114.xyz/logo/4K视界.png" group-title="4K",4K视界专区
-http://10.10.1.77:7777/rtp/239.94.1.60:5140
 #EXTINF:-1 tvg-id="亲子趣学4k" tvg-name="亲子趣学4k" tvg-logo="https://epg.112114.xyz/logo/亲子趣学4k.png" group-title="4K",亲子趣学4k专区
 http://10.10.1.77:7777/rtp/239.94.1.156:5140
-#EXTINF:-1 tvg-id="津津悦读4K" tvg-name="津津悦读4K" tvg-logo="https://epg.112114.xyz/logo/津津悦读4K.png" group-title="4K",津津悦读4K
-
-#EXTINF:-1 tvg-id="中录动漫4K" tvg-name="中录动漫4K" tvg-logo="https://epg.112114.xyz/logo/中录动漫4K.png" group-title="4K",中录动漫4K专区
-http://10.10.1.77:7777/rtp/239.93.1.188:5140
-#EXTINF:-1 tvg-id="广东综艺4K" tvg-name="广东综艺4K" tvg-logo="https://epg.112114.xyz/logo/广东综艺4K.png" group-title="4K",广东综艺4K
-
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://epg.112114.xyz/logo/北京卫视4K.png" group-title="4K",北京卫视4K
-http://10.10.1.77:7777/rtp/239.94.0.111:5140
+http://10.10.1.77:7777/rtp/239.94.0.112:5140
 #EXTINF:-1 tvg-id="欢笑剧场4K" tvg-name="欢笑剧场4K" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场4K.png" group-title="4K",欢笑剧场4K
 http://10.10.1.77:7777/rtp/239.94.1.176:5140
-#EXTINF:-1 tvg-id="百事通4K" tvg-name="百事通4K" tvg-logo="https://epg.112114.xyz/logo/百事通4K.png" group-title="4K",百事通4K
-http://10.10.1.77:7777/rtp/239.93.42.75:5140
-#EXTINF:-1 tvg-id="天翼百事通4K测试" tvg-name="天翼百事通4K测试" tvg-logo="https://epg.112114.xyz/logo/天翼百事通4K测试.png" group-title="4K",天翼百事通4K测试
-
-#EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://epg.112114.xyz/logo/苏州4K.png" group-title="4K",苏州4K
-
+#EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视4K" tvg-logo="https://epg.112114.xyz/logo/四川卫视4K.png" group-title="4K",四川卫视4K
+http://10.10.1.77:7777/rtp/239.94.0.115:5140
+#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="https://epg.112114.xyz/logo/湖南卫视4K.png" group-title="4K",湖南卫视4K
+http://10.10.1.77:7777/rtp/239.94.0.116:5140
+#EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视4K" tvg-logo="https://epg.112114.xyz/logo/江苏卫视4K.png" group-title="4K",江苏卫视4K
+http://10.10.1.77:7777/rtp/239.94.0.117:5140
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="https://epg.112114.xyz/logo/浙江卫视4K.png" group-title="4K",浙江卫视4K
+http://10.10.1.77:7777/rtp/239.94.0.118:5140
+#EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视4K" tvg-logo="https://epg.112114.xyz/logo/东方卫视4K.png" group-title="4K",东方卫视4K
+http://10.10.1.77:7777/rtp/239.94.0.119:5140
+#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="https://epg.112114.xyz/logo/深圳卫视4K.png" group-title="4K",深圳卫视4K
+http://10.10.1.77:7777/rtp/239.94.0.113:5140
+#EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视4K" tvg-logo="https://epg.112114.xyz/logo/广东卫视4K.png" group-title="4K",广东卫视4K
+http://10.10.1.77:7777/rtp/239.94.0.114:5140
+#EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视4K" tvg-logo="https://epg.112114.xyz/logo/山东卫视4K.png" group-title="4K",山东卫视4K
+http://10.10.1.77:7777/rtp/239.94.0.120:5140
+#EXTINF:-1 tvg-id="4K视界" tvg-name="4K视界" tvg-logo="https://epg.112114.xyz/logo/4K视界.png" group-title="4K",4K视界专区
+http://10.10.1.77:7777/rtp/239.94.1.60:5140
+#EXTINF:-1 tvg-id="4K纪实" tvg-name="4K纪实" tvg-logo="https://epg.112114.xyz/logo/4K纪实.png" group-title="4K",4K纪实专区
+http://10.10.1.77:7777/rtp/239.94.1.69:5140
+#EXTINF:-1 tvg-id="4K少儿" tvg-name="4K少儿" tvg-logo="https://epg.112114.xyz/logo/4K少儿.png" group-title="4K",4K少儿专区
+http://10.10.1.77:7777/rtp/239.94.1.70:5140
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视;四川",四川卫视高清
 http://10.10.1.77:7777/rtp/239.94.0.59:5140
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视高清
@@ -155,10 +139,10 @@ http://10.10.1.77:7777/rtp/239.93.0.8:5140
 http://10.10.1.77:7777/rtp/239.93.0.192:5140
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://epg.112114.xyz/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
 http://10.10.1.77:7777/rtp/239.93.0.247:5140
-#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
-http://10.10.1.77:7777/rtp/239.93.0.175:5140
-#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.112114.xyz/logo/新疆卫视.png" group-title="卫视",新疆卫视
-http://10.10.1.77:7777/rtp/239.93.0.194:5140
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" group-title="新增",西藏卫视高清
+http://10.10.1.77:7777/rtp/239.94.0.97:5140
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.112114.xyz/logo/新疆卫视.png" group-title="新增",新疆卫视高清
+http://10.10.1.77:7777/rtp/239.94.0.98:5140
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="卫视",甘肃卫视高清
 http://10.10.1.77:7777/rtp/239.94.0.99:5140
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
@@ -167,8 +151,8 @@ http://10.10.1.77:7777/rtp/239.93.0.80:5140
 http://10.10.1.77:7777/rtp/239.93.0.100:5140
 #EXTINF:-1 tvg-id="安多卫视" tvg-name="安多卫视" tvg-logo="https://epg.112114.xyz/logo/安多卫视.png" group-title="卫视",安多卫视
 http://10.10.1.77:7777/rtp/239.93.0.234:5140
-#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png" group-title="卫视",兵团卫视
-http://10.10.1.77:7777/rtp/239.93.42.43:5140
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png" group-title="新增",兵团卫视高清
+http://10.10.1.77:7777/rtp/239.94.0.102:5140
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" group-title="卫视",厦门卫视
 http://10.10.1.77:7777/rtp/239.93.42.57:5140
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" group-title="卫视",三沙卫视
@@ -409,157 +393,147 @@ http://10.10.1.77:7777/rtp/239.94.1.16:5140
 
 
 # API独有频道
-#EXTINF:-1 tvg-id="精彩导视" tvg-name="精彩导视" group-title="新增",精彩导视
+#EXTINF:-1 tvg-id="精彩导视" tvg-name="精彩导视" tvg-logo="https://upload.112114.xyz/logo/精彩导视"  group-title="新增",精彩导视
 http://10.10.1.77:7777/rtp/239.94.1.63:5140
-#EXTINF:-1 tvg-id="西藏卫视高清" tvg-name="西藏卫视高清" group-title="新增",西藏卫视高清
-http://10.10.1.77:7777/rtp/239.94.0.97:5140
-#EXTINF:-1 tvg-id="新疆卫视高清" tvg-name="新疆卫视高清" group-title="新增",新疆卫视高清
-http://10.10.1.77:7777/rtp/239.94.0.98:5140
-#EXTINF:-1 tvg-id="兵团卫视高清" tvg-name="兵团卫视高清" group-title="新增",兵团卫视高清
-http://10.10.1.77:7777/rtp/239.94.0.102:5140
-#EXTINF:-1 tvg-id="炫动卡通" tvg-name="炫动卡通" group-title="新增",炫动卡通
+#EXTINF:-1 tvg-id="炫动卡通" tvg-name="炫动卡通" tvg-logo="https://upload.112114.xyz/logo/炫动卡通"  group-title="新增",炫动卡通
 http://10.10.1.77:7777/rtp/239.94.1.9:5140
-#EXTINF:-1 tvg-id="经典电影专区" tvg-name="经典电影专区" group-title="新增",经典电影专区
+#EXTINF:-1 tvg-id="经典电影专区" tvg-name="经典电影专区" tvg-logo="https://upload.112114.xyz/logo/经典电影专区"  group-title="新增",经典电影专区
 http://10.10.1.77:7777/rtp/239.94.1.21:5140
-#EXTINF:-1 tvg-id="华语影院专区" tvg-name="华语影院专区" group-title="新增",华语影院专区
+#EXTINF:-1 tvg-id="华语影院专区" tvg-name="华语影院专区" tvg-logo="https://upload.112114.xyz/logo/华语影院专区"  group-title="新增",华语影院专区
 http://10.10.1.77:7777/rtp/239.94.1.22:5140
-#EXTINF:-1 tvg-id="星光院线专区" tvg-name="星光院线专区" group-title="新增",星光院线专区
+#EXTINF:-1 tvg-id="星光院线专区" tvg-name="星光院线专区" tvg-logo="https://upload.112114.xyz/logo/星光院线专区"  group-title="新增",星光院线专区
 http://10.10.1.77:7777/rtp/239.94.1.23:5140
-#EXTINF:-1 tvg-id="全球大片专区" tvg-name="全球大片专区" group-title="新增",全球大片专区
+#EXTINF:-1 tvg-id="全球大片专区" tvg-name="全球大片专区" tvg-logo="https://upload.112114.xyz/logo/全球大片专区"  group-title="新增",全球大片专区
 http://10.10.1.77:7777/rtp/239.94.1.24:5140
-#EXTINF:-1 tvg-id="热播剧场专区" tvg-name="热播剧场专区" group-title="新增",热播剧场专区
+#EXTINF:-1 tvg-id="热播剧场专区" tvg-name="热播剧场专区" tvg-logo="https://upload.112114.xyz/logo/热播剧场专区"  group-title="新增",热播剧场专区
 http://10.10.1.77:7777/rtp/239.94.1.25:5140
-#EXTINF:-1 tvg-id="热门剧场专区" tvg-name="热门剧场专区" group-title="新增",热门剧场专区
+#EXTINF:-1 tvg-id="热门剧场专区" tvg-name="热门剧场专区" tvg-logo="https://upload.112114.xyz/logo/热门剧场专区"  group-title="新增",热门剧场专区
 http://10.10.1.77:7777/rtp/239.94.1.26:5140
-#EXTINF:-1 tvg-id="健康养生专区" tvg-name="健康养生专区" group-title="新增",健康养生专区
+#EXTINF:-1 tvg-id="健康养生专区" tvg-name="健康养生专区" tvg-logo="https://upload.112114.xyz/logo/健康养生专区"  group-title="新增",健康养生专区
 http://10.10.1.77:7777/rtp/239.94.1.27:5140
-#EXTINF:-1 tvg-id="谍战剧场专区" tvg-name="谍战剧场专区" group-title="新增",谍战剧场专区
+#EXTINF:-1 tvg-id="谍战剧场专区" tvg-name="谍战剧场专区" tvg-logo="https://upload.112114.xyz/logo/谍战剧场专区"  group-title="新增",谍战剧场专区
 http://10.10.1.77:7777/rtp/239.94.1.28:5140
-#EXTINF:-1 tvg-id="宝宝动画专区" tvg-name="宝宝动画专区" group-title="新增",宝宝动画专区
+#EXTINF:-1 tvg-id="宝宝动画专区" tvg-name="宝宝动画专区" tvg-logo="https://upload.112114.xyz/logo/宝宝动画专区"  group-title="新增",宝宝动画专区
 http://10.10.1.77:7777/rtp/239.94.1.32:5140
-#EXTINF:-1 tvg-id="少儿动画高清专区" tvg-name="少儿动画高清专区" group-title="新增",少儿动画高清专区
+#EXTINF:-1 tvg-id="少儿动画高清专区" tvg-name="少儿动画高清专区" tvg-logo="https://upload.112114.xyz/logo/少儿动画高清专区"  group-title="新增",少儿动画高清专区
 http://10.10.1.77:7777/rtp/239.94.1.33:5140
-#EXTINF:-1 tvg-id="青春动漫专区" tvg-name="青春动漫专区" group-title="新增",青春动漫专区
+#EXTINF:-1 tvg-id="青春动漫专区" tvg-name="青春动漫专区" tvg-logo="https://upload.112114.xyz/logo/青春动漫专区"  group-title="新增",青春动漫专区
 http://10.10.1.77:7777/rtp/239.94.1.34:5140
-#EXTINF:-1 tvg-id="音乐现场高清专区" tvg-name="音乐现场高清专区" group-title="新增",音乐现场高清专区
+#EXTINF:-1 tvg-id="音乐现场高清专区" tvg-name="音乐现场高清专区" tvg-logo="https://upload.112114.xyz/logo/音乐现场高清专区"  group-title="新增",音乐现场高清专区
 http://10.10.1.77:7777/rtp/239.94.1.36:5140
-#EXTINF:-1 tvg-id="戏曲精选专区" tvg-name="戏曲精选专区" group-title="新增",戏曲精选专区
+#EXTINF:-1 tvg-id="戏曲精选专区" tvg-name="戏曲精选专区" tvg-logo="https://upload.112114.xyz/logo/戏曲精选专区"  group-title="新增",戏曲精选专区
 http://10.10.1.77:7777/rtp/239.94.1.37:5140
-#EXTINF:-1 tvg-id="戏曲专区" tvg-name="戏曲专区" group-title="新增",戏曲专区
+#EXTINF:-1 tvg-id="戏曲专区" tvg-name="戏曲专区" tvg-logo="https://upload.112114.xyz/logo/戏曲专区"  group-title="新增",戏曲专区
 http://10.10.1.77:7777/rtp/239.94.1.38:5140
-#EXTINF:-1 tvg-id="魅力时尚高清专区" tvg-name="魅力时尚高清专区" group-title="新增",魅力时尚高清专区
+#EXTINF:-1 tvg-id="魅力时尚高清专区" tvg-name="魅力时尚高清专区" tvg-logo="https://upload.112114.xyz/logo/魅力时尚高清专区"  group-title="新增",魅力时尚高清专区
 http://10.10.1.77:7777/rtp/239.94.1.39:5140
-#EXTINF:-1 tvg-id="爱生活高清专区" tvg-name="爱生活高清专区" group-title="新增",爱生活高清专区
+#EXTINF:-1 tvg-id="爱生活高清专区" tvg-name="爱生活高清专区" tvg-logo="https://upload.112114.xyz/logo/爱生活高清专区"  group-title="新增",爱生活高清专区
 http://10.10.1.77:7777/rtp/239.94.1.41:5140
-#EXTINF:-1 tvg-id="百变课堂专区" tvg-name="百变课堂专区" group-title="新增",百变课堂专区
+#EXTINF:-1 tvg-id="百变课堂专区" tvg-name="百变课堂专区" tvg-logo="https://upload.112114.xyz/logo/百变课堂专区"  group-title="新增",百变课堂专区
 http://10.10.1.77:7777/rtp/239.94.1.43:5140
-#EXTINF:-1 tvg-id="爱体育专区" tvg-name="爱体育专区" group-title="新增",爱体育专区
+#EXTINF:-1 tvg-id="爱体育专区" tvg-name="爱体育专区" tvg-logo="https://upload.112114.xyz/logo/爱体育专区"  group-title="新增",爱体育专区
 http://10.10.1.77:7777/rtp/239.94.1.44:5140
-#EXTINF:-1 tvg-id="电竞天堂高清专区" tvg-name="电竞天堂高清专区" group-title="新增",电竞天堂高清专区
+#EXTINF:-1 tvg-id="电竞天堂高清专区" tvg-name="电竞天堂高清专区" tvg-logo="https://upload.112114.xyz/logo/电竞天堂高清专区"  group-title="新增",电竞天堂高清专区
 http://10.10.1.77:7777/rtp/239.94.1.45:5140
-#EXTINF:-1 tvg-id="足球高清专区" tvg-name="足球高清专区" group-title="新增",足球高清专区
+#EXTINF:-1 tvg-id="足球高清专区" tvg-name="足球高清专区" tvg-logo="https://upload.112114.xyz/logo/足球高清专区"  group-title="新增",足球高清专区
 http://10.10.1.77:7777/rtp/239.94.1.47:5140
-#EXTINF:-1 tvg-id="红色影院专区" tvg-name="红色影院专区" group-title="新增",红色影院专区
+#EXTINF:-1 tvg-id="红色影院专区" tvg-name="红色影院专区" tvg-logo="https://upload.112114.xyz/logo/红色影院专区"  group-title="新增",红色影院专区
 http://10.10.1.77:7777/rtp/239.94.1.48:5140
-#EXTINF:-1 tvg-id="经典剧场专区" tvg-name="经典剧场专区" group-title="新增",经典剧场专区
+#EXTINF:-1 tvg-id="经典剧场专区" tvg-name="经典剧场专区" tvg-logo="https://upload.112114.xyz/logo/经典剧场专区"  group-title="新增",经典剧场专区
 http://10.10.1.77:7777/rtp/239.94.1.49:5140
-#EXTINF:-1 tvg-id="墨宝高清专区" tvg-name="墨宝高清专区" group-title="新增",墨宝高清专区
+#EXTINF:-1 tvg-id="墨宝高清专区" tvg-name="墨宝高清专区" tvg-logo="https://upload.112114.xyz/logo/墨宝高清专区"  group-title="新增",墨宝高清专区
 http://10.10.1.77:7777/rtp/239.94.1.51:5140
-#EXTINF:-1 tvg-id="军事高清专区" tvg-name="军事高清专区" group-title="新增",军事高清专区
+#EXTINF:-1 tvg-id="军事高清专区" tvg-name="军事高清专区" tvg-logo="https://upload.112114.xyz/logo/军事高清专区"  group-title="新增",军事高清专区
 http://10.10.1.77:7777/rtp/239.94.1.52:5140
-#EXTINF:-1 tvg-id="解密高清专区" tvg-name="解密高清专区" group-title="新增",解密高清专区
+#EXTINF:-1 tvg-id="解密高清专区" tvg-name="解密高清专区" tvg-logo="https://upload.112114.xyz/logo/解密高清专区"  group-title="新增",解密高清专区
 http://10.10.1.77:7777/rtp/239.94.1.53:5140
-#EXTINF:-1 tvg-id="地理高清专区" tvg-name="地理高清专区" group-title="新增",地理高清专区
+#EXTINF:-1 tvg-id="地理高清专区" tvg-name="地理高清专区" tvg-logo="https://upload.112114.xyz/logo/地理高清专区"  group-title="新增",地理高清专区
 http://10.10.1.77:7777/rtp/239.94.1.54:5140
-#EXTINF:-1 tvg-id="收视指南专区" tvg-name="收视指南专区" group-title="新增",收视指南专区
+#EXTINF:-1 tvg-id="看天下精选专区" tvg-name="看天下精选专区" tvg-logo="https://upload.112114.xyz/logo/看天下精选专区"  group-title="新增",看天下精选专区
+http://10.10.1.77:7777/rtp/239.94.1.68:5140
+#EXTINF:-1 tvg-id="收视指南专区" tvg-name="收视指南专区" tvg-logo="https://upload.112114.xyz/logo/收视指南专区"  group-title="新增",收视指南专区
 http://10.10.1.77:7777/rtp/239.94.1.56:5140
-#EXTINF:-1 tvg-id="蓉城先锋专区" tvg-name="蓉城先锋专区" group-title="新增",蓉城先锋专区
+#EXTINF:-1 tvg-id="蓉城先锋专区" tvg-name="蓉城先锋专区" tvg-logo="https://upload.112114.xyz/logo/蓉城先锋专区"  group-title="新增",蓉城先锋专区
 http://10.10.1.77:7777/rtp/239.94.1.57:5140
-#EXTINF:-1 tvg-id="爱浪漫专区" tvg-name="爱浪漫专区" group-title="新增",爱浪漫专区
+#EXTINF:-1 tvg-id="爱浪漫专区" tvg-name="爱浪漫专区" tvg-logo="https://upload.112114.xyz/logo/爱浪漫专区"  group-title="新增",爱浪漫专区
 http://10.10.1.77:7777/rtp/239.94.1.128:5140
-#EXTINF:-1 tvg-id="爱喜剧专区" tvg-name="爱喜剧专区" group-title="新增",爱喜剧专区
+#EXTINF:-1 tvg-id="爱喜剧专区" tvg-name="爱喜剧专区" tvg-logo="https://upload.112114.xyz/logo/爱喜剧专区"  group-title="新增",爱喜剧专区
 http://10.10.1.77:7777/rtp/239.94.1.129:5140
-#EXTINF:-1 tvg-id="爱奇谈专区" tvg-name="爱奇谈专区" group-title="新增",爱奇谈专区
+#EXTINF:-1 tvg-id="爱奇谈专区" tvg-name="爱奇谈专区" tvg-logo="https://upload.112114.xyz/logo/爱奇谈专区"  group-title="新增",爱奇谈专区
 http://10.10.1.77:7777/rtp/239.94.1.130:5140
-#EXTINF:-1 tvg-id="爱科幻专区" tvg-name="爱科幻专区" group-title="新增",爱科幻专区
+#EXTINF:-1 tvg-id="爱科幻专区" tvg-name="爱科幻专区" tvg-logo="https://upload.112114.xyz/logo/爱科幻专区"  group-title="新增",爱科幻专区
 http://10.10.1.77:7777/rtp/239.94.1.131:5140
-#EXTINF:-1 tvg-id="爱院线专区" tvg-name="爱院线专区" group-title="新增",爱院线专区
+#EXTINF:-1 tvg-id="爱院线专区" tvg-name="爱院线专区" tvg-logo="https://upload.112114.xyz/logo/爱院线专区"  group-title="新增",爱院线专区
 http://10.10.1.77:7777/rtp/239.94.1.132:5140
-#EXTINF:-1 tvg-id="爱谍战专区" tvg-name="爱谍战专区" group-title="新增",爱谍战专区
+#EXTINF:-1 tvg-id="爱谍战专区" tvg-name="爱谍战专区" tvg-logo="https://upload.112114.xyz/logo/爱谍战专区"  group-title="新增",爱谍战专区
 http://10.10.1.77:7777/rtp/239.94.1.134:5140
-#EXTINF:-1 tvg-id="爱历史专区" tvg-name="爱历史专区" group-title="新增",爱历史专区
+#EXTINF:-1 tvg-id="爱历史专区" tvg-name="爱历史专区" tvg-logo="https://upload.112114.xyz/logo/爱历史专区"  group-title="新增",爱历史专区
 http://10.10.1.77:7777/rtp/239.94.1.135:5140
-#EXTINF:-1 tvg-id="爱悬疑专区" tvg-name="爱悬疑专区" group-title="新增",爱悬疑专区
+#EXTINF:-1 tvg-id="爱悬疑专区" tvg-name="爱悬疑专区" tvg-logo="https://upload.112114.xyz/logo/爱悬疑专区"  group-title="新增",爱悬疑专区
 http://10.10.1.77:7777/rtp/239.94.1.136:5140
-#EXTINF:-1 tvg-id="爱旅行专区" tvg-name="爱旅行专区" group-title="新增",爱旅行专区
+#EXTINF:-1 tvg-id="爱旅行专区" tvg-name="爱旅行专区" tvg-logo="https://upload.112114.xyz/logo/爱旅行专区"  group-title="新增",爱旅行专区
 http://10.10.1.77:7777/rtp/239.94.1.137:5140
-#EXTINF:-1 tvg-id="少儿天地专区" tvg-name="少儿天地专区" group-title="新增",少儿天地专区
+#EXTINF:-1 tvg-id="少儿天地专区" tvg-name="少儿天地专区" tvg-logo="https://upload.112114.xyz/logo/少儿天地专区"  group-title="新增",少儿天地专区
 http://10.10.1.77:7777/rtp/239.94.1.138:5140
-#EXTINF:-1 tvg-id="爱幼教专区" tvg-name="爱幼教专区" group-title="新增",爱幼教专区
+#EXTINF:-1 tvg-id="爱幼教专区" tvg-name="爱幼教专区" tvg-logo="https://upload.112114.xyz/logo/爱幼教专区"  group-title="新增",爱幼教专区
 http://10.10.1.77:7777/rtp/239.94.1.139:5140
-#EXTINF:-1 tvg-id="爱玩具专区" tvg-name="爱玩具专区" group-title="新增",爱玩具专区
+#EXTINF:-1 tvg-id="爱玩具专区" tvg-name="爱玩具专区" tvg-logo="https://upload.112114.xyz/logo/爱玩具专区"  group-title="新增",爱玩具专区
 http://10.10.1.77:7777/rtp/239.94.1.140:5140
-#EXTINF:-1 tvg-id="爱动漫专区" tvg-name="爱动漫专区" group-title="新增",爱动漫专区
+#EXTINF:-1 tvg-id="爱动漫专区" tvg-name="爱动漫专区" tvg-logo="https://upload.112114.xyz/logo/爱动漫专区"  group-title="新增",爱动漫专区
 http://10.10.1.77:7777/rtp/239.94.1.141:5140
-#EXTINF:-1 tvg-id="爱体育专区" tvg-name="爱体育专区" group-title="新增",爱体育专区
+#EXTINF:-1 tvg-id="爱体育专区" tvg-name="爱体育专区" tvg-logo="https://upload.112114.xyz/logo/爱体育专区"  group-title="新增",爱体育专区
 http://10.10.1.77:7777/rtp/239.94.1.143:5140
-#EXTINF:-1 tvg-id="爱赛车专区" tvg-name="爱赛车专区" group-title="新增",爱赛车专区
+#EXTINF:-1 tvg-id="爱赛车专区" tvg-name="爱赛车专区" tvg-logo="https://upload.112114.xyz/logo/爱赛车专区"  group-title="新增",爱赛车专区
 http://10.10.1.77:7777/rtp/239.94.1.144:5140
-#EXTINF:-1 tvg-id="爱宠宠物专区" tvg-name="爱宠宠物专区" group-title="新增",爱宠宠物专区
+#EXTINF:-1 tvg-id="爱宠宠物专区" tvg-name="爱宠宠物专区" tvg-logo="https://upload.112114.xyz/logo/爱宠宠物专区"  group-title="新增",爱宠宠物专区
 http://10.10.1.77:7777/rtp/239.94.1.145:5140
-#EXTINF:-1 tvg-id="来钓鱼吧专区" tvg-name="来钓鱼吧专区" group-title="新增",来钓鱼吧专区
+#EXTINF:-1 tvg-id="来钓鱼吧专区" tvg-name="来钓鱼吧专区" tvg-logo="https://upload.112114.xyz/logo/来钓鱼吧专区"  group-title="新增",来钓鱼吧专区
 http://10.10.1.77:7777/rtp/239.94.1.148:5140
-#EXTINF:-1 tvg-id="麻辣体育专区" tvg-name="麻辣体育专区" group-title="新增",麻辣体育专区
+#EXTINF:-1 tvg-id="麻辣体育专区" tvg-name="麻辣体育专区" tvg-logo="https://upload.112114.xyz/logo/麻辣体育专区"  group-title="新增",麻辣体育专区
 http://10.10.1.77:7777/rtp/239.94.1.149:5140
-#EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" group-title="新增",天元围棋
+#EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://upload.112114.xyz/logo/天元围棋"  group-title="新增",天元围棋
 http://10.10.1.77:7777/rtp/239.94.1.152:5140
-#EXTINF:-1 tvg-id="乐龄学堂专区" tvg-name="乐龄学堂专区" group-title="新增",乐龄学堂专区
+#EXTINF:-1 tvg-id="乐龄学堂专区" tvg-name="乐龄学堂专区" tvg-logo="https://upload.112114.xyz/logo/乐龄学堂专区"  group-title="新增",乐龄学堂专区
 http://10.10.1.77:7777/rtp/239.94.1.155:5140
-#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" group-title="新增",四海钓鱼
+#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://upload.112114.xyz/logo/四海钓鱼"  group-title="新增",四海钓鱼
 http://10.10.1.77:7777/rtp/239.94.1.168:5140
-#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" group-title="新增",深圳卫视4K
-http://10.10.1.77:7777/rtp/239.94.0.113:5140
-#EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视4K" group-title="新增",广东卫视4K
-http://10.10.1.77:7777/rtp/239.94.0.114:5140
-#EXTINF:-1 tvg-id="精彩推荐专区" tvg-name="精彩推荐专区" group-title="新增",精彩推荐专区
+#EXTINF:-1 tvg-id="精彩推荐专区" tvg-name="精彩推荐专区" tvg-logo="https://upload.112114.xyz/logo/精彩推荐专区"  group-title="新增",精彩推荐专区
 http://10.10.1.77:7777/rtp/239.94.2.10:5140
-#EXTINF:-1 tvg-id="直播室1" tvg-name="直播室1" group-title="新增",直播室1
-http://10.10.1.77:7777/rtp/239.93.1.180:5140
-#EXTINF:-1 tvg-id="直播室2" tvg-name="直播室2" group-title="新增",直播室2
-http://10.10.1.77:7777/rtp/239.93.1.181:5140
-#EXTINF:-1 tvg-id="直播室3" tvg-name="直播室3" group-title="新增",直播室3
-http://10.10.1.77:7777/rtp/239.93.1.182:5140
-#EXTINF:-1 tvg-id="直播室4" tvg-name="直播室4" group-title="新增",直播室4
-http://10.10.1.77:7777/rtp/239.93.1.183:5140
-#EXTINF:-1 tvg-id="直播室5" tvg-name="直播室5" group-title="新增",直播室5
-http://10.10.1.77:7777/rtp/239.93.1.184:5140
-#EXTINF:-1 tvg-id="直播室6" tvg-name="直播室6" group-title="新增",直播室6
-http://10.10.1.77:7777/rtp/239.93.1.185:5140
-#EXTINF:-1 tvg-id="直播室7" tvg-name="直播室7" group-title="新增",直播室7
-http://10.10.1.77:7777/rtp/239.93.1.186:5140
-#EXTINF:-1 tvg-id="直播室8" tvg-name="直播室8" group-title="新增",直播室8
-http://10.10.1.77:7777/rtp/239.93.1.187:5140
-#EXTINF:-1 tvg-id="红原日干乔" tvg-name="红原日干乔" group-title="新增",红原日干乔
-http://10.10.1.77:7777/rtp/239.94.2.19:5140
-#EXTINF:-1 tvg-id="红原月亮湾" tvg-name="红原月亮湾" group-title="新增",红原月亮湾
+#EXTINF:-1 tvg-id="直播室1" tvg-name="直播室1" tvg-logo="https://upload.112114.xyz/logo/直播室1"  group-title="新增",直播室1
+http://10.10.1.77:7777/rtp/239.94.2.11:5140
+#EXTINF:-1 tvg-id="直播室2" tvg-name="直播室2" tvg-logo="https://upload.112114.xyz/logo/直播室2"  group-title="新增",直播室2
+http://10.10.1.77:7777/rtp/239.94.2.12:5140
+#EXTINF:-1 tvg-id="直播室3" tvg-name="直播室3" tvg-logo="https://upload.112114.xyz/logo/直播室3"  group-title="新增",直播室3
+http://10.10.1.77:7777/rtp/239.94.2.13:5140
+#EXTINF:-1 tvg-id="直播室4" tvg-name="直播室4" tvg-logo="https://upload.112114.xyz/logo/直播室4"  group-title="新增",直播室4
+http://10.10.1.77:7777/rtp/239.94.2.14:5140
+#EXTINF:-1 tvg-id="直播室5" tvg-name="直播室5" tvg-logo="https://upload.112114.xyz/logo/直播室5"  group-title="新增",直播室5
+http://10.10.1.77:7777/rtp/239.94.2.15:5140
+#EXTINF:-1 tvg-id="直播室6" tvg-name="直播室6" tvg-logo="https://upload.112114.xyz/logo/直播室6"  group-title="新增",直播室6
+http://10.10.1.77:7777/rtp/239.94.2.16:5140
+#EXTINF:-1 tvg-id="直播室7" tvg-name="直播室7" tvg-logo="https://upload.112114.xyz/logo/直播室7"  group-title="新增",直播室7
+http://10.10.1.77:7777/rtp/239.94.2.17:5140
+#EXTINF:-1 tvg-id="直播室8" tvg-name="直播室8" tvg-logo="https://upload.112114.xyz/logo/直播室8"  group-title="新增",直播室8
+http://10.10.1.77:7777/rtp/239.94.2.18:5140
+#EXTINF:-1 tvg-id="红原月亮湾" tvg-name="红原月亮湾" tvg-logo="https://upload.112114.xyz/logo/红原月亮湾"  group-title="新增",红原月亮湾
 http://10.10.1.77:7777/rtp/239.94.2.20:5140
-#EXTINF:-1 tvg-id="云演艺宣传" tvg-name="云演艺宣传" group-title="新增",云演艺宣传
+#EXTINF:-1 tvg-id="雅克音乐节直播" tvg-name="雅克音乐节直播" tvg-logo="https://upload.112114.xyz/logo/雅克音乐节直播"  group-title="新增",雅克音乐节直播
+http://10.10.1.77:7777/rtp/239.94.2.23:5140
+#EXTINF:-1 tvg-id="云演艺宣传" tvg-name="云演艺宣传" tvg-logo="https://upload.112114.xyz/logo/云演艺宣传"  group-title="新增",云演艺宣传
 http://10.10.1.77:7777/rtp/239.94.2.25:5140
-#EXTINF:-1 tvg-id="920" tvg-name="920" group-title="新增",920
-http://10.10.1.77:7777/rtp/239.93.1.130:5140
-#EXTINF:-1 tvg-id="921" tvg-name="921" group-title="新增",921
-http://10.10.1.77:7777/rtp/239.93.1.131:5140
-#EXTINF:-1 tvg-id="922" tvg-name="922" group-title="新增",922
-http://10.10.1.77:7777/rtp/239.93.1.132:5140
-#EXTINF:-1 tvg-id="923" tvg-name="923" group-title="新增",923
-http://10.10.1.77:7777/rtp/239.93.1.133:5140
-#EXTINF:-1 tvg-id="924" tvg-name="924" group-title="新增",924
-http://10.10.1.77:7777/rtp/239.93.1.122:5140
-#EXTINF:-1 tvg-id="925" tvg-name="925" group-title="新增",925
-http://10.10.1.77:7777/rtp/239.93.1.123:5140
-#EXTINF:-1 tvg-id="926" tvg-name="926" group-title="新增",926
-http://10.10.1.77:7777/rtp/239.93.1.124:5140
-#EXTINF:-1 tvg-id="927" tvg-name="927" group-title="新增",927
-http://10.10.1.77:7777/rtp/239.93.1.125:5140
-#EXTINF:-1 tvg-id="928" tvg-name="928" group-title="新增",928
-http://10.10.1.77:7777/rtp/239.93.1.126:5140
+#EXTINF:-1 tvg-id="920-全网组播" tvg-name="920-全网组播" tvg-logo="https://upload.112114.xyz/logo/920-全网组播"  group-title="新增",920-全网组播
+http://10.10.1.77:7777/rtp/239.94.2.128:5140
+#EXTINF:-1 tvg-id="921-全网组播" tvg-name="921-全网组播" tvg-logo="https://upload.112114.xyz/logo/921-全网组播"  group-title="新增",921-全网组播
+http://10.10.1.77:7777/rtp/239.94.2.129:5140
+#EXTINF:-1 tvg-id="922-全网组播" tvg-name="922-全网组播" tvg-logo="https://upload.112114.xyz/logo/922-全网组播"  group-title="新增",922-全网组播
+http://10.10.1.77:7777/rtp/239.94.2.131:5140
+#EXTINF:-1 tvg-id="923-全网组播" tvg-name="923-全网组播" tvg-logo="https://upload.112114.xyz/logo/923-全网组播"  group-title="新增",923-全网组播
+http://10.10.1.77:7777/rtp/239.94.2.132:5140
+#EXTINF:-1 tvg-id="924-全网组播" tvg-name="924-全网组播" tvg-logo="https://upload.112114.xyz/logo/924-全网组播"  group-title="新增",924-全网组播
+http://10.10.1.77:7777/rtp/239.94.2.135:5140
+#EXTINF:-1 tvg-id="925-全网组播" tvg-name="925-全网组播" tvg-logo="https://upload.112114.xyz/logo/925-全网组播"  group-title="新增",925-全网组播
+http://10.10.1.77:7777/rtp/239.94.2.137:5140
+#EXTINF:-1 tvg-id="926-全网组播" tvg-name="926-全网组播" tvg-logo="https://upload.112114.xyz/logo/926-全网组播"  group-title="新增",926-全网组播
+http://10.10.1.77:7777/rtp/239.94.2.139:5140
+#EXTINF:-1 tvg-id="927-全网组播" tvg-name="927-全网组播" tvg-logo="https://upload.112114.xyz/logo/927-全网组播"  group-title="新增",927-全网组播
+http://10.10.1.77:7777/rtp/239.94.2.140:5140

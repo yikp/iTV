@@ -50,7 +50,7 @@ http://10.10.1.77:7777/rtp/239.94.1.66:5140
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="4K",爱上4K专区
 http://10.10.1.77:7777/rtp/239.94.0.21:5140
 #EXTINF:-1 tvg-id="绚影4K" tvg-name="绚影4K" tvg-logo="https://epg.112114.xyz/logo/绚影4K.png" group-title="4K",绚影4K专区
-http://10.10.1.77:7777/rtp/239.93.42.33:5140
+http://10.10.1.77:7777/rtp/239.94.1.150:5140
 #EXTINF:-1 tvg-id="4K乐享" tvg-name="4K乐享" tvg-logo="https://epg.112114.xyz/logo/4K乐享.png" group-title="4K",4K乐享超清专区
 http://10.10.1.77:7777/rtp/239.94.1.162:5140
 #EXTINF:-1 tvg-id="亲子趣学4k" tvg-name="亲子趣学4k" tvg-logo="https://epg.112114.xyz/logo/亲子趣学4k.png" group-title="4K",亲子趣学4k专区

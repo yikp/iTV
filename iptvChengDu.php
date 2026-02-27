@@ -17,12 +17,12 @@ if ($json['success'] != 1) {
     die('获取频道列表失败');
 }   
 
-$new_m3u = "#EXTM3U
-#EXT-X-APP
-#EXT-X-APTV-TYPE
-#EXT-X-SUB-URL https://raw.githubusercontent.com/yikp/iTV/main/iptv.m3u
+$new_m3u = "#EXTM3U\n";
+$new_m3u .= "#EXT-X-APP\n";
+$new_m3u .= "#EXT-X-APTV-TYPE\n";
+$new_m3u .= "#EXT-X-SUB-URL https://raw.githubusercontent.com/yikp/iTV/main/iptv.m3u\n";
+$new_m3u .= "#EXT-X-GENERATED-TIME: " . date('Y-m-d H:i:s') . "\n\n";
 
-";
 $channels = $json['channels'];
 foreach ($channels as $channel) {
     if (in_array($channel['video_info']['resolution'], ['FHD', 'UHD'])) {

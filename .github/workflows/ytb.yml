@@ -28,7 +28,7 @@ jobs:
 
       # 运行 PHP 脚本生成 iptv.m3u
       - name: 生成 IPTV M3U
-        run: php itvMyApiChengDu.php
+        run: php iptvChengDu.php
 
       # 配置 Git
       - name: 配置 Git

@@ -39,6 +39,6 @@ jobs:
       # 提交并推送更改
       - name: 提交更改
         run: |
-            git add iptv.m3u
-            git commit -m "build: 周一自动更新 iptv.m3u"
-            git push
+          git add iptv.m3u
+          git commit -m "build: 周一自动更新 iptv.m3u" --allow-empty
+          git push

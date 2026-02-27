@@ -39,10 +39,6 @@ jobs:
       # 提交并推送更改
       - name: 提交更改
         run: |
-          if git diff --quiet iptv.m3u; then
-            echo "没有变化，跳过提交"
-          else
             git add iptv.m3u
             git commit -m "build: 周一自动更新 iptv.m3u"
             git push
-          fi

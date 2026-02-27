@@ -29,7 +29,7 @@ http://10.10.1.77:7777/rtp/239.94.0.36:5140
 http://10.10.1.77:7777/rtp/239.94.0.12:5140
 #EXTINF:-1 tvg-id="cctv13" tvg-name="cctv13" group-title="高清", CCTV-13高清 
 http://10.10.1.77:7777/rtp/239.94.0.37:5140
-#EXTINF:-1 tvg-id="cctv少儿" tvg-name="cctv少儿" group-title="高清", CCTV-少儿高清 
+#EXTINF:-1 tvg-id="cctv14" tvg-name="cctv14" group-title="高清", CCTV-少儿高清 
 http://10.10.1.77:7777/rtp/239.94.0.14:5140
 #EXTINF:-1 tvg-id="cctv15" tvg-name="cctv15" group-title="高清", CCTV-15高清 
 http://10.10.1.77:7777/rtp/239.94.0.38:5140
@@ -41,7 +41,7 @@ http://10.10.1.77:7777/rtp/239.94.0.59:5140
 http://10.10.1.77:7777/rtp/239.94.0.154:5140
 #EXTINF:-1 tvg-id="cctv4K" tvg-name="cctv4K" group-title="4K", CCTV-4K 
 http://10.10.1.77:7777/rtp/239.94.0.20:5140
-#EXTINF:-1 tvg-id="爱上4K专区" tvg-name="爱上4K专区" group-title="4K", 爱上4K专区 
+#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" group-title="4K", 爱上4K专区 
 http://10.10.1.77:7777/rtp/239.94.0.21:5140
 #EXTINF:-1 tvg-id="CGTN英语" tvg-name="CGTN英语" group-title="高清", CGTN英语 
 http://10.10.1.77:7777/rtp/239.94.0.40:5140
@@ -159,147 +159,147 @@ http://10.10.1.77:7777/rtp/239.94.0.160:5140
 http://10.10.1.77:7777/rtp/239.94.1.1:5140
 #EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" group-title="高清", CETV-1高清 
 http://10.10.1.77:7777/rtp/239.94.1.2:5140
-#EXTINF:-1 tvg-id="熊猫新闻高清专区" tvg-name="熊猫新闻高清专区" group-title="高清", 熊猫新闻高清专区 
+#EXTINF:-1 tvg-id="熊猫新闻" tvg-name="熊猫新闻" group-title="高清", 熊猫新闻高清专区 
 http://10.10.1.77:7777/rtp/239.94.1.3:5140
-#EXTINF:-1 tvg-id="熊猫体娱高清专区" tvg-name="熊猫体娱高清专区" group-title="高清", 熊猫体娱高清专区 
+#EXTINF:-1 tvg-id="熊猫体娱" tvg-name="熊猫体娱" group-title="高清", 熊猫体娱高清专区 
 http://10.10.1.77:7777/rtp/239.94.1.4:5140
-#EXTINF:-1 tvg-id="熊猫少儿高清专区" tvg-name="熊猫少儿高清专区" group-title="高清", 熊猫少儿高清专区 
+#EXTINF:-1 tvg-id="熊猫少儿" tvg-name="熊猫少儿" group-title="高清", 熊猫少儿高清专区 
 http://10.10.1.77:7777/rtp/239.94.1.5:5140
-#EXTINF:-1 tvg-id="熊猫影院专区" tvg-name="熊猫影院专区" group-title="高清", 熊猫影院专区 
+#EXTINF:-1 tvg-id="熊猫影院" tvg-name="熊猫影院" group-title="高清", 熊猫影院专区 
 http://10.10.1.77:7777/rtp/239.94.1.6:5140
-#EXTINF:-1 tvg-id="云看熊猫专区" tvg-name="云看熊猫专区" group-title="高清", 云看熊猫专区 
+#EXTINF:-1 tvg-id="云看熊猫" tvg-name="云看熊猫" group-title="高清", 云看熊猫专区 
 http://10.10.1.77:7777/rtp/239.94.1.7:5140
-#EXTINF:-1 tvg-id="金熊猫卡通高清专区" tvg-name="金熊猫卡通高清专区" group-title="高清", 金熊猫卡通高清专区 
+#EXTINF:-1 tvg-id="金熊猫卡通" tvg-name="金熊猫卡通" group-title="高清", 金熊猫卡通高清专区 
 http://10.10.1.77:7777/rtp/239.94.1.8:5140
-#EXTINF:-1 tvg-id="熊猫爱生活高清专区" tvg-name="熊猫爱生活高清专区" group-title="高清", 熊猫爱生活高清专区 
+#EXTINF:-1 tvg-id="熊猫爱生活" tvg-name="熊猫爱生活" group-title="高清", 熊猫爱生活高清专区 
 http://10.10.1.77:7777/rtp/239.94.1.11:5140
-#EXTINF:-1 tvg-id="大爱四川高清专区" tvg-name="大爱四川高清专区" group-title="高清", 大爱四川高清专区 
+#EXTINF:-1 tvg-id="大爱四川" tvg-name="大爱四川" group-title="高清", 大爱四川高清专区 
 http://10.10.1.77:7777/rtp/239.94.1.12:5140
-#EXTINF:-1 tvg-id="大爱旅游高清专区" tvg-name="大爱旅游高清专区" group-title="高清", 大爱旅游高清专区 
+#EXTINF:-1 tvg-id="大爱旅游" tvg-name="大爱旅游" group-title="高清", 大爱旅游高清专区 
 http://10.10.1.77:7777/rtp/239.94.1.13:5140
-#EXTINF:-1 tvg-id="大爱生活高清专区" tvg-name="大爱生活高清专区" group-title="高清", 大爱生活高清专区 
+#EXTINF:-1 tvg-id="大爱生活" tvg-name="大爱生活" group-title="高清", 大爱生活高清专区 
 http://10.10.1.77:7777/rtp/239.94.1.14:5140
-#EXTINF:-1 tvg-id="大爱时尚高清专区" tvg-name="大爱时尚高清专区" group-title="高清", 大爱时尚高清专区 
+#EXTINF:-1 tvg-id="大爱时尚" tvg-name="大爱时尚" group-title="高清", 大爱时尚高清专区 
 http://10.10.1.77:7777/rtp/239.94.1.15:5140
 #EXTINF:-1 tvg-id="CETV-4" tvg-name="CETV-4" group-title="高清", CETV-4高清 
 http://10.10.1.77:7777/rtp/239.94.1.20:5140
-#EXTINF:-1 tvg-id="经典电影专区" tvg-name="经典电影专区" group-title="高清", 经典电影专区 
+#EXTINF:-1 tvg-id="经典电影" tvg-name="经典电影" group-title="高清", 经典电影专区 
 http://10.10.1.77:7777/rtp/239.94.1.21:5140
-#EXTINF:-1 tvg-id="华语影院专区" tvg-name="华语影院专区" group-title="高清", 华语影院专区 
+#EXTINF:-1 tvg-id="华语影院" tvg-name="华语影院" group-title="高清", 华语影院专区 
 http://10.10.1.77:7777/rtp/239.94.1.22:5140
-#EXTINF:-1 tvg-id="星光院线专区" tvg-name="星光院线专区" group-title="高清", 星光院线专区 
+#EXTINF:-1 tvg-id="星光院线" tvg-name="星光院线" group-title="高清", 星光院线专区 
 http://10.10.1.77:7777/rtp/239.94.1.23:5140
-#EXTINF:-1 tvg-id="全球大片专区" tvg-name="全球大片专区" group-title="高清", 全球大片专区 
+#EXTINF:-1 tvg-id="全球大片" tvg-name="全球大片" group-title="高清", 全球大片专区 
 http://10.10.1.77:7777/rtp/239.94.1.24:5140
-#EXTINF:-1 tvg-id="热播剧场专区" tvg-name="热播剧场专区" group-title="高清", 热播剧场专区 
+#EXTINF:-1 tvg-id="热播剧场" tvg-name="热播剧场" group-title="高清", 热播剧场专区 
 http://10.10.1.77:7777/rtp/239.94.1.25:5140
-#EXTINF:-1 tvg-id="热门剧场专区" tvg-name="热门剧场专区" group-title="高清", 热门剧场专区 
+#EXTINF:-1 tvg-id="热门剧场" tvg-name="热门剧场" group-title="高清", 热门剧场专区 
 http://10.10.1.77:7777/rtp/239.94.1.26:5140
-#EXTINF:-1 tvg-id="健康养生专区" tvg-name="健康养生专区" group-title="高清", 健康养生专区 
+#EXTINF:-1 tvg-id="健康养生" tvg-name="健康养生" group-title="高清", 健康养生专区 
 http://10.10.1.77:7777/rtp/239.94.1.27:5140
-#EXTINF:-1 tvg-id="谍战剧场专区" tvg-name="谍战剧场专区" group-title="高清", 谍战剧场专区 
+#EXTINF:-1 tvg-id="谍战剧场" tvg-name="谍战剧场" group-title="高清", 谍战剧场专区 
 http://10.10.1.77:7777/rtp/239.94.1.28:5140
-#EXTINF:-1 tvg-id="宝宝动画专区" tvg-name="宝宝动画专区" group-title="高清", 宝宝动画专区 
+#EXTINF:-1 tvg-id="宝宝动画" tvg-name="宝宝动画" group-title="高清", 宝宝动画专区 
 http://10.10.1.77:7777/rtp/239.94.1.32:5140
-#EXTINF:-1 tvg-id="少儿动画高清专区" tvg-name="少儿动画高清专区" group-title="高清", 少儿动画高清专区 
+#EXTINF:-1 tvg-id="少儿动画" tvg-name="少儿动画" group-title="高清", 少儿动画高清专区 
 http://10.10.1.77:7777/rtp/239.94.1.33:5140
-#EXTINF:-1 tvg-id="青春动漫专区" tvg-name="青春动漫专区" group-title="高清", 青春动漫专区 
+#EXTINF:-1 tvg-id="青春动漫" tvg-name="青春动漫" group-title="高清", 青春动漫专区 
 http://10.10.1.77:7777/rtp/239.94.1.34:5140
-#EXTINF:-1 tvg-id="热门综艺高清专区" tvg-name="热门综艺高清专区" group-title="高清", 热门综艺高清专区 
+#EXTINF:-1 tvg-id="热门综艺" tvg-name="热门综艺" group-title="高清", 热门综艺高清专区 
 http://10.10.1.77:7777/rtp/239.94.1.35:5140
-#EXTINF:-1 tvg-id="音乐现场高清专区" tvg-name="音乐现场高清专区" group-title="高清", 音乐现场高清专区 
+#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" group-title="高清", 音乐现场高清专区 
 http://10.10.1.77:7777/rtp/239.94.1.36:5140
-#EXTINF:-1 tvg-id="戏曲精选专区" tvg-name="戏曲精选专区" group-title="高清", 戏曲精选专区 
+#EXTINF:-1 tvg-id="戏曲精选" tvg-name="戏曲精选" group-title="高清", 戏曲精选专区 
 http://10.10.1.77:7777/rtp/239.94.1.37:5140
-#EXTINF:-1 tvg-id="戏曲专区" tvg-name="戏曲专区" group-title="高清", 戏曲专区 
+#EXTINF:-1 tvg-id="戏曲" tvg-name="戏曲" group-title="高清", 戏曲专区 
 http://10.10.1.77:7777/rtp/239.94.1.38:5140
-#EXTINF:-1 tvg-id="魅力时尚高清专区" tvg-name="魅力时尚高清专区" group-title="高清", 魅力时尚高清专区 
+#EXTINF:-1 tvg-id="魅力时尚" tvg-name="魅力时尚" group-title="高清", 魅力时尚高清专区 
 http://10.10.1.77:7777/rtp/239.94.1.39:5140
-#EXTINF:-1 tvg-id="爱生活高清专区" tvg-name="爱生活高清专区" group-title="高清", 爱生活高清专区 
+#EXTINF:-1 tvg-id="爱生活" tvg-name="爱生活" group-title="高清", 爱生活高清专区 
 http://10.10.1.77:7777/rtp/239.94.1.41:5140
-#EXTINF:-1 tvg-id="百变课堂专区" tvg-name="百变课堂专区" group-title="高清", 百变课堂专区 
+#EXTINF:-1 tvg-id="百变课堂" tvg-name="百变课堂" group-title="高清", 百变课堂专区 
 http://10.10.1.77:7777/rtp/239.94.1.43:5140
-#EXTINF:-1 tvg-id="电竞天堂高清专区" tvg-name="电竞天堂高清专区" group-title="高清", 电竞天堂高清专区 
+#EXTINF:-1 tvg-id="电竞天堂" tvg-name="电竞天堂" group-title="高清", 电竞天堂高清专区 
 http://10.10.1.77:7777/rtp/239.94.1.45:5140
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" group-title="高清", 游戏风云 
 http://10.10.1.77:7777/rtp/239.94.1.46:5140
-#EXTINF:-1 tvg-id="足球高清专区" tvg-name="足球高清专区" group-title="高清", 足球高清专区 
+#EXTINF:-1 tvg-id="足球" tvg-name="足球" group-title="高清", 足球高清专区 
 http://10.10.1.77:7777/rtp/239.94.1.47:5140
-#EXTINF:-1 tvg-id="红色影院专区" tvg-name="红色影院专区" group-title="高清", 红色影院专区 
+#EXTINF:-1 tvg-id="红色影院" tvg-name="红色影院" group-title="高清", 红色影院专区 
 http://10.10.1.77:7777/rtp/239.94.1.48:5140
-#EXTINF:-1 tvg-id="经典剧场专区" tvg-name="经典剧场专区" group-title="高清", 经典剧场专区 
+#EXTINF:-1 tvg-id="经典剧场" tvg-name="经典剧场" group-title="高清", 经典剧场专区 
 http://10.10.1.77:7777/rtp/239.94.1.49:5140
-#EXTINF:-1 tvg-id="墨宝高清专区" tvg-name="墨宝高清专区" group-title="高清", 墨宝高清专区 
+#EXTINF:-1 tvg-id="墨宝" tvg-name="墨宝" group-title="高清", 墨宝高清专区 
 http://10.10.1.77:7777/rtp/239.94.1.51:5140
-#EXTINF:-1 tvg-id="军事高清专区" tvg-name="军事高清专区" group-title="高清", 军事高清专区 
+#EXTINF:-1 tvg-id="军事" tvg-name="军事" group-title="高清", 军事高清专区 
 http://10.10.1.77:7777/rtp/239.94.1.52:5140
-#EXTINF:-1 tvg-id="解密高清专区" tvg-name="解密高清专区" group-title="高清", 解密高清专区 
+#EXTINF:-1 tvg-id="解密" tvg-name="解密" group-title="高清", 解密高清专区 
 http://10.10.1.77:7777/rtp/239.94.1.53:5140
-#EXTINF:-1 tvg-id="地理高清专区" tvg-name="地理高清专区" group-title="高清", 地理高清专区 
+#EXTINF:-1 tvg-id="地理" tvg-name="地理" group-title="高清", 地理高清专区 
 http://10.10.1.77:7777/rtp/239.94.1.54:5140
-#EXTINF:-1 tvg-id="看天下精选专区" tvg-name="看天下精选专区" group-title="高清", 看天下精选专区 
+#EXTINF:-1 tvg-id="看天下精选" tvg-name="看天下精选" group-title="高清", 看天下精选专区 
 http://10.10.1.77:7777/rtp/239.94.1.68:5140
-#EXTINF:-1 tvg-id="收视指南专区" tvg-name="收视指南专区" group-title="高清", 收视指南专区 
+#EXTINF:-1 tvg-id="收视指南" tvg-name="收视指南" group-title="高清", 收视指南专区 
 http://10.10.1.77:7777/rtp/239.94.1.56:5140
-#EXTINF:-1 tvg-id="蓉城先锋专区" tvg-name="蓉城先锋专区" group-title="高清", 蓉城先锋专区 
+#EXTINF:-1 tvg-id="蓉城先锋" tvg-name="蓉城先锋" group-title="高清", 蓉城先锋专区 
 http://10.10.1.77:7777/rtp/239.94.1.57:5140
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" group-title="高清", 东方财经高清 
 http://10.10.1.77:7777/rtp/239.94.1.59:5140
-#EXTINF:-1 tvg-id="4K视界专区" tvg-name="4K视界专区" group-title="4K", 4K视界专区 
+#EXTINF:-1 tvg-id="4K视界" tvg-name="4K视界" group-title="4K", 4K视界专区 
 http://10.10.1.77:7777/rtp/239.94.1.60:5140
-#EXTINF:-1 tvg-id="4K纪实专区" tvg-name="4K纪实专区" group-title="4K", 4K纪实专区 
+#EXTINF:-1 tvg-id="4K纪实" tvg-name="4K纪实" group-title="4K", 4K纪实专区 
 http://10.10.1.77:7777/rtp/239.94.1.69:5140
-#EXTINF:-1 tvg-id="4K少儿专区" tvg-name="4K少儿专区" group-title="4K", 4K少儿专区 
+#EXTINF:-1 tvg-id="4K少儿" tvg-name="4K少儿" group-title="4K", 4K少儿专区 
 http://10.10.1.77:7777/rtp/239.94.1.70:5140
 #EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" group-title="高清", CGTN西班牙语 
 http://10.10.1.77:7777/rtp/239.94.1.65:5140
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" group-title="高清", CGTN法语 
 http://10.10.1.77:7777/rtp/239.94.1.66:5140
-#EXTINF:-1 tvg-id="爱浪漫专区" tvg-name="爱浪漫专区" group-title="高清", 爱浪漫专区 
+#EXTINF:-1 tvg-id="爱浪漫" tvg-name="爱浪漫" group-title="高清", 爱浪漫专区 
 http://10.10.1.77:7777/rtp/239.94.1.128:5140
-#EXTINF:-1 tvg-id="爱喜剧专区" tvg-name="爱喜剧专区" group-title="高清", 爱喜剧专区 
+#EXTINF:-1 tvg-id="爱喜剧" tvg-name="爱喜剧" group-title="高清", 爱喜剧专区 
 http://10.10.1.77:7777/rtp/239.94.1.129:5140
-#EXTINF:-1 tvg-id="爱奇谈专区" tvg-name="爱奇谈专区" group-title="高清", 爱奇谈专区 
+#EXTINF:-1 tvg-id="爱奇谈" tvg-name="爱奇谈" group-title="高清", 爱奇谈专区 
 http://10.10.1.77:7777/rtp/239.94.1.130:5140
-#EXTINF:-1 tvg-id="爱科幻专区" tvg-name="爱科幻专区" group-title="高清", 爱科幻专区 
+#EXTINF:-1 tvg-id="爱科幻" tvg-name="爱科幻" group-title="高清", 爱科幻专区 
 http://10.10.1.77:7777/rtp/239.94.1.131:5140
-#EXTINF:-1 tvg-id="爱院线专区" tvg-name="爱院线专区" group-title="高清", 爱院线专区 
+#EXTINF:-1 tvg-id="爱院线" tvg-name="爱院线" group-title="高清", 爱院线专区 
 http://10.10.1.77:7777/rtp/239.94.1.132:5140
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" group-title="高清", 都市剧场 
 http://10.10.1.77:7777/rtp/239.94.1.133:5140
-#EXTINF:-1 tvg-id="爱谍战专区" tvg-name="爱谍战专区" group-title="高清", 爱谍战专区 
+#EXTINF:-1 tvg-id="爱谍战" tvg-name="爱谍战" group-title="高清", 爱谍战专区 
 http://10.10.1.77:7777/rtp/239.94.1.134:5140
-#EXTINF:-1 tvg-id="爱历史专区" tvg-name="爱历史专区" group-title="高清", 爱历史专区 
+#EXTINF:-1 tvg-id="爱历史" tvg-name="爱历史" group-title="高清", 爱历史专区 
 http://10.10.1.77:7777/rtp/239.94.1.135:5140
-#EXTINF:-1 tvg-id="爱悬疑专区" tvg-name="爱悬疑专区" group-title="高清", 爱悬疑专区 
+#EXTINF:-1 tvg-id="爱悬疑" tvg-name="爱悬疑" group-title="高清", 爱悬疑专区 
 http://10.10.1.77:7777/rtp/239.94.1.136:5140
-#EXTINF:-1 tvg-id="爱旅行专区" tvg-name="爱旅行专区" group-title="高清", 爱旅行专区 
+#EXTINF:-1 tvg-id="爱旅行" tvg-name="爱旅行" group-title="高清", 爱旅行专区 
 http://10.10.1.77:7777/rtp/239.94.1.137:5140
-#EXTINF:-1 tvg-id="少儿天地专区" tvg-name="少儿天地专区" group-title="高清", 少儿天地专区 
+#EXTINF:-1 tvg-id="少儿天地" tvg-name="少儿天地" group-title="高清", 少儿天地专区 
 http://10.10.1.77:7777/rtp/239.94.1.138:5140
-#EXTINF:-1 tvg-id="爱幼教专区" tvg-name="爱幼教专区" group-title="高清", 爱幼教专区 
+#EXTINF:-1 tvg-id="爱幼教" tvg-name="爱幼教" group-title="高清", 爱幼教专区 
 http://10.10.1.77:7777/rtp/239.94.1.139:5140
-#EXTINF:-1 tvg-id="爱玩具专区" tvg-name="爱玩具专区" group-title="高清", 爱玩具专区 
+#EXTINF:-1 tvg-id="爱玩具" tvg-name="爱玩具" group-title="高清", 爱玩具专区 
 http://10.10.1.77:7777/rtp/239.94.1.140:5140
-#EXTINF:-1 tvg-id="爱动漫专区" tvg-name="爱动漫专区" group-title="高清", 爱动漫专区 
+#EXTINF:-1 tvg-id="爱动漫" tvg-name="爱动漫" group-title="高清", 爱动漫专区 
 http://10.10.1.77:7777/rtp/239.94.1.141:5140
 #EXTINF:-1 tvg-id="求索频道" tvg-name="求索频道" group-title="高清", 求索频道高清 
 http://10.10.1.77:7777/rtp/239.94.1.142:5140
-#EXTINF:-1 tvg-id="爱体育专区" tvg-name="爱体育专区" group-title="高清", 爱体育专区 
+#EXTINF:-1 tvg-id="爱体育" tvg-name="爱体育" group-title="高清", 爱体育专区 
 http://10.10.1.77:7777/rtp/239.94.1.143:5140
-#EXTINF:-1 tvg-id="爱赛车专区" tvg-name="爱赛车专区" group-title="高清", 爱赛车专区 
+#EXTINF:-1 tvg-id="爱赛车" tvg-name="爱赛车" group-title="高清", 爱赛车专区 
 http://10.10.1.77:7777/rtp/239.94.1.144:5140
-#EXTINF:-1 tvg-id="爱宠宠物专区" tvg-name="爱宠宠物专区" group-title="高清", 爱宠宠物专区 
+#EXTINF:-1 tvg-id="爱宠宠物" tvg-name="爱宠宠物" group-title="高清", 爱宠宠物专区 
 http://10.10.1.77:7777/rtp/239.94.1.145:5140
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" group-title="高清", 生活时尚 
 http://10.10.1.77:7777/rtp/239.94.1.146:5140
 #EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" group-title="高清", 环球旅游 
 http://10.10.1.77:7777/rtp/239.94.1.147:5140
-#EXTINF:-1 tvg-id="来钓鱼吧专区" tvg-name="来钓鱼吧专区" group-title="高清", 来钓鱼吧专区 
+#EXTINF:-1 tvg-id="来钓鱼吧" tvg-name="来钓鱼吧" group-title="高清", 来钓鱼吧专区 
 http://10.10.1.77:7777/rtp/239.94.1.148:5140
-#EXTINF:-1 tvg-id="麻辣体育专区" tvg-name="麻辣体育专区" group-title="高清", 麻辣体育专区 
+#EXTINF:-1 tvg-id="麻辣体育" tvg-name="麻辣体育" group-title="高清", 麻辣体育专区 
 http://10.10.1.77:7777/rtp/239.94.1.149:5140
-#EXTINF:-1 tvg-id="绚影4K专区" tvg-name="绚影4K专区" group-title="4K", 绚影4K专区 
+#EXTINF:-1 tvg-id="绚影4K" tvg-name="绚影4K" group-title="4K", 绚影4K专区 
 http://10.10.1.77:7777/rtp/239.94.1.150:5140
 #EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" group-title="高清", 天元围棋 
 http://10.10.1.77:7777/rtp/239.94.1.152:5140
@@ -307,11 +307,11 @@ http://10.10.1.77:7777/rtp/239.94.1.152:5140
 http://10.10.1.77:7777/rtp/239.94.1.153:5140
 #EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" group-title="高清", 茶频道 
 http://10.10.1.77:7777/rtp/239.94.1.154:5140
-#EXTINF:-1 tvg-id="乐龄学堂专区" tvg-name="乐龄学堂专区" group-title="高清", 乐龄学堂专区 
+#EXTINF:-1 tvg-id="乐龄学堂" tvg-name="乐龄学堂" group-title="高清", 乐龄学堂专区 
 http://10.10.1.77:7777/rtp/239.94.1.155:5140
-#EXTINF:-1 tvg-id="亲子趣学4k专区" tvg-name="亲子趣学4k专区" group-title="4K", 亲子趣学4k专区 
+#EXTINF:-1 tvg-id="亲子趣学4k" tvg-name="亲子趣学4k" group-title="4K", 亲子趣学4k专区 
 http://10.10.1.77:7777/rtp/239.94.1.156:5140
-#EXTINF:-1 tvg-id="4K乐享超清专区" tvg-name="4K乐享超清专区" group-title="4K", 4K乐享超清专区 
+#EXTINF:-1 tvg-id="4K乐享超清" tvg-name="4K乐享超清" group-title="4K", 4K乐享超清专区 
 http://10.10.1.77:7777/rtp/239.94.1.162:5140
 #EXTINF:-1 tvg-id="乐游" tvg-name="乐游" group-title="高清", 乐游 
 http://10.10.1.77:7777/rtp/239.94.1.164:5140
@@ -341,7 +341,7 @@ http://10.10.1.77:7777/rtp/239.94.0.111:5140
 http://10.10.1.77:7777/rtp/239.94.2.1:5140
 #EXTINF:-1 tvg-id="爱乐山" tvg-name="爱乐山" group-title="高清", 爱乐山 
 http://10.10.1.77:7777/rtp/239.94.2.2:5140
-#EXTINF:-1 tvg-id="精彩推荐专区" tvg-name="精彩推荐专区" group-title="高清", 精彩推荐专区 
+#EXTINF:-1 tvg-id="精彩推荐" tvg-name="精彩推荐" group-title="高清", 精彩推荐专区 
 http://10.10.1.77:7777/rtp/239.94.2.10:5140
 #EXTINF:-1 tvg-id="红原日干乔" tvg-name="红原日干乔" group-title="高清", 红原日干乔 
 http://10.10.1.77:7777/rtp/239.94.2.19:5140

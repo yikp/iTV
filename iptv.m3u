@@ -2,6 +2,7 @@
 #EXT-X-APP
 #EXT-X-APTV-TYPE
 #EXT-X-SUB-URL https://raw.githubusercontent.com/yikp/iTV/main/iptv.m3u
+#EXT-X-GENERATED-TIME: 2026-02-27 07:39:22
 
 #EXTINF:-1 tvg-id="cctv1" tvg-name="cctv1" group-title="高清", CCTV-1高清 
 http://10.10.1.77:7777/rtp/239.94.0.31:5140

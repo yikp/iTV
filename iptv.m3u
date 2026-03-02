@@ -2,7 +2,7 @@
 #EXT-X-APP
 #EXT-X-APTV-TYPE
 #EXT-X-SUB-URL https://raw.githubusercontent.com/yikp/iTV/main/iptv.m3u
-#EXT-X-GENERATED-TIME: 2026-02-27 07:39:22
+#EXT-X-GENERATED-TIME: 2026-03-02 01:13:10
 
 #EXTINF:-1 tvg-id="cctv1" tvg-name="cctv1" group-title="高清", CCTV-1高清 
 http://10.10.1.77:7777/rtp/239.94.0.31:5140
@@ -146,8 +146,8 @@ http://10.10.1.77:7777/rtp/239.94.0.101:5140
 http://10.10.1.77:7777/rtp/239.94.0.102:5140
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" group-title="高清", 北京纪实科教高清 
 http://10.10.1.77:7777/rtp/239.94.0.109:5140
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="高清", 重庆卫视高清 
-http://10.10.1.77:7777/rtp/239.94.0.82:5140
+#EXTINF:-1 tvg-id="CDTV-3" tvg-name="CDTV-3" group-title="高清", CDTV-3高清 
+http://10.10.1.77:7777/rtp/239.94.0.156:5140
 #EXTINF:-1 tvg-id="CDTV-4" tvg-name="CDTV-4" group-title="高清", CDTV-4高清 
 http://10.10.1.77:7777/rtp/239.94.0.157:5140
 #EXTINF:-1 tvg-id="CDTV-5" tvg-name="CDTV-5" group-title="高清", CDTV-5高清 

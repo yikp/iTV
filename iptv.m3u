@@ -2,7 +2,7 @@
 #EXT-X-APP
 #EXT-X-APTV-TYPE
 #EXT-X-SUB-URL https://raw.githubusercontent.com/yikp/iTV/main/iptv.m3u
-#EXT-X-GENERATED-TIME: 2026-03-02 01:13:10
+#EXT-X-GENERATED-TIME: 2026-03-09 01:14:10
 
 #EXTINF:-1 tvg-id="cctv1" tvg-name="cctv1" group-title="高清", CCTV-1高清 
 http://10.10.1.77:7777/rtp/239.94.0.31:5140
@@ -142,10 +142,12 @@ http://10.10.1.77:7777/rtp/239.94.0.98:5140
 http://10.10.1.77:7777/rtp/239.94.0.99:5140
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="高清", 辽宁卫视高清 
 http://10.10.1.77:7777/rtp/239.94.0.101:5140
-#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" group-title="高清", 兵团卫视高清 
-http://10.10.1.77:7777/rtp/239.94.0.102:5140
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" group-title="高清", 北京纪实科教高清 
 http://10.10.1.77:7777/rtp/239.94.0.109:5140
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="高清", 重庆卫视高清 
+http://10.10.1.77:7777/rtp/239.94.0.82:5140
+#EXTINF:-1 tvg-id="CDTV-2" tvg-name="CDTV-2" group-title="高清", CDTV-2高清 
+http://10.10.1.77:7777/rtp/239.94.0.155:5140
 #EXTINF:-1 tvg-id="CDTV-3" tvg-name="CDTV-3" group-title="高清", CDTV-3高清 
 http://10.10.1.77:7777/rtp/239.94.0.156:5140
 #EXTINF:-1 tvg-id="CDTV-4" tvg-name="CDTV-4" group-title="高清", CDTV-4高清 
@@ -248,8 +250,6 @@ http://10.10.1.77:7777/rtp/239.94.1.57:5140
 http://10.10.1.77:7777/rtp/239.94.1.59:5140
 #EXTINF:-1 tvg-id="4K视界" tvg-name="4K视界" group-title="4K", 4K视界专区 
 http://10.10.1.77:7777/rtp/239.94.1.60:5140
-#EXTINF:-1 tvg-id="4K纪实" tvg-name="4K纪实" group-title="4K", 4K纪实专区 
-http://10.10.1.77:7777/rtp/239.94.1.69:5140
 #EXTINF:-1 tvg-id="4K少儿" tvg-name="4K少儿" group-title="4K", 4K少儿专区 
 http://10.10.1.77:7777/rtp/239.94.1.70:5140
 #EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" group-title="高清", CGTN西班牙语 

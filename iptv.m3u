@@ -2,7 +2,7 @@
 #EXT-X-APP
 #EXT-X-APTV-TYPE
 #EXT-X-SUB-URL https://raw.githubusercontent.com/yikp/iTV/main/iptv.m3u
-#EXT-X-GENERATED-TIME: 2026-03-16 01:22:55
+#EXT-X-GENERATED-TIME: 2026-03-23 01:18:28
 
 #EXTINF:-1 tvg-id="cctv1" tvg-name="cctv1" group-title="高清", CCTV-1高清 
 http://10.10.1.77:7777/rtp/239.94.0.31:5140
@@ -252,8 +252,6 @@ http://10.10.1.77:7777/rtp/239.94.1.57:5140
 http://10.10.1.77:7777/rtp/239.94.1.59:5140
 #EXTINF:-1 tvg-id="4K视界" tvg-name="4K视界" group-title="4K", 4K视界专区 
 http://10.10.1.77:7777/rtp/239.94.1.60:5140
-#EXTINF:-1 tvg-id="4K纪实" tvg-name="4K纪实" group-title="4K", 4K纪实专区 
-http://10.10.1.77:7777/rtp/239.94.1.69:5140
 #EXTINF:-1 tvg-id="4K少儿" tvg-name="4K少儿" group-title="4K", 4K少儿专区 
 http://10.10.1.77:7777/rtp/239.94.1.70:5140
 #EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" group-title="高清", CGTN西班牙语 

@@ -2,7 +2,7 @@
 #EXT-X-APP
 #EXT-X-APTV-TYPE
 #EXT-X-SUB-URL https://raw.githubusercontent.com/yikp/iTV/main/iptv.m3u
-#EXT-X-GENERATED-TIME: 2026-03-23 01:18:28
+#EXT-X-GENERATED-TIME: 2026-03-30 01:25:51
 
 #EXTINF:-1 tvg-id="cctv1" tvg-name="cctv1" group-title="高清", CCTV-1高清 
 http://10.10.1.77:7777/rtp/239.94.0.31:5140
@@ -208,8 +208,6 @@ http://10.10.1.77:7777/rtp/239.94.1.28:5140
 http://10.10.1.77:7777/rtp/239.94.1.32:5140
 #EXTINF:-1 tvg-id="少儿动画" tvg-name="少儿动画" group-title="高清", 少儿动画高清专区 
 http://10.10.1.77:7777/rtp/239.94.1.33:5140
-#EXTINF:-1 tvg-id="青春动漫" tvg-name="青春动漫" group-title="高清", 青春动漫专区 
-http://10.10.1.77:7777/rtp/239.94.1.34:5140
 #EXTINF:-1 tvg-id="热门综艺" tvg-name="热门综艺" group-title="高清", 热门综艺高清专区 
 http://10.10.1.77:7777/rtp/239.94.1.35:5140
 #EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" group-title="高清", 音乐现场高清专区 
@@ -252,6 +250,8 @@ http://10.10.1.77:7777/rtp/239.94.1.57:5140
 http://10.10.1.77:7777/rtp/239.94.1.59:5140
 #EXTINF:-1 tvg-id="4K视界" tvg-name="4K视界" group-title="4K", 4K视界专区 
 http://10.10.1.77:7777/rtp/239.94.1.60:5140
+#EXTINF:-1 tvg-id="4K纪实" tvg-name="4K纪实" group-title="4K", 4K纪实专区 
+http://10.10.1.77:7777/rtp/239.94.1.69:5140
 #EXTINF:-1 tvg-id="4K少儿" tvg-name="4K少儿" group-title="4K", 4K少儿专区 
 http://10.10.1.77:7777/rtp/239.94.1.70:5140
 #EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" group-title="高清", CGTN西班牙语 
@@ -270,8 +270,6 @@ http://10.10.1.77:7777/rtp/239.94.1.131:5140
 http://10.10.1.77:7777/rtp/239.94.1.132:5140
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" group-title="高清", 都市剧场 
 http://10.10.1.77:7777/rtp/239.94.1.133:5140
-#EXTINF:-1 tvg-id="爱谍战" tvg-name="爱谍战" group-title="高清", 爱谍战专区 
-http://10.10.1.77:7777/rtp/239.94.1.134:5140
 #EXTINF:-1 tvg-id="爱历史" tvg-name="爱历史" group-title="高清", 爱历史专区 
 http://10.10.1.77:7777/rtp/239.94.1.135:5140
 #EXTINF:-1 tvg-id="爱悬疑" tvg-name="爱悬疑" group-title="高清", 爱悬疑专区 

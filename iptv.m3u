@@ -2,7 +2,7 @@
 #EXT-X-APP
 #EXT-X-APTV-TYPE
 #EXT-X-SUB-URL https://raw.githubusercontent.com/yikp/iTV/main/iptv.m3u
-#EXT-X-GENERATED-TIME: 2026-04-20 01:48:24
+#EXT-X-GENERATED-TIME: 2026-04-27 01:52:00
 
 #EXTINF:-1 tvg-id="cctv1" tvg-name="cctv1" group-title="高清", CCTV-1高清 
 http://10.10.1.77:7777/rtp/239.94.0.31:5140
@@ -258,6 +258,12 @@ http://10.10.1.77:7777/rtp/239.94.1.70:5140
 http://10.10.1.77:7777/rtp/239.94.1.65:5140
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" group-title="高清", CGTN法语 
 http://10.10.1.77:7777/rtp/239.94.1.66:5140
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" group-title="高清", CGTN纪录 
+http://10.10.1.77:7777/rtp/239.94.2.141:5140
+#EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" group-title="高清", CGTN阿拉伯语 
+http://10.10.1.77:7777/rtp/239.94.2.144:5140
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" group-title="高清", CGTN俄语 
+http://10.10.1.77:7777/rtp/239.94.2.145:5140
 #EXTINF:-1 tvg-id="爱浪漫" tvg-name="爱浪漫" group-title="高清", 爱浪漫专区 
 http://10.10.1.77:7777/rtp/239.94.1.128:5140
 #EXTINF:-1 tvg-id="爱喜剧" tvg-name="爱喜剧" group-title="高清", 爱喜剧专区 
@@ -304,16 +310,16 @@ http://10.10.1.77:7777/rtp/239.94.1.148:5140
 http://10.10.1.77:7777/rtp/239.94.1.149:5140
 #EXTINF:-1 tvg-id="绚影4K" tvg-name="绚影4K" group-title="4K", 绚影4K专区 
 http://10.10.1.77:7777/rtp/239.94.1.150:5140
-#EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" group-title="高清", 天元围棋 
-http://10.10.1.77:7777/rtp/239.94.1.152:5140
-#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" group-title="高清", 快乐垂钓 
-http://10.10.1.77:7777/rtp/239.94.1.153:5140
 #EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" group-title="高清", 茶频道 
 http://10.10.1.77:7777/rtp/239.94.1.154:5140
-#EXTINF:-1 tvg-id="亲子趣学4k" tvg-name="亲子趣学4k" group-title="4K", 亲子趣学4k专区 
-http://10.10.1.77:7777/rtp/239.94.1.156:5140
+#EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" group-title="高清", 天元围棋 
+http://10.10.1.77:7777/rtp/239.94.1.152:5140
 #EXTINF:-1 tvg-id="乐龄学堂" tvg-name="乐龄学堂" group-title="高清", 乐龄学堂专区 
 http://10.10.1.77:7777/rtp/239.94.1.155:5140
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" group-title="高清", 快乐垂钓 
+http://10.10.1.77:7777/rtp/239.94.1.153:5140
+#EXTINF:-1 tvg-id="亲子趣学4k" tvg-name="亲子趣学4k" group-title="4K", 亲子趣学4k专区 
+http://10.10.1.77:7777/rtp/239.94.1.156:5140
 #EXTINF:-1 tvg-id="4K乐享超清" tvg-name="4K乐享超清" group-title="4K", 4K乐享超清专区 
 http://10.10.1.77:7777/rtp/239.94.1.162:5140
 #EXTINF:-1 tvg-id="乐游" tvg-name="乐游" group-title="高清", 乐游 
@@ -334,14 +340,14 @@ http://10.10.1.77:7777/rtp/239.94.1.172:5140
 http://10.10.1.77:7777/rtp/239.94.1.173:5140
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" group-title="高清", CHC影迷电影 
 http://10.10.1.77:7777/rtp/239.94.1.174:5140
+#EXTINF:-1 tvg-id="欢笑剧场4K" tvg-name="欢笑剧场4K" group-title="4K", 欢笑剧场4K 
+http://10.10.1.77:7777/rtp/239.94.1.176:5140
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" group-title="高清", CHC动作电影 
 http://10.10.1.77:7777/rtp/239.94.1.175:5140
 #EXTINF:-1 tvg-id="多彩文体4K" tvg-name="多彩文体4K" group-title="4K", 多彩文体4K 
 http://10.10.1.77:7777/rtp/239.94.1.176:5140
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" group-title="4K", 北京卫视4K 
 http://10.10.1.77:7777/rtp/239.94.0.111:5140
-#EXTINF:-1 tvg-id="欢笑剧场4K" tvg-name="欢笑剧场4K" group-title="4K", 欢笑剧场4K 
-http://10.10.1.77:7777/rtp/239.94.1.176:5140
 #EXTINF:-1 tvg-id="i成都" tvg-name="i成都" group-title="高清", i成都 
 http://10.10.1.77:7777/rtp/239.94.2.1:5140
 #EXTINF:-1 tvg-id="爱乐山" tvg-name="爱乐山" group-title="高清", 爱乐山 

@@ -2,7 +2,7 @@
 #EXT-X-APP
 #EXT-X-APTV-TYPE
 #EXT-X-SUB-URL https://raw.githubusercontent.com/yikp/iTV/main/iptv.m3u
-#EXT-X-GENERATED-TIME: 2026-05-11 02:08:03
+#EXT-X-GENERATED-TIME: 2026-05-18 02:27:06
 
 #EXTINF:-1 tvg-id="cctv1" tvg-name="cctv1" group-title="高清", CCTV-1高清 
 http://10.10.1.77:7777/rtp/239.94.0.31:5140
@@ -156,6 +156,8 @@ http://10.10.1.77:7777/rtp/239.94.0.156:5140
 http://10.10.1.77:7777/rtp/239.94.0.157:5140
 #EXTINF:-1 tvg-id="CDTV-5" tvg-name="CDTV-5" group-title="高清", CDTV-5高清 
 http://10.10.1.77:7777/rtp/239.94.0.158:5140
+#EXTINF:-1 tvg-id="CDTV-6" tvg-name="CDTV-6" group-title="高清", CDTV-6高清 
+http://10.10.1.77:7777/rtp/239.94.0.159:5140
 #EXTINF:-1 tvg-id="CDTV-8" tvg-name="CDTV-8" group-title="高清", CDTV-8高清 
 http://10.10.1.77:7777/rtp/239.94.0.160:5140
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" group-title="高清", 金鹰纪实高清 
@@ -272,8 +274,6 @@ http://10.10.1.77:7777/rtp/239.94.1.129:5140
 http://10.10.1.77:7777/rtp/239.94.1.130:5140
 #EXTINF:-1 tvg-id="爱科幻" tvg-name="爱科幻" group-title="高清", 爱科幻专区 
 http://10.10.1.77:7777/rtp/239.94.1.131:5140
-#EXTINF:-1 tvg-id="爱院线" tvg-name="爱院线" group-title="高清", 爱院线专区 
-http://10.10.1.77:7777/rtp/239.94.1.132:5140
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" group-title="高清", 都市剧场 
 http://10.10.1.77:7777/rtp/239.94.1.133:5140
 #EXTINF:-1 tvg-id="爱谍战" tvg-name="爱谍战" group-title="高清", 爱谍战专区 
@@ -282,6 +282,8 @@ http://10.10.1.77:7777/rtp/239.94.1.134:5140
 http://10.10.1.77:7777/rtp/239.94.1.135:5140
 #EXTINF:-1 tvg-id="爱悬疑" tvg-name="爱悬疑" group-title="高清", 爱悬疑专区 
 http://10.10.1.77:7777/rtp/239.94.1.136:5140
+#EXTINF:-1 tvg-id="爱旅行" tvg-name="爱旅行" group-title="高清", 爱旅行专区 
+http://10.10.1.77:7777/rtp/239.94.1.137:5140
 #EXTINF:-1 tvg-id="少儿天地" tvg-name="少儿天地" group-title="高清", 少儿天地专区 
 http://10.10.1.77:7777/rtp/239.94.1.138:5140
 #EXTINF:-1 tvg-id="爱幼教" tvg-name="爱幼教" group-title="高清", 爱幼教专区 
@@ -306,8 +308,6 @@ http://10.10.1.77:7777/rtp/239.94.1.147:5140
 http://10.10.1.77:7777/rtp/239.94.1.148:5140
 #EXTINF:-1 tvg-id="麻辣体育" tvg-name="麻辣体育" group-title="高清", 麻辣体育专区 
 http://10.10.1.77:7777/rtp/239.94.1.149:5140
-#EXTINF:-1 tvg-id="绚影4K" tvg-name="绚影4K" group-title="4K", 绚影4K专区 
-http://10.10.1.77:7777/rtp/239.94.1.150:5140
 #EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" group-title="高清", 茶频道 
 http://10.10.1.77:7777/rtp/239.94.1.154:5140
 #EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" group-title="高清", 天元围棋 

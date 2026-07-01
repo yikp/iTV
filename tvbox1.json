@@ -1,9 +1,6 @@
 {
   "spider": "./jar/spider.jar;md5;5a5c64f87f0b0066919fa9b499912e4e",
   "lives": [
-    {"name": "migu","type": 0,"url": "https://develop202.github.io/migu_video/interface.txt","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"},
-    {"name": "live","type": 0,"url": "https://epg.pw/test_channels.m3u","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"},
-    {"name": "ipv6","type": 0,"url": "./tvboxtv.txt","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"}
   ],
   "wallpaper": "https://jianbian.chuqiuyu.workers.dev",
   "sites": [
@@ -41,10 +38,10 @@
     {"key": "push_agent","name": "手机｜推送","type": 3,"api": "csp_Push","searchable": 0,"filterable": 0,"changeable": 0},
     {"key": "應用商店","name": "應用商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "./json/market.json","jar": "./jar/pg.jar"},
     {"key": "bb","name": "配置接口完全免费","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/drpy.js"},
-    {"key": "cc","name": "请勿相信视频中任何广告","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/drpy.js"}
-    {"key": "dd","name": "接口来源","type": 3,"api": ".https://raw.githubusercontent.com/qist/tvbox/master/jsm.json","ext": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json"}
+    {"key": "来源","name": "接口来源地址","type": 3,"api": "","ext": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json"}
   ],
   "parses": [
+    {"name": "Json聚合","type": 3,"url": "Demo"}
   ],
   "hosts": ["cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com", "cache.ott.bestlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com", "cache.ott.wasulive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com", "cache.ott.fifalive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com", "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"],
   "flags": ["youku", "优酷", "优 酷", "优酷视频", "qq", "腾讯", "腾 讯", "腾讯视频", "iqiyi", "qiyi", "奇艺", "爱奇艺", "爱 奇 艺", "m1905", "xigua", "letv", "leshi", "乐视", "乐 视", "sohu", "搜狐", "搜 狐", "搜狐视频", "tudou", "mgtv", "芒果", "imgo", "芒果TV", "芒 果 T V", "bilibili", "哔 哩", "哔 哩 哔 哩", "SPA", "YuMi-vip", "pptv", "PPTV", "ltnb", "rx", "SLYS4k", "tucheng", "BYGA", "luanzi", "dxzy", "QEYSS", "aliyun", "AliS", "122", "chuangying", "CL4K", "xfyun", "wuduzy", "wasu", "renrenmi", "ppayun", "haiwaikan", "cool", "dbm3u8", "xmm", "funshion", "ruyi1080", "ruyib1080"],

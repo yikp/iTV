@@ -26,7 +26,7 @@
     {"key": "瓜子影视","name": "瓜子 • 影视","type": 3,"api": "csp_Gz360"},
     {"key": "荐片","name": "荐片 • 磁力","api": "csp_JianPian","type": 3},
     {"key": "push_agent","name": "手机｜推送","type": 3,"api": "csp_Push","searchable": 0,"filterable": 0,"changeable": 0},
-    {"key": "應用商店","name": "應用商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://github.com/qist/tvbox/raw/master/json/market.json","jar": "https://github.com/qist/tvbox/raw/master/jar/pg.jar"},
+    {"key": "應用商店","name": "應用商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://github.com/qist/tvbox/raw/master/json/market.json","jar": "https://github.com/qist/tvbox/raw/master/jar/pg.jar"}
   ],
   "parses": [
     {"name": "Json聚合","type": 3,"url": "Demo"}

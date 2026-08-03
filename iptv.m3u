@@ -2,7 +2,7 @@
 #EXT-X-APP
 #EXT-X-APTV-TYPE
 #EXT-X-SUB-URL https://raw.githubusercontent.com/yikp/iTV/main/iptv.m3u
-#EXT-X-GENERATED-TIME: 2026-07-27 01:57:49
+#EXT-X-GENERATED-TIME: 2026-08-03 01:51:40
 
 #EXTINF:-1 tvg-id="cctv1" tvg-name="cctv1" group-title="高清", CCTV-1高清 
 http://10.10.1.77:7777/rtp/239.94.0.31:5140
@@ -150,6 +150,8 @@ http://10.10.1.77:7777/rtp/239.94.0.109:5140
 http://10.10.1.77:7777/rtp/239.94.0.82:5140
 #EXTINF:-1 tvg-id="CDTV-2" tvg-name="CDTV-2" group-title="高清", CDTV-2高清 
 http://10.10.1.77:7777/rtp/239.94.0.155:5140
+#EXTINF:-1 tvg-id="CDTV-3" tvg-name="CDTV-3" group-title="高清", CDTV-3高清 
+http://10.10.1.77:7777/rtp/239.94.0.156:5140
 #EXTINF:-1 tvg-id="CDTV-4" tvg-name="CDTV-4" group-title="高清", CDTV-4高清 
 http://10.10.1.77:7777/rtp/239.94.0.157:5140
 #EXTINF:-1 tvg-id="CDTV-5" tvg-name="CDTV-5" group-title="高清", CDTV-5高清 
@@ -308,8 +310,6 @@ http://10.10.1.77:7777/rtp/239.94.1.147:5140
 http://10.10.1.77:7777/rtp/239.94.1.148:5140
 #EXTINF:-1 tvg-id="麻辣体育" tvg-name="麻辣体育" group-title="高清", 麻辣体育专区 
 http://10.10.1.77:7777/rtp/239.94.1.149:5140
-#EXTINF:-1 tvg-id="绚影4K" tvg-name="绚影4K" group-title="4K", 绚影4K专区 
-http://10.10.1.77:7777/rtp/239.94.1.150:5140
 #EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" group-title="高清", 茶频道 
 http://10.10.1.77:7777/rtp/239.94.1.154:5140
 #EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" group-title="高清", 天元围棋 

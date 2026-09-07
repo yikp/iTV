@@ -2,7 +2,7 @@
 #EXT-X-APP
 #EXT-X-APTV-TYPE
 #EXT-X-SUB-URL https://raw.githubusercontent.com/yikp/iTV/main/iptv.m3u
-#EXT-X-GENERATED-TIME: 2026-08-31 02:19:34
+#EXT-X-GENERATED-TIME: 2026-09-07 01:52:16
 
 #EXTINF:-1 tvg-id="cctv1" tvg-name="cctv1" group-title="高清", CCTV-1高清 
 http://10.10.1.77:7777/rtp/239.94.0.31:5140
@@ -274,6 +274,8 @@ http://10.10.1.77:7777/rtp/239.94.1.129:5140
 http://10.10.1.77:7777/rtp/239.94.1.130:5140
 #EXTINF:-1 tvg-id="爱科幻" tvg-name="爱科幻" group-title="高清", 爱科幻专区 
 http://10.10.1.77:7777/rtp/239.94.1.131:5140
+#EXTINF:-1 tvg-id="爱院线" tvg-name="爱院线" group-title="高清", 爱院线专区 
+http://10.10.1.77:7777/rtp/239.94.1.132:5140
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" group-title="高清", 都市剧场 
 http://10.10.1.77:7777/rtp/239.94.1.133:5140
 #EXTINF:-1 tvg-id="爱谍战" tvg-name="爱谍战" group-title="高清", 爱谍战专区 

@@ -2,7 +2,7 @@
 #EXT-X-APP
 #EXT-X-APTV-TYPE
 #EXT-X-SUB-URL https://raw.githubusercontent.com/yikp/iTV/main/iptv.m3u
-#EXT-X-GENERATED-TIME: 2026-09-07 01:52:16
+#EXT-X-GENERATED-TIME: 2026-09-14 02:21:41
 
 #EXTINF:-1 tvg-id="cctv1" tvg-name="cctv1" group-title="高清", CCTV-1高清 
 http://10.10.1.77:7777/rtp/239.94.0.31:5140
@@ -50,22 +50,6 @@ http://10.10.1.77:7777/rtp/239.94.0.40:5140
 http://10.10.1.77:7777/rtp/239.94.0.23:5140
 #EXTINF:-1 tvg-id="精彩导视" tvg-name="精彩导视" group-title="高清", 精彩导视 
 http://10.10.1.77:7777/rtp/239.94.1.63:5140
-#EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视4K" group-title="4K", 四川卫视4K 
-http://10.10.1.77:7777/rtp/239.94.0.115:5140
-#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" group-title="4K", 湖南卫视4K 
-http://10.10.1.77:7777/rtp/239.94.0.116:5140
-#EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视4K" group-title="4K", 江苏卫视4K 
-http://10.10.1.77:7777/rtp/239.94.0.117:5140
-#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" group-title="4K", 浙江卫视4K 
-http://10.10.1.77:7777/rtp/239.94.0.118:5140
-#EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视4K" group-title="4K", 东方卫视4K 
-http://10.10.1.77:7777/rtp/239.94.0.119:5140
-#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" group-title="4K", 深圳卫视4K 
-http://10.10.1.77:7777/rtp/239.94.0.113:5140
-#EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视4K" group-title="4K", 广东卫视4K 
-http://10.10.1.77:7777/rtp/239.94.0.114:5140
-#EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视4K" group-title="4K", 山东卫视4K 
-http://10.10.1.77:7777/rtp/239.94.0.120:5140
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="高清", 湖南卫视高清 
 http://10.10.1.77:7777/rtp/239.94.0.61:5140
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="高清", 江苏卫视高清 
@@ -146,10 +130,6 @@ http://10.10.1.77:7777/rtp/239.94.0.101:5140
 http://10.10.1.77:7777/rtp/239.94.0.102:5140
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" group-title="高清", 北京纪实科教高清 
 http://10.10.1.77:7777/rtp/239.94.0.109:5140
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="高清", 重庆卫视高清 
-http://10.10.1.77:7777/rtp/239.94.0.82:5140
-#EXTINF:-1 tvg-id="CDTV-2" tvg-name="CDTV-2" group-title="高清", CDTV-2高清 
-http://10.10.1.77:7777/rtp/239.94.0.165:5140
 #EXTINF:-1 tvg-id="CDTV-3" tvg-name="CDTV-3" group-title="高清", CDTV-3高清 
 http://10.10.1.77:7777/rtp/239.94.0.174:5140
 #EXTINF:-1 tvg-id="CDTV-4" tvg-name="CDTV-4" group-title="高清", CDTV-4高清 
@@ -348,8 +328,24 @@ http://10.10.1.77:7777/rtp/239.94.1.176:5140
 http://10.10.1.77:7777/rtp/239.94.1.175:5140
 #EXTINF:-1 tvg-id="多彩文体4K" tvg-name="多彩文体4K" group-title="4K", 多彩文体4K 
 http://10.10.1.77:7777/rtp/239.94.1.176:5140
+#EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视4K" group-title="4K", 四川卫视4K 
+http://10.10.1.77:7777/rtp/239.94.0.121:5140
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" group-title="4K", 北京卫视4K 
 http://10.10.1.77:7777/rtp/239.94.0.111:5140
+#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" group-title="4K", 湖南卫视4K 
+http://10.10.1.77:7777/rtp/239.94.0.122:5140
+#EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视4K" group-title="4K", 江苏卫视4K 
+http://10.10.1.77:7777/rtp/239.94.0.123:5140
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" group-title="4K", 浙江卫视4K 
+http://10.10.1.77:7777/rtp/239.94.0.124:5140
+#EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视4K" group-title="4K", 东方卫视4K 
+http://10.10.1.77:7777/rtp/239.94.0.125:5140
+#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" group-title="4K", 深圳卫视4K 
+http://10.10.1.77:7777/rtp/239.94.0.126:5140
+#EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视4K" group-title="4K", 广东卫视4K 
+http://10.10.1.77:7777/rtp/239.94.0.127:5140
+#EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视4K" group-title="4K", 山东卫视4K 
+http://10.10.1.77:7777/rtp/239.94.0.128:5140
 #EXTINF:-1 tvg-id="i成都" tvg-name="i成都" group-title="高清", i成都 
 http://10.10.1.77:7777/rtp/239.94.2.1:5140
 #EXTINF:-1 tvg-id="爱乐山" tvg-name="爱乐山" group-title="高清", 爱乐山 

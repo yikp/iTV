@@ -2,7 +2,7 @@
 #EXT-X-APP
 #EXT-X-APTV-TYPE
 #EXT-X-SUB-URL https://raw.githubusercontent.com/yikp/iTV/main/iptv.m3u
-#EXT-X-GENERATED-TIME: 2026-09-21 02:20:39
+#EXT-X-GENERATED-TIME: 2026-09-28 02:34:04
 
 #EXTINF:-1 tvg-id="cctv1" tvg-name="cctv1" group-title="高清", CCTV-1高清 
 http://10.10.1.77:7777/rtp/239.94.0.31:5140
@@ -62,8 +62,6 @@ http://10.10.1.77:7777/rtp/239.94.0.63:5140
 http://10.10.1.77:7777/rtp/239.94.0.64:5140
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="高清", 北京卫视高清 
 http://10.10.1.77:7777/rtp/239.94.0.65:5140
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="高清", 深圳卫视高清 
-http://10.10.1.77:7777/rtp/239.94.0.66:5140
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="高清", 广东卫视高清 
 http://10.10.1.77:7777/rtp/239.94.0.67:5140
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="高清", 天津卫视高清 
@@ -130,6 +128,8 @@ http://10.10.1.77:7777/rtp/239.94.0.99:5140
 http://10.10.1.77:7777/rtp/239.94.0.101:5140
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" group-title="高清", 兵团卫视高清 
 http://10.10.1.77:7777/rtp/239.94.0.102:5140
+#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" group-title="高清", 北京纪实科教高清 
+http://10.10.1.77:7777/rtp/239.94.0.109:5140
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="高清", 重庆卫视高清 
 http://10.10.1.77:7777/rtp/239.94.0.82:5140
 #EXTINF:-1 tvg-id="CDTV-2" tvg-name="CDTV-2" group-title="高清", CDTV-2高清 

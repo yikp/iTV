@@ -60,6 +60,7 @@ function logo_name($name) {
     // 如果名字中包含cctv的话，去掉”-“
     $name = preg_replace('/CCTV-/i', 'cctv', $name);
     $name = preg_replace('/sctv6/i', 'sctv星空购物', $name);
+    $name = preg_replace('/cctv16 4K/i', 'cctv16', $name);
     $name = preg_replace('/cctv少儿/i', 'cctv14', $name);
     $name = preg_replace('/＋/u', '+', $name);
     return $name;

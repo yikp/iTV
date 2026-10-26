@@ -33,7 +33,7 @@ foreach ($channels as $channel) {
         }
         $logo_name = logo_name($name);
         $http_url = "http://10.10.1.77:7777/rtp/$channel[multicast_address]";
-        $new_m3u .= "#EXTINF:-1 tvg-id=\"$logo_name\" tvg-name=\"$logo_name\" group-title=\"$resolution\", $logo_name \n";
+        $new_m3u .= "#EXTINF:-1 tvg-id=\"$logo_name\" tvg-name=\"$logo_name\" tvg-logo=\"https://live.fanmingming.cn/tv/$logo_name.png\" group-title=\"$resolution\", $logo_name \n";
         $new_m3u .= "$http_url\n";
     }
 }

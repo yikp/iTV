@@ -2,7 +2,7 @@
 #EXT-X-APP
 #EXT-X-APTV-TYPE
 #EXT-X-SUB-URL https://raw.githubusercontent.com/yikp/iTV/main/iptv.m3u
-#EXT-X-GENERATED-TIME: 2026-11-09 03:40:12
+#EXT-X-GENERATED-TIME: 2026-11-16 03:49:01
 
 #EXTINF:-1 tvg-id="cctv1" tvg-name="cctv1" tvg-logo="https://raw.githubusercontent.com/yikp/iTV/main/logos/cctv1.png" group-title="高清", cctv1 
 http://10.10.1.77:7777/rtp/239.94.0.31:5140
@@ -56,8 +56,6 @@ http://10.10.1.77:7777/rtp/239.94.1.63:5140
 http://10.10.1.77:7777/rtp/239.94.0.61:5140
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/yikp/iTV/main/logos/江苏卫视.png" group-title="高清", 江苏卫视 
 http://10.10.1.77:7777/rtp/239.94.0.62:5140
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/yikp/iTV/main/logos/浙江卫视.png" group-title="高清", 浙江卫视 
-http://10.10.1.77:7777/rtp/239.94.0.63:5140
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/yikp/iTV/main/logos/东方卫视.png" group-title="高清", 东方卫视 
 http://10.10.1.77:7777/rtp/239.94.0.64:5140
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/yikp/iTV/main/logos/北京卫视.png" group-title="高清", 北京卫视 
@@ -252,8 +250,8 @@ http://10.10.1.77:7777/rtp/239.94.2.141:5140
 http://10.10.1.77:7777/rtp/239.94.2.144:5140
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://raw.githubusercontent.com/yikp/iTV/main/logos/CGTN俄语.png" group-title="高清", CGTN俄语 
 http://10.10.1.77:7777/rtp/239.94.2.145:5140
-#EXTINF:-1 tvg-id="爱喜剧" tvg-name="爱喜剧" tvg-logo="https://raw.githubusercontent.com/yikp/iTV/main/logos/爱喜剧.png" group-title="高清", 爱喜剧 
-http://10.10.1.77:7777/rtp/239.94.1.129:5140
+#EXTINF:-1 tvg-id="爱浪漫" tvg-name="爱浪漫" tvg-logo="https://raw.githubusercontent.com/yikp/iTV/main/logos/爱浪漫.png" group-title="高清", 爱浪漫 
+http://10.10.1.77:7777/rtp/239.94.1.128:5140
 #EXTINF:-1 tvg-id="爱奇谈" tvg-name="爱奇谈" tvg-logo="https://raw.githubusercontent.com/yikp/iTV/main/logos/爱奇谈.png" group-title="高清", 爱奇谈 
 http://10.10.1.77:7777/rtp/239.94.1.130:5140
 #EXTINF:-1 tvg-id="爱科幻" tvg-name="爱科幻" tvg-logo="https://raw.githubusercontent.com/yikp/iTV/main/logos/爱科幻.png" group-title="高清", 爱科幻 
